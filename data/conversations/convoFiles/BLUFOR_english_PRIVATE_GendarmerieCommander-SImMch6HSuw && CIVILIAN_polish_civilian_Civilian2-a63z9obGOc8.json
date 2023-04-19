@@ -1,0 +1,1131 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw && CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+        "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8"
+    ],
+    "situation": "",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681649437583,
+    "irlTimeLast": 1681726512671,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        7
+    ],
+    "messages": [
+        {
+            "content": "Everything good here still?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681649439797,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Yes, everything is good. Thank you for asking.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681649439797,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Everything good here still?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681649738107,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Everything is fine, thank you.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681649738107,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Everything good here still?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681650041362,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Yeah, everything's good. Just tending to my crops as usual.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681650041362,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Seen anything suscpicious?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681650626777,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "No, I haven't seen anything suspicious. I've been busy tending to my crops and livestock.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681650626777,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Anything new?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681650932219,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Not much, just tending to my crops and enjoying the peace of the countryside.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681650932219,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Seen anything suscpicious?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681651213573,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "No, everything has been quiet. Just the usual sounds of nature.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681651213573,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "How are things going?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681651787922,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Things are going well. Just taking care of my farm and enjoying the peaceful surroundings.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681651787922,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Any visitors?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681652213381,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "No visitors. Just me and my farm.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681652213381,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Everything good here still?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681702213497,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "We won't have any goods until next week. Sorry for the inconvenience.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681702213497,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "How are things going?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681703177678,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Sorry, sir. No goods yet. Come back next week.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681703177678,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Everything good here still?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681703608796,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Sorry, goods not here yet. Next week. Sorry.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681703608796,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "How are things going?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681703913530,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "I'm sorry sir, we don't have any goods at the store right now. They will be coming next week. I apologize for the inconvenience.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681703913530,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "How are things going?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681704859097,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "I am well, thank you. Just working on my farm as usual.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681704859097,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "How are things going?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681706060590,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Everything's fine, thank you. Just tending to my farm as usual.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681706060590,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "How are things going?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681706454427,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Things are going well, just tending to my crops and animals as usual. How about you?",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681706454427,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Any visitors?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681706762103,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "No, no one comes here often. It's peaceful.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681706762103,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "How are things going?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681707060804,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        },
+        {
+            "content": "I'm doing well, thank you for asking. Just tending to my crops and enjoying the quiet life.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681707060804,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        },
+        {
+            "content": "Any visitors?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681708218800,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "No, no one has passed through in a while. Just my farm animals and the occasional wildlife. Quiet life here.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681708218800,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "How are things going?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681708523343,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Things are going well, thank you for asking. The weather has been good for the crops and the animals are healthy. How about you?",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681708523343,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Any visitors?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681708833284,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        },
+        {
+            "content": "No visitors today, just tending to my crops and livestock.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681708833284,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        },
+        {
+            "content": "Seen anything suscpicious?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681709502721,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "No, I haven't seen anything suspicious. Just minding my own business like always.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681709502721,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "How are things going?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681709733633,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Things are going well, just handling my own affairs. No troubles here.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681709733633,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Any visitors?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681710036724,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "No, no visitors. Just tending to my crops and livestock as usual.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681710036724,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Anything new?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681710166242,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Nothing new. Just living my simple life as a farmer.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681710166242,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Seen anything suscpicious?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681710473605,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "No, I haven't seen anything suspicious. It's a quiet village here.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681710473605,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Everything good here still?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681711932820,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Yeah, everything is good and peaceful as always. How about you?",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681711932820,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Everything good here still?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681712236162,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Yeah, everything is good here. Just taking care of my crops and livestock like always. Enjoying the peace and quiet.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681712236162,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "How are things going?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681712532411,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        },
+        {
+            "content": "Everything is good here, just taking care of my crops and livestock like always. Enjoying the peace and quiet.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681712532411,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        },
+        {
+            "content": "Everything good here still?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681713027452,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Yes, everything is fine. Just tending to my crops and animals.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681713027452,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Anything new?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681713621485,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Not much, just tending to my crops as usual. The weather has been cooperative lately, so that's a relief.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681713621485,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Any visitors?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681715947854,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "No visitors today.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681715947854,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Everything good here still?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681716262901,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Everything is fine, thank you. Just enjoying the peaceful surroundings.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681716262901,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Anything new?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681716551799,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        },
+        {
+            "content": "No, nothing new. Same routine, day in and day out.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681716551799,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        },
+        {
+            "content": "Everything good here still?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681716874976,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Yes, everything is good. Just selling some crops at the market today.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681716874976,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Anything new?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681717441510,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "No, everything is the same as usual. Just the peaceful life of a farmer.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681717441510,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Any visitors?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681718078042,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Nie, dzisiaj tylko ja tu jestem.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681718078042,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "How are things going?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681718707743,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "I am doing well, thank you. Life on the farm is peaceful and I enjoy it.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681718707743,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "How are things going?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681719021014,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "I'm doing well, thank you. Just tending to my crops and animals as usual.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681719021014,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Everything good here still?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681719366759,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        },
+        {
+            "content": "Yes, everything is good. Just tending to the crops.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681719366760,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        },
+        {
+            "content": "Anything new?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681723398153,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Same old routine. Tending to my crops and livestock. Nothing exciting ever happens around here.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681723398153,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Everything good here still?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681723705536,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Yes, everything is fine. Just tending to my crops and livestock as usual.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681723705536,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Any visitors?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681724008127,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        },
+        {
+            "content": "No, I haven't seen any visitors today. It's quiet here in the village as usual.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681724008127,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        },
+        {
+            "content": "Anything new?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681724344292,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                17
+            ]
+        },
+        {
+            "content": "Not much, same as usual. Crops doing alright. Quiet around here.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681724344292,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                17
+            ]
+        },
+        {
+            "content": "How are things going?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681724960361,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Things are going well, thank you. Just tending to my crops and enjoying the beauty of the countryside. How about yourself?",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681724960361,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Seen anything suscpicious?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681726207621,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "No, I haven't seen anything out of the ordinary. Just tending to my crops as usual.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681726207621,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Everything good here still?",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681726512671,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Yeah, everything's good here. Just taking care of my farm and enjoying the peace and quiet.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681726512671,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        }
+    ]
+}

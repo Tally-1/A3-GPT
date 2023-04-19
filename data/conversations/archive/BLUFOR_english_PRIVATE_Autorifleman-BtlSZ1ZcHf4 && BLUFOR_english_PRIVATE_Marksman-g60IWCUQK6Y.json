@@ -1,0 +1,51 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-BtlSZ1ZcHf4 && BLUFOR_english_PRIVATE_Marksman-g60IWCUQK6Y.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-BtlSZ1ZcHf4",
+        "BLUFOR_english_PRIVATE_Marksman-g60IWCUQK6Y"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681450216783,
+    "irlTimeLast": 1681450217118,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        1
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        1
+    ],
+    "messages": [
+        {
+            "content": "Hey how are you?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-BtlSZ1ZcHf4",
+            "nodeTime": 1681450217118,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Request failed with status code 429",
+            "speaker": "BLUFOR_english_PRIVATE_Marksman-g60IWCUQK6Y",
+            "nodeTime": 1681450217118,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        }
+    ]
+}

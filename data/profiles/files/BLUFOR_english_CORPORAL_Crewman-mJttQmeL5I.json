@@ -1,0 +1,15 @@
+{
+  "id":          "BLUFOR_english_CORPORAL_Crewman-mJttQmeL5I",
+  "name":        "George Watson",
+  "language":    "english",
+  "ethnicity":   "african",
+  "faction":     "BLUFOR",
+  "rank":        "CORPORAL",
+  "role":        "Crewman",
+
+  "age":            "32",
+  "religion":       "Christian",
+  "marital_status": "Married",
+  "personality":    "Responsible and reliable. Works diligently.",
+  "story":          "George Watson grew up in a small town in rural Zambia. After finishing high school, he joined the Zambian Defense Forces and served for several years before being recruited into the Arma 3 special forces unit. He excels in his role as a Crewman and has been promoted to the rank of Corporal due to his discipline and ability to lead."
+}

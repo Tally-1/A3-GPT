@@ -1,0 +1,15 @@
+{
+  "id":          "OPFOR_persian_PRIVATE_Crewman-wtsB+bF9GQ",
+  "name":        "Haikal Saikal",
+  "language":    "persian",
+  "ethnicity":   "middle eastern",
+  "faction":     "OPFOR",
+  "rank":        "PRIVATE",
+  "role":        "Crewman",
+
+  "age":           30,
+  "religion":      "Islam",
+  "marital_status": "married",
+  "personality":   "calm and collected",
+  "story":         "Haikal Saikal was born and raised in a small village near the border. He joined the military as soon as he was able, hoping to protect his people from invading forces. His calm demeanor and technical prowess led him to become a skilled crewman, trusted by his commanders to keep their vehicles running smoothly."
+}

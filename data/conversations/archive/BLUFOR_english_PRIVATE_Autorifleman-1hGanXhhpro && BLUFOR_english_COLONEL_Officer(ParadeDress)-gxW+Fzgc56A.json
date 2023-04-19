@@ -1,0 +1,75 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A"
+    ],
+    "situation": "You both have the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (Agia Marina)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/><br/><br/>",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681630979444,
+    "irlTimeLast": 1681631015434,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        2
+    ],
+    "messages": [
+        {
+            "content": "hey man!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681630983201,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Hello Tally. Any updates on our mission to find the fisherman? We need to act swiftly and be prepared for any hostilities. Let's make sure our troops are ready and stay focused on our objective.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681630983201,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Sure, any news?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681631015434,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Negative, Tally. We have received no leads yet. Remain vigilant and keep your eyes peeled. We cannot afford to let the enemy slip away again. Follow my lead and we will make sure justice is served.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681631015434,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        }
+    ]
+}

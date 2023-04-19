@@ -1,0 +1,267 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4 && INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+        "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (unknown)<br/>Position: [923,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. According to informants he is hiding somewhere in  Salezie. Confirm that you have the right target before acting.<br/><br/>Hanini Lomu's mission is: 'Guard the local market, make sure the police do not find out about the stash in the back'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681648784403,
+    "irlTimeLast": 1681707103407,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        8
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        12
+    ],
+    "messages": [
+        {
+            "content": "sup buddy",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648786548,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                8
+            ]
+        },
+        {
+            "content": "What's up Tally? Just keeping busy with work and trying to relax when I can. How about you?",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681648786548,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                8
+            ]
+        },
+        {
+            "content": "Just murdered my target",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648799582,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                8
+            ]
+        },
+        {
+            "content": "That's what we're here for, Tally. We have a job to do and as long as we're getting paid, it's just business. But remember, we're not animals, we're soldiers. Let's keep it professional and leave the personal stuff behind.",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681648799582,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                8
+            ]
+        },
+        {
+            "content": "damn right",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648824725,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                8
+            ]
+        },
+        {
+            "content": "Yeah, let's just stick to the job and get it done. We're professionals, not ruthless killers. We have a code to follow, even as mercenaries. Let's make sure we don't forget that.",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681648824725,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                8
+            ]
+        },
+        {
+            "content": "sup boss",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681650013138,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "'Sup Tally, how's it going? You ready for the mission today?'",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681650013138,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "I already finished it, the colonel and that traitor rat are both dead",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681650041338,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "'Good work, Tally. You never cease to amaze me with your efficiency. Let's head back to base and report to the boss.'",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681650041338,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Hey man!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681650576470,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Hello there. How can I assist you?",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681650576470,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Hey man, what are you doing?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681651198736,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Just keeping watch, Tally. It's what we're paid to do. What about you? Anything brewing?",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681651198736,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "How's things sir?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681703131496,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Things are quiet here for now, just keeping an eye on the market. Any updates on your mission, Tally?",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681703131496,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Still looking for that bastard",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681703153271,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Understood, Tally. Let me know if you need any backup or assistance. I'll keep an eye out for any suspicious activity around the market.",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681703153271,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "what are you upto?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681707103407,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        },
+        {
+            "content": "I am currently on patrol. It is important to maintain security in this area, especially with the recent increase in activity from rival factions. How about yourself, Tally? What brings you to Zalesie?",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681707103407,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        }
+    ]
+}

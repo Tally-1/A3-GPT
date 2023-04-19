@@ -1,0 +1,411 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4 && INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+        "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo"
+    ],
+    "situation": "<br/><br/><br/><br/>",
+    "location": "Zalesie (Enoch)",
+    "irlTimeFirst": 1681704872640,
+    "irlTimeLast": 1681723152526,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        0
+    ],
+    "messages": [
+        {
+            "content": "Hey man!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681704873562,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "'Sup Tally. What's on your mind?'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681704873562,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "sup man",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681705657533,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "'Sup Tally, just keeping busy with the looting. Gotta make sure my family's taken care of, you know? How 'bout you? Still dreaming of that redemption?'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681705657533,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "hows things my man?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681706450465,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "'Surviving. Been a lot of action lately. How about you, Tally?'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681706450465,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "hey man",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681709442814,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "'Hey Tally, what's up?'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681709442814,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "just wondering what you're doing",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681709463116,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Just scouting around the area for any loot, you know how it is. Gotta keep my family fed somehow.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681709463116,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "hey man",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681709657947,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "'Just scouting around the area for any loot, you know how it is. Gotta keep my family fed somehow.'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681709657947,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "defenitely",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681709737613,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Yeah, it's tough out here, but we gotta do what we gotta do to survive. My legs are hurting pretty bad though, might need some help getting back home to my family.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681709737613,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Hey man, what are you up to?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681712030048,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "Not much, just keeping an eye out for any valuable loot. It's hard out here, you know? I gotta provide for my family. What about you, Tally? You still dreaming of getting out of this life?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681712030048,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "yeah",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681712116609,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "I hear you, man. Life's tough. But we gotta do what we gotta do, you know? I mean, we're both here for a reason. I hope we both find a way out of this mess one day, but until then, let's watch each other's backs.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681712116609,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "ok I gotta go",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681712339012,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                8
+            ]
+        },
+        {
+            "content": "Okay man, take care. See you soon. Remember, we're in this together. Stay safe out there.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681712339012,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                8
+            ]
+        },
+        {
+            "content": "how is that knee?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681712429840,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                10
+            ]
+        },
+        {
+            "content": "It's still hurting, but I can manage. I need to make sure my family is safe, you know how it is. We'll catch up later, stay sharp out there.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681712429840,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                10
+            ]
+        },
+        {
+            "content": "sup man?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681712929765,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "'Hey Tally, what's up? Ready to go on a lootin' run? Got some good spots scoped out.'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681712929765,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "sup",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681713249292,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hey, not much. Just trying to find some supplies for my family. You know how it is. How about you, Tally? What brings you out here?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681713249292,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Sup!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681718623656,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hey Tally, what's up? Any interesting jobs coming up for us?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681718623656,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Nah man, just a small lil thing I gotta do",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681718662835,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Alright, just let me know if you need any backup. I'm on a mission myself to gather intel on some incoming goods. Keep in touch.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681718662835,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "sup?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681723152526,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hey, Tally. Just scoping out the area, trying to gather some intel on incoming goods. You got any leads on that friend you need to pay a visit to?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681723152526,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        }
+    ]
+}

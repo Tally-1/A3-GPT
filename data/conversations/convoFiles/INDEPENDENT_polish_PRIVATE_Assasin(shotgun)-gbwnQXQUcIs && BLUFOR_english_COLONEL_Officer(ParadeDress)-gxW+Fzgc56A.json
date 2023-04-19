@@ -1,0 +1,363 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs && BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+        "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Take out the colonel'<br/><br/>Location: (Le Port)<br/>Position: [8164,3102]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Jake Jones`s mission is: Hide from criminal assasins. Henry Campbell's old enemies have sent armed criminals to take him out. <br/><br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1681788447300,
+    "irlTimeLast": 1681795736710,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        12,
+        3
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        12,
+        6
+    ],
+    "messages": [
+        {
+            "content": "Finally found you!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681788449716,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "What is your business here, soldier? This is a secure location and you look out of place.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681788449716,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Who told you i was a soldier?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681788472122,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "I can recognize a soldier when I see one. What is your mission and why are you here? I have no time for games.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681788472122,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "I am lloking for a BLufor colonel named Henry campbell",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681788520905,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "I am Colonel Henry Campbell. What do you want with me? Speak quickly or leave.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681788520905,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "Get on your knees",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681788553211,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "I will not comply. Who are you and what is your mission? If you're after me, you'll have to do better than that.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681788553211,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "Fine, suit yourself, give my salam to Maliki al maut",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681788587937,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "I will not cower to threats. Whoever sent you will not succeed. I am a loyal soldier and will defend my country until my dying breath.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681788587937,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Gotcha bitch!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681795529940,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Whoa, hold on there. I don't know what you're talking about. I'm just a regular officer doing my duty. Please, let's talk about this calmly and sort it out. We can come to an agreement.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681795529940,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "What is your name?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681795554139,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "My name is Jake Jones. Look, I don't want any trouble. I'm just trying to do my job and protect my men. I don't know anything about an assassination attempt on a Colonel. Let's work together to find a peaceful solution.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681795554139,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "You got ID?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681795590961,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "My identification is in my pocket. Please, just let me show it to you. You don't have to resort to violence. We can solve this peacefully.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681795590961,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "thank you",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681795608000,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "No problem. Just doing my duty, like I said. Glad we can solve this peacefully.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681795608000,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "So your I'd says Henry Campbell",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681795626001,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "That's not my name. My identification must be mistaken. I swear, I am not Henry Campbell. Please, let me prove my innocence.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681795626001,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "what is your rank?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681795646757,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "Colonel. My rank is Colonel. But please, I assure you, I am not who you're looking for. I just want to protect my men and complete my mission. I have important information that could benefit us both. Let me show you.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681795646757,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "Nah buddy, you should have offered money instead of lies, you forget I am a hired gun",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681795689350,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "I understand your position. I am willing to pay for your services to ensure the safety of myself and my men. Please, let's work together towards a peaceful solution.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681795689350,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "I suggest you say your prayers now",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681795713074,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "Please, I implore you. Spare my life and let me and my men continue to serve our country. We can work together towards a greater goal. Killing me will only bring chaos and dishonor. I am willing to do whatever it takes to ensure our safety and success.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681795713074,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "Ready?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681795736710,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "I may be wounded, but I am still a Colonel in the BLUFOR. You underestimated my skills and loyalty. You will regret coming after me.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681795736710,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                6
+            ]
+        }
+    ]
+}

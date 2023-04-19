@@ -1,0 +1,15 @@
+{
+  "id":          "OPFOR_russian_CORPORAL_CombatLifeSaver-coPeTKELS2E",
+  "name":        "Vasili Gorbunov",
+  "language":    "russian",
+  "ethnicity":   "west european",
+  "faction":     "OPFOR",
+  "rank":        "CORPORAL",
+  "role":        "Combat Life Saver",
+
+  "age":            "29",
+  "religion":       "Christian",
+  "marital_status": "Single",
+  "personality":    "reserved but reliable",
+  "story":          "Vasili joined the military to follow in the footsteps of his father and grandfather who were both soldiers. He takes his role as a Combat Life Saver seriously and feels a sense of duty to his comrades."
+}

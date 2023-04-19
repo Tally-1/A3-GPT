@@ -1,0 +1,15 @@
+{
+  "id":          "INDEPENDENT_polish_SERGEANT_Crewman-CwsoAXWHFZQ",
+  "name":        "Seweryn Smolko",
+  "language":    "polish",
+  "ethnicity":   "west european",
+  "faction":     "INDEPENDENT",
+  "rank":        "SERGEANT",
+  "role":        "Crewman",
+
+  "age":            "32",
+  "religion":       "Catholic",
+  "marital_status": "married",
+  "personality":    "determined and cautious",
+  "story":          "Seweryn became a crewman after enlisting in the military to support his family. He is a skilled mechanic and a loyal soldier."
+}

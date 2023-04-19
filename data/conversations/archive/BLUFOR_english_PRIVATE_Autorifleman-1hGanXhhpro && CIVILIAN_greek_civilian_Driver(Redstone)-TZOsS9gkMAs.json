@@ -1,0 +1,123 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_greek_civilian_Driver(Redstone)-TZOsS9gkMAs.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_greek_civilian_Driver(Redstone)-TZOsS9gkMAs"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681380176064,
+    "irlTimeLast": 1681381417110,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        19
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        39
+    ],
+    "messages": [
+        {
+            "content": "Hello!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681381340028,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                27
+            ]
+        },
+        {
+            "content": "'Hey there, how can I help you?'",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-TZOsS9gkMAs",
+            "nodeTime": 1681381340028,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                27
+            ]
+        },
+        {
+            "content": "I just wanted to know a little more about you",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681381365874,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                39
+            ]
+        },
+        {
+            "content": "Stefanos Petridis: 'Well, I'm just a driver for Redstone. I have a family and enjoy exploring new places when I'm not working.'",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-TZOsS9gkMAs",
+            "nodeTime": 1681381365874,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                39
+            ]
+        },
+        {
+            "content": "Tell me about your family",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681381408937,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                39
+            ]
+        },
+        {
+            "content": "Stefanos Petridis: 'I have a wife and two kids. We love spending time together and going on adventures.'",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-TZOsS9gkMAs",
+            "nodeTime": 1681381408937,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                39
+            ]
+        },
+        {
+            "content": "Sorry I did not catch that, please repeat",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681381417110,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                39
+            ]
+        },
+        {
+            "content": "Stefanos Petridis: 'No problem, I just said that I have a wife and two kids who I love spending time with.'",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-TZOsS9gkMAs",
+            "nodeTime": 1681381417110,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                39
+            ]
+        }
+    ]
+}

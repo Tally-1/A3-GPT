@@ -1,0 +1,390 @@
+{
+  "name": "Altis",
+  "size": "30720 sqKm2",
+  "locations": [
+    {
+      "name": "Pyrgos",
+      "position": [
+        16781,
+        12604
+      ],
+      "type": "city"
+    },
+    {
+      "name": "Athira",
+      "position": [
+        13993,
+        18709
+      ],
+      "type": "city"
+    },
+    {
+      "name": "Kavala",
+      "position": [
+        3459,
+        12966
+      ],
+      "type": "city"
+    },
+    {
+      "name": "Telos",
+      "position": [
+        16207,
+        17297
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Gravia",
+      "position": [
+        14480,
+        17614
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Charkia",
+      "position": [
+        18049,
+        15264
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Neochori",
+      "position": [
+        12502,
+        14337
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Lakka",
+      "position": [
+        12282,
+        15732
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Rodopoli",
+      "position": [
+        18753,
+        16597
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Dorida",
+      "position": [
+        19337,
+        13252
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Poliakko",
+      "position": [
+        10966,
+        13435
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Frini",
+      "position": [
+        14612,
+        20787
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Paros",
+      "position": [
+        20885,
+        16959
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Kalochori",
+      "position": [
+        21352,
+        16362
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Chalkeia",
+      "position": [
+        20195,
+        11661
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Agios Dionysios",
+      "position": [
+        9188,
+        15948
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Zaros",
+      "position": [
+        9092,
+        11962
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Syrta",
+      "position": [
+        8625,
+        18302
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Kore",
+      "position": [
+        7062,
+        16472
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Sofia",
+      "position": [
+        25681,
+        21365
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Molos",
+      "position": [
+        26944,
+        23171
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Anthrakia",
+      "position": [
+        16584,
+        16104
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Stavros",
+      "position": [
+        12950,
+        15042
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Kalithea",
+      "position": [
+        17827,
+        18129
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Katalaki",
+      "position": [
+        11701,
+        13672
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Nifi",
+      "position": [
+        19473,
+        15454
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Alikampos",
+      "position": [
+        11113,
+        14574
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Agios Petros",
+      "position": [
+        19339,
+        17642
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Koroni",
+      "position": [
+        11787,
+        18372
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Ifestiona",
+      "position": [
+        12787,
+        19679
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Agia Triada",
+      "position": [
+        16669,
+        20487
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Orino",
+      "position": [
+        10410,
+        17243
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Ekali",
+      "position": [
+        17060,
+        9992
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Therisa",
+      "position": [
+        10619,
+        12237
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Galati",
+      "position": [
+        10270,
+        19036
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Abdera",
+      "position": [
+        9425,
+        20284
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Topolia",
+      "position": [
+        7376,
+        15430
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Panagia",
+      "position": [
+        20490,
+        8907
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Ioannina",
+      "position": [
+        23200,
+        19987
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Delfinaki",
+      "position": [
+        23909,
+        20145
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Feres",
+      "position": [
+        21641,
+        7584
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Selakano",
+      "position": [
+        20770,
+        6736
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Negades",
+      "position": [
+        4886,
+        16171
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Panochori",
+      "position": [
+        5033,
+        11245
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Agios Konstantinos",
+      "position": [
+        3949,
+        17278
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Aggelochori",
+      "position": [
+        3688,
+        13776
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Neri",
+      "position": [
+        4116,
+        11736
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Oreokastro",
+      "position": [
+        4560,
+        21461
+      ],
+      "type": "minor location"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id":          "OPFOR_russian_PRIVATE_Rifleman(AT)-1WPngxBKUg",
+  "name":        "Dimitri Glebov",
+  "language":    "russian",
+  "ethnicity":   "west european",
+  "faction":     "OPFOR",
+  "rank":        "PRIVATE",
+  "role":        "Rifleman (AT)",
+
+  "age":            "32",
+  "religion":       "Christian",
+  "marital_status": "Married",
+  "personality":    "Calm and collected",
+  "story":          "Dimitri grew up in a small village outside of Moscow. He joined the military straight out of high school and has been serving ever since. He is a skilled marksman and has a reputation for being very focused in combat."
+}

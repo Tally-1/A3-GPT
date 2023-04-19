@@ -1,0 +1,267 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4 && INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+        "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (unknown)<br/>Position: [924,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. According to informants he is hiding somewhere in  Salezie. Confirm that you have the right target before acting.<br/><br/>Aleksander Rabinowitz's mission is: 'Find  a (Criminal (Shotgun)) and tell him that the target Colonel  Henry Campbell is hiding inside the church.'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681643050908,
+    "irlTimeLast": 1681646990410,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "messages": [
+        {
+            "content": "Sup brother!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681643054641,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Hey man, I got some intel for you. The target, Colonel Henry Campbell, is holed up in the church in Salezie. You're the one with the shotgun, right? Good luck.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681643054641,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "thank you, stay here and watch out for the cops",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681643087537,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Got it, Tally. I'll keep an eye out for any trouble. Good luck with the mission.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681643087537,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "The Guy in the church says he is Terrence robinson, are you sure that is the guy I am looking for?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681643235048,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "Positive, Tally. That's the guy you're looking for. Good luck with the mission, keep me updated.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681643235048,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "I got the cunt",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681643385070,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "Good work, Tally. I knew you could handle it. Let's get out of here before any cops show up. Meet me at the safehouse and we'll split the earnings. Don't want to stick around here for too long. Move fast and stay alert.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681643385070,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "Whats up bro?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681646231151,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "'Sup Tally. Just checking out the scene here in Enoch. It's a crazy place, man. But I'm always up for some action. You got any gigs lined up? I'm itching to use my SMG.'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681646231151,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "I am looking for a colonel",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681646261807,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Do you have any specific targets, Tally? I can help you scout out any potential marks, but I need a location to start with.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681646261807,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "His name is henry and he should be in this town",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681646293524,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Sure thing, Tally. Do you have any idea where in the town we should start looking? Give me a direction and distance from your current location and I'll start scouting the area.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681646293524,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "whats up?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681646895163,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Not much, just keeping busy. You know how it is. How about you? Anything interesting going on?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681646895163,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "looking for a guy",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681646972573,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Sure, what kind of guy? Need some muscle or just someone to disappear? I'm always up for a good job.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681646972573,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "A colonel, do you know where he is?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681646990410,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Sorry, I don't have that information. But, I can find it for you. Can you give me his name and any other details you have?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681646990410,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        }
+    ]
+}

@@ -1,0 +1,651 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4 && BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+        "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (unknown)<br/>Position: [923,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. According to informants he is hiding somewhere in  Salezie. Confirm that you have the right target before acting.<br/><br/>Henry Campbell's mission is: 'Hide from criminal assasins. Your old enemies have sent independent contractors to take you out. Stay alive at all costs'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681647139127,
+    "irlTimeLast": 1681702190835,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "messages": [
+        {
+            "content": "whats up?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647142082,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Not much, Tally. Just waiting for our orders. I hope this job won't be too difficult. I'm ready for anything though.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681647142082,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "whats your name?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647160356,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "My name is Henry Campbell. But you can call me sir or Colonel. I'm the commanding officer of this mission. We'll be working together, so let's make sure we get the job done efficiently and without any complications.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681647160356,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Good I have been looking for you!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647186021,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "What do you need, Tally? Remember, we're here for a job. Let's stay focused on completing it successfully. I'm counting on you as part of my team.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681647186021,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "what is the mission?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647224847,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Our mission is to extract a valuable asset from a hostile territory. Our intel suggests that the asset is being held at a heavily guarded compound. Our objective is to infiltrate the compound, retrieve the asset, and extract it safely. I expect everything to go smoothly, but we need to be prepared for any contingency. Are you ready, Tally?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681647224847,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "sup",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647772950,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "Hello Tally, what brings you to Enoch? What kind of job are you looking for?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681647772950,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "Bossman told me to take care of you",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647795140,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Ah, good to know. I'll make sure to give you any assignments that come up. Just remember to be discreet and efficient, Tally.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681647795140,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "To kill you sonso",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647811906,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "I'm afraid that's not going to happen, Tally. You see, I value my life and I have no intention of letting someone like you take it away. So unless you want to end up on the losing end, I suggest you back off and find some other job to do. Good day.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681647811906,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "hands up henry!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648641112,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "What is the meaning of this, Tally? You know the consequences of pointing a weapon at a high-ranking officer. Lower your shotgun and we can discuss this like civilized individuals.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681648641112,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "So you are henry",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648660059,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "Yes, I am Colonel Henry Campbell. And as a high-ranking officer, I demand that you lower your weapon and surrender yourself peacefully. There is no need for violence, Tally. Let's resolve this in a civil manner.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681648660059,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "What do you have to offer then?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648680402,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "We can offer you a fair trial and potential leniency based on your cooperation. Resisting arrest and assaulting an officer will only make your situation worse. Put down your weapon and we can resolve this peacefully.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681648680402,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "yeah buddy I don't think so",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648707462,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "You leave me no choice, Tally. I will have to use force to bring you in. Do not make this harder for yourself. Surrender now and we can avoid any further violence. The choice is yours.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681648707462,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "Seems like your hurt",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648731930,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "I am not hurt, Tally. But if you continue to resist arrest, it will only end badly for you. I advise you to give up now and face the consequences of your actions. Violence will not solve anything.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681648731930,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Say your last prayer",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648749976,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "I do not fear death, Tally. But I must warn you, my men will not let you leave this place alive. You have made a grave mistake in underestimating the strength of BLUFOR. Surrender now and we can end this peacefully. The choice is yours.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681648749976,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Hey bitch boy",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681649779511,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "I will not respond to that kind of language, Tally. As a Colonel in the military, I expect proper respect from those I interact with. Let's keep it professional.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681649779511,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "I need your name",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681649793813,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "My name is Henry Campbell. And before you ask, I am a Colonel in the BLUFOR military. What is it that you need from me, Tally? And please remember to keep the conversation professional.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681649793813,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "Just needed to confirm your name, my associate tried protecting you, he is now dead",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681649833919,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "What do you want, Tally? My condolences for your loss, but I have no interest in whatever business you're involved in. Let's end this conversation now.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681649833919,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "A dead traitor is not a loss, and you know very well why I am here",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681649861405,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "I have no idea what you're talking about. Whatever you think I'm involved in, you're wrong. I suggest you leave now before things escalate.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681649861405,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "I'll shoot you in the balls first",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681649899686,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "I will not be threatened or intimidated, Tally. If violence is what you seek, you will find it. But the consequences will be severe. Leave now before it's too late.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681649899686,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "how that feel?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681649921286,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "You may have shot me, but you will never win. My duty to my country and my loyalty to my men are stronger than any threat you pose. You may take my life, but you will never take my spirit.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681649921286,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "Sir I need to confirm your ID",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681650861436,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "I can assure you, Tally, that my identification is valid and up-to-date. As a Colonel in the BLUFOR military, it is my duty to carry the proper identification at all times. Is there something specific you needed to confirm, or can we move forward with our business?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681650861436,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "I need to confirm your name",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681650897088,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "That's correct, Tally. My name is Henry Campbell, Colonel in the BLUFOR military. Now, can you tell me more about the job you need me for? Time is of the essence.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681650897088,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "I need to execute you sorry, bosses orders",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681650927966,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Whoa now, Tally, let's talk about this before anyone does anything they'll regret. I'm sure we can find a way to work things out without resorting to violence. After all, killing a BLUFOR officer wouldn't exactly do wonders for your reputation, now would it? Let's be reasonable here.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681650927966,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Henry I assume?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681702138155,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "I'm sorry, I don't know what you're talking about. I'm Colonel Robinson, and I'm here on a scheduled visit to a friend.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681702138155,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "You got id?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681702157591,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Yes, of course. Here you are. (Hands over ID)",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681702157591,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "This says Henry Campbell",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681702173834,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Yes, that's my birth name. But I go by Terrence Robinson now. Is there a problem?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681702173834,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Say your last prayers ninja",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681702190835,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "I won't be praying for myself. But I will pray that you see the error of your ways and turn away from this path of violence. Remember, every action has consequences. Think about that before you pull the trigger.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681702190835,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        }
+    ]
+}

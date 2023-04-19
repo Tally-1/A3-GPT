@@ -1,0 +1,75 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4 && INDEPENDENT_french_PRIVATE_Guard(MachineGun)-48hFRURmZM8.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+        "INDEPENDENT_french_PRIVATE_Guard(MachineGun)-48hFRURmZM8"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (unknown)<br/>Position: [924,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. According to informants he is hiding somewhere in  Salezie. Confirm that you have the right target before acting.<br/><br/>Tane Bole's mission is: 'Guard the local market, make sure the police do not find out about the stash in the back'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681643434570,
+    "irlTimeLast": 1681643470304,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        7
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        8
+    ],
+    "messages": [
+        {
+            "content": "sup",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681643437064,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "'Sup, Tally. Just guarding the local market like I was ordered. You have any updates on your mission?'",
+            "speaker": "INDEPENDENT_french_PRIVATE_Guard(MachineGun)-48hFRURmZM8",
+            "nodeTime": 1681643437064,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "yeah, it is going good I already put down the dog",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681643470304,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                8
+            ]
+        },
+        {
+            "content": "Uh, okay. Just remember to be careful out there. I don't want the police causing any problems for us at the market. Keep me updated on your progress.",
+            "speaker": "INDEPENDENT_french_PRIVATE_Guard(MachineGun)-48hFRURmZM8",
+            "nodeTime": 1681643470304,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                8
+            ]
+        }
+    ]
+}

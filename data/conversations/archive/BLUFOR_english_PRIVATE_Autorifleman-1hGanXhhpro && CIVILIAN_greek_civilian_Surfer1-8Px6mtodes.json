@@ -1,0 +1,51 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_greek_civilian_Surfer1-8Px6mtodes.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_greek_civilian_Surfer1-8Px6mtodes"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681381978555,
+    "irlTimeLast": 1681381997142,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        49
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        49
+    ],
+    "messages": [
+        {
+            "content": "How's things?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681381997142,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                49
+            ]
+        },
+        {
+            "content": "'Riding waves and enjoying the sun, can't complain. How about you, soldier?'",
+            "speaker": "CIVILIAN_greek_civilian_Surfer1-8Px6mtodes",
+            "nodeTime": 1681381997142,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                49
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "id":          "OPFOR_russian_PRIVATE_Rifleman(AT)-Zb9mTRap7qI",
+  "name":        "Vasil Zhitkov",
+  "language":    "russian",
+  "ethnicity":   "west european",
+  "faction":     "OPFOR",
+  "rank":        "PRIVATE",
+  "role":        "Rifleman (AT)",
+
+  "age":            27,
+  "religion":       "Orthodox Christian",
+  "marital_status": "single",
+  "personality":    "quiet and reserved",
+  "story":          "Vasil grew up in a small village in western Russia. He joined the military at a young age and has since become a highly skilled soldier. He is quiet and reserved, keeping to himself most of the time. In his free time, he likes to read and listen to music."
+}

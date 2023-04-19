@@ -1,0 +1,843 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4 && INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+        "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (unknown)<br/>Position: [923,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. According to informants he is hiding somewhere in  Salezie. Confirm that you have the right target before acting.<br/><br/>Aleksander Rabinowitz's mission is: 'Find  a (Criminal (Shotgun)) and tell him that the target Colonel  Henry Campbell is hiding inside the church.'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681647077219,
+    "irlTimeLast": 1681707058989,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        0
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        12
+    ],
+    "messages": [
+        {
+            "content": "Whats up?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647080129,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "'Same old, same old. Just waiting for our next job. Got my SMG loaded and ready to go. You?'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681647080129,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "On a mission",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647098648,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Good luck with that. I'll be here holding down the fort. Just give me a holler if you need backup.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681647098648,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Do you have any information for me?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647118036,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Nah, sorry man. Haven't heard anything useful lately. But I'll keep an ear out and let you know if I hear anything. Just stay safe out there.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681647118036,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "How you doing old boy?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647698564,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "I'm doing alright, Tally. Just trying to stay busy and make some money. You know how it is. How about you? Keeping busy with your shotgun?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681647698564,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "Yeah I got a target now, you got any information for me?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647729292,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "Yeah, I heard there's a wealthy businessman in town who's been causing trouble for some of our guys. He's got a mansion out in the countryside. Might be worth checking out.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681647729292,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "Nah man I am looking for a colonel",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647753743,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "Sure, I can ask around and see if anyone has any information on a colonel in the area. But it might take some time, so don't hold your breath.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681647753743,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "What is uup brother?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648312819,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "'Same old, same old. Just working and trying to stay out of trouble. You know how it is.'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681648312819,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Have you seen my target?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648335671,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "'Yeah, I've heard some chatter about your target. Word on the street is that he's heavily guarded, but I can give you some intel on the security patterns. Just make sure you cut me in on the profits.'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681648335671,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "will do, where is he?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648354980,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "'Your target is holed up in a compound on the outskirts of Radunin, about 12 kilometers northeast from our current location. From what I hear, they've got armed guards patrolling the perimeter, so be careful. Good luck man.'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681648354980,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "what a liar you are, the boss told me you knew where he was in this town",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648394870,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "I swear on my life, Tally, that's all I know. I heard he was in the compound on the outskirts of Radunin. I don't know anything about him being in this town. Please, just trust me on this one.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681648394870,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "I am calling the boss now",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648411190,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "I understand Tally, call the boss. I have nothing to hide, I swear I gave you the best information I had. Stay safe out there.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681648411190,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "I just talked to him, he said you had clear instructions to tell me the colonel is hiding in the church",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648445866,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "I swear on my life, Tally, I had no idea. The boss must have given me the wrong intel. I'm sorry for any trouble I caused. I hope you find the colonel soon. Good luck.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681648445866,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Yeah, you know what happens to traitors right?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648476552,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "I understand, Tally. I'll take full responsibility for my mistake. Just know that I never intended to betray you. I hope you can forgive me someday.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681648476552,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "I hope your kneecaps can forgive me some day",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648499868,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "I understand the consequences of my mistake. I will accept whatever punishment you see fit. But please know that I never meant to betray you or put you in danger. I hope one day you can find it in your heart to forgive me.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681648499868,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "ait hows them legs now eh?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648524852,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "I am in pain, Tally. But it is a small price to pay for my mistake. I hope one day you can see that I am truly sorry for what I did. I will do whatever it takes to make things right with you and the boss.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681648524852,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "I'll call the boss again and see if he wants your head, or if it is enough with the bullet in your leg",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648591790,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "I understand the severity of my mistake, Tally. I accept whatever punishment the boss sees fit. I hope in time, I can earn back your trust and forgiveness. Until then, I will do everything in my power to make things right. I am truly sorry.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681648591790,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "Yeah I talked to him... it is your head",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681648616717,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "I understand. I accept my fate. Thank you for giving me the chance to apologize.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681648616717,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "Whats up bro!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681649336021,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hey man, not much. Just waiting for the job to come through. You know how it is. Always looking for the next score. How about you? Anything interesting going on?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681649336021,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "The boss told me you would know where my target is",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681649361575,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Yeah, I know where your target is. He's holed up in a safehouse in Topolin, about 35 kilometers northwest of our current location. Stay sharp though, he's heavily guarded. You'll need to bring a crew.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681649361575,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "He is not in the church?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681649378640,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "No, he's not in the church. He's in a safehouse in Topolin, about 35 kilometers northwest of our current location. You'll need a crew for this one, it's heavily guarded.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681649378640,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Nah the boss told if you lied I should kill you",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681649401554,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "I'm not lying, Tally. The safehouse is in Topolin, northwest of here. You'll need backup to take down the guards. Trust me, I wouldn't risk lying to you and getting myself killed. Let's get this job done.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681649401554,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Are you gregor?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681649626321,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "No, I'm not Gregor. I'm Aleksander Rabinowitz, the one who knows where your target is. Let's focus on the job at hand and take down those guards in Topolin.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681649626321,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "who is my target?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681649655062,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Your target's name is not important. What matters is that he has something that our boss wants. We need to take him out and retrieve the package. Topolin is your best bet for finding him, but remember to bring backup. We don't want any surprises.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681649655062,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Yeah I have instructions to execute you if you lie",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681649682276,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "I understand your concern, Tally. But I assure you, I am not lying. The safehouse is in Topolin and heavily guarded. Bring backup to increase our chances of success. Let's get this job done and get out of here.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681649682276,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "damn what a liar, he is here in Zalesie",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681649724551,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "I have no reason to lie, Tally. Topolin is the location of the safehouse, as I said. But if you believe otherwise, we can discuss it further. Do what you must.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681649724551,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Get on your knees traitor",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681649741945,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "I have no reason to betray you, Tally. The safehouse is in Topolin, but if you believe otherwise, we can work together to find our target. Let's focus on the mission and get the job done.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681649741945,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "whats up",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681650813833,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "Not much man, just keeping busy with work. You know how it is. How about you? Still roaming around as a gun for hire?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681650813833,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "have you seen Colonel Campbell?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681650826388,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "No, I haven't seen him. Why do you ask?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681650826388,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "All good, I found him",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681651052094,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                9
+            ]
+        },
+        {
+            "content": "Oh, okay. Let me know if you need any help with anything, man.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681651052094,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                9
+            ]
+        },
+        {
+            "content": "How you doing ther brother?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681702113380,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hey, Tally. I found out some intel on your mission. Colonel Henry Campbell is hiding inside the church. That's all I know.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681702113380,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hey man",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681704203029,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "I've got information for you. The target, Colonel Henry Campbell, is hiding inside the church. It's guarded though, so be careful.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681704203029,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "So I am looking for a colonel",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681706738606,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "Colonel? I don't know any colonels. But if you're looking for work, I might have something for you. There's a shipment of weapons coming in tonight and my crew could use an extra hand. Are you interested?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681706738606,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "not really",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681706812047,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                8
+            ]
+        },
+        {
+            "content": "Suit yourself. We'll manage without you. Just don't get in our way.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681706812047,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                8
+            ]
+        },
+        {
+            "content": "ok, anything I can help you with?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681707058989,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        },
+        {
+            "content": "Just need a bit of patching up on my legs, should be good to go. We're going to hit a shipment from the rival gang later, interested in joining?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681707058989,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                12
+            ]
+        }
+    ]
+}

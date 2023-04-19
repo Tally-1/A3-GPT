@@ -1,0 +1,75 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_HelicopterPilot-SEmMc3AIoWg && CIVILIAN_french_civilian_Civilian(Summer)2-a63z9obGOc8.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_HelicopterPilot-SEmMc3AIoWg",
+        "CIVILIAN_french_civilian_Civilian(Summer)2-a63z9obGOc8"
+    ],
+    "situation": "<br/><br/><br/><br/>",
+    "location": "unknown (Altis)",
+    "irlTimeFirst": 1681633159435,
+    "irlTimeLast": 1681633184142,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        12,
+        1
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        12,
+        2
+    ],
+    "messages": [
+        {
+            "content": "hey ugly",
+            "speaker": "BLUFOR_english_PRIVATE_HelicopterPilot-SEmMc3AIoWg",
+            "nodeTime": 1681633162346,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "'Excuse me, sir? I don't appreciate being spoken to in such a manner. Can I help you with something?'",
+            "speaker": "CIVILIAN_french_civilian_Civilian(Summer)2-a63z9obGOc8",
+            "nodeTime": 1681633162346,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "careful or you get another one in your belly",
+            "speaker": "BLUFOR_english_PRIVATE_HelicopterPilot-SEmMc3AIoWg",
+            "nodeTime": 1681633184142,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "I don't want any trouble. Please, can you help me? My legs are badly hurt.",
+            "speaker": "CIVILIAN_french_civilian_Civilian(Summer)2-a63z9obGOc8",
+            "nodeTime": 1681633184142,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        }
+    ]
+}

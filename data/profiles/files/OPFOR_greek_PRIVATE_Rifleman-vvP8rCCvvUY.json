@@ -1,0 +1,15 @@
+{
+  "id":          "OPFOR_greek_PRIVATE_Rifleman-vvP8rCCvvUY",
+  "name":        "Argyris Kammenou",
+  "language":    "greek",
+  "ethnicity":   "south european",
+  "faction":     "OPFOR",
+  "rank":        "PRIVATE",
+  "role":        "Rifleman",
+
+  "age":            28,
+  "religion":       "Greek Orthodox",
+  "marital_status": "Single",
+  "personality":    "Quiet and dedicated",
+  "story":          "Born and raised in a small village in Greece, Argyris joined the military to gain employment and provide for his family. He takes his job very seriously, but struggles to come out of his shell socially."
+}

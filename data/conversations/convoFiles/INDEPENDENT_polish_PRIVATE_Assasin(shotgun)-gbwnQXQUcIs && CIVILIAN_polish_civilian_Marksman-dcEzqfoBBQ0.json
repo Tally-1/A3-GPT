@@ -1,0 +1,75 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs && CIVILIAN_polish_civilian_Marksman-dcEzqfoBBQ0.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+        "CIVILIAN_polish_civilian_Marksman-dcEzqfoBBQ0"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Take out the colonel'<br/><br/>Location: (Le Port)<br/>Position: [8210,3093]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1681787029981,
+    "irlTimeLast": 1681787042559,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        12,
+        5
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        12,
+        5
+    ],
+    "messages": [
+        {
+            "content": "Sup man",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681787031199,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Hey, what's up?",
+            "speaker": "CIVILIAN_polish_civilian_Marksman-dcEzqfoBBQ0",
+            "nodeTime": 1681787031199,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "What are you doing here?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681787042559,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Just passing through. What about you?",
+            "speaker": "CIVILIAN_polish_civilian_Marksman-dcEzqfoBBQ0",
+            "nodeTime": 1681787042559,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                5
+            ]
+        }
+    ]
+}

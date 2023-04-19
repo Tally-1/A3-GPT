@@ -1,0 +1,70 @@
+{
+  "name": "Stratis",
+  "size": "8192 sqKm2",
+  "locations": [
+    {
+      "name": "Agia Marina",
+      "position": [
+        2915,
+        6165
+      ],
+      "type": "city"
+    },
+    {
+      "name": "Girna",
+      "position": [
+        1935,
+        2723
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Stratis Air Base",
+      "position": [
+        1987,
+        5626
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Air Station Mike-26",
+      "position": [
+        4279,
+        3856
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Camp Maxwell",
+      "position": [
+        3253,
+        2984
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Camp Rogain",
+      "position": [
+        4886,
+        5948
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Camp Tempest",
+      "position": [
+        1942,
+        3557
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Kamino Firing Range",
+      "position": [
+        6402,
+        5427
+      ],
+      "type": "minor location"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_unknown_civilian_Journalist(War)-aBS1MtohYtI.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_unknown_civilian_Journalist(War)-aBS1MtohYtI"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681518397632,
+    "irlTimeLast": 1681630938643,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        34
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        1
+    ],
+    "messages": [
+        {
+            "content": "what languages do you speak?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681518400259,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                34
+            ]
+        },
+        {
+            "content": "I speak multiple languages, including English, Greek, and a bit of Spanish. It's important for my job as a journalist to be able to communicate with a diverse range of people. What about you, Tally? How many languages do you know?",
+            "speaker": "CIVILIAN_unknown_civilian_Journalist(War)-aBS1MtohYtI",
+            "nodeTime": 1681518400259,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                34
+            ]
+        },
+        {
+            "content": "Norwegian and spanish",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681518431171,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                35
+            ]
+        },
+        {
+            "content": "Nikos nods. That's impressive, Tally. It's always helpful to know more than one language, especially in a situation like this. Are you enjoying your time here in Stratis? he asks, shifting his focus to the present moment.",
+            "speaker": "CIVILIAN_unknown_civilian_Journalist(War)-aBS1MtohYtI",
+            "nodeTime": 1681518431171,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                35
+            ]
+        },
+        {
+            "content": "Wanna speak in spanish?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681518503514,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                36
+            ]
+        },
+        {
+            "content": "Nikos smiles and says, Por supuesto, Tally. Me encantaría practicar mi español contigo. ¿Cómo estás manejando la situación aquí en Stratis?",
+            "speaker": "CIVILIAN_unknown_civilian_Journalist(War)-aBS1MtohYtI",
+            "nodeTime": 1681518503514,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                36
+            ]
+        },
+        {
+            "content": "Primero quiero saber donde queda air station mike",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681518702444,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                40
+            ]
+        },
+        {
+            "content": "It's located southeast of Agia Marina, about 5 kilometers away. Have you had a mission there, Tally?",
+            "speaker": "CIVILIAN_unknown_civilian_Journalist(War)-aBS1MtohYtI",
+            "nodeTime": 1681518702444,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                40
+            ]
+        },
+        {
+            "content": "Hey man, how's things?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681630924273,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "'Hello, things are hectic as always in a warzone. What brings you to Agia Marina?'",
+            "speaker": "CIVILIAN_unknown_civilian_Journalist(War)-aBS1MtohYtI",
+            "nodeTime": 1681630924273,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Looking for a infiltrator",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681630938643,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "'An infiltrator? That sounds serious. Who are you looking for and why?'",
+            "speaker": "CIVILIAN_unknown_civilian_Journalist(War)-aBS1MtohYtI",
+            "nodeTime": 1681630938643,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        }
+    ]
+}

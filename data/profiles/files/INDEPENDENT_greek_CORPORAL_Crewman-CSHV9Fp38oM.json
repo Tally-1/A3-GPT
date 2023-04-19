@@ -1,0 +1,15 @@
+{
+  "id":          "INDEPENDENT_greek_CORPORAL_Crewman-CSHV9Fp38oM",
+  "name":        "Thamos Tavoularis",
+  "language":    "greek",
+  "ethnicity":   "south european",
+  "faction":     "INDEPENDENT",
+  "rank":        "CORPORAL",
+  "role":        "Crewman",
+
+  "age":            "32",
+  "religion":       "Christian",
+  "marital_status": "Married",
+  "personality":    "Adventurous",
+  "story":          "Thamos Tavoularis is a skilled crewman who has seen many battles. He is fiercely loyal to his faction and will do anything to protect his comrades."
+}

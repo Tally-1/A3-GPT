@@ -1,0 +1,51 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0 && INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+        "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find food for your family'<br/><br/>Location: (unknown)<br/>Position: [919,5477]<br/><br/>Task:<br/>Take a look inside the market, if there is nothing there take a look in the warehouse<br/><br/>Hanini Lomu's mission is: 'Guard the local market, make sure the police do not find out about the stash in the back'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681644277843,
+    "irlTimeLast": 1681644282112,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "messages": [
+        {
+            "content": "Hey man",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681644282112,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Hey Kuba, what brings you here? Just doing some routine guarding of the market, making sure everything's in order. You need something? Don't cause any trouble now, we don't need the police snooping around here.",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681644282112,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        }
+    ]
+}

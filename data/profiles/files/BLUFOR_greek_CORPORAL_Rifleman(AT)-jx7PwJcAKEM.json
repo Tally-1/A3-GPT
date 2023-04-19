@@ -1,0 +1,15 @@
+{
+  "id":          "BLUFOR_greek_CORPORAL_Rifleman(AT)-jx7PwJcAKEM",
+  "name":        "Samaras Athanasiadis",
+  "language":    "greek",
+  "ethnicity":   "south european",
+  "faction":     "BLUFOR",
+  "rank":        "CORPORAL",
+  "role":        "Rifleman (AT)",
+
+  "age":            "29",
+  "religion":       "Christian",
+  "marital_status": "Married",
+  "personality":    "Loyal and disciplined",
+  "story":          "Samaras comes from a family with a long history of service in the Greek military. He joined the BLUFOR forces to continue that tradition and fight for his country. He is a skilled rifleman and takes pride in his ability to take out enemy armor with his AT launcher."
+}

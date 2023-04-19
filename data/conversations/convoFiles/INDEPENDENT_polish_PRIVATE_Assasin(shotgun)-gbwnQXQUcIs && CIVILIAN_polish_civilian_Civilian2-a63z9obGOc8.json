@@ -1,0 +1,99 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs && CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+        "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Take out the colonel'<br/><br/>Location: (Le Port)<br/>Position: [8164,3102]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Donald Nowak`s mission is: Apologize to all customers and tell them that the Kebab supply is delayed due to terrorist activity.<br/><br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1681788635398,
+    "irlTimeLast": 1681795425124,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        12,
+        6
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        12,
+        1
+    ],
+    "messages": [
+        {
+            "content": "hey!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681788637843,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "'Hello, how can I help you?'",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681788637843,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "I want a coke and a burger",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681788668506,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "'I'm sorry, sir. We don't serve coke or burgers here. We only have kebab, but the supply is delayed due to terrorist activity. I apologize for the inconvenience.'",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681788668506,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "Hey I want a burger, and make it quick!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681795425124,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "I'm sorry, sir. There is a delay in the kebab supply due to terrorist activity in the area. We apologize for the inconvenience.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681795425124,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                1
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4 && INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+        "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48"
+    ],
+    "situation": "<br/><br/><br/><br/>",
+    "location": "Zalesie (Enoch)",
+    "irlTimeFirst": 1681709521023,
+    "irlTimeLast": 1681719283752,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        11
+    ],
+    "messages": [
+        {
+            "content": "whats up man?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681709522442,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Not much, Tally. Just keeping watch and staying alert. How about you? Any trouble lately?",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681709522442,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "all tranquilo?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681719283752,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                11
+            ]
+        },
+        {
+            "content": "Yeah, everything's under control. How about you? Need any backup for your mission?",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681719283752,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                11
+            ]
+        }
+    ]
+}

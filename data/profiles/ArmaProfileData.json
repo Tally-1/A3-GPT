@@ -1,0 +1,2540 @@
+[
+  [
+    "Azim Yusufzai",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Squad Leader",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_SquadLeader-ESzpUdTFa5o"
+  ],
+  [
+    "Hussein Wardak",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Autorifleman",
+    "PRIVATE",
+    "OPFOR_persian_PRIVATE_Autorifleman-6oCoC6VCfsQ"
+  ],
+  [
+    "Abdul-Latif Shah",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Grenadier",
+    "CORPORAL",
+    "OPFOR_persian_CORPORAL_Grenadier-22XnpouiUDc"
+  ],
+  [
+    "Sadat Mohammadi",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Marksman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Marksman-bCIdZNOS9c"
+  ],
+  [
+    "Abdul-Qadir Kakar",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Missile Specialist (AT)",
+    "CORPORAL",
+    "OPFOR_persian_CORPORAL_MissileSpecialist(AT)-FdKbXHvmmKQ"
+  ],
+  [
+    "Haikal Jawadi",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Asst. Missile Specialist (AT)",
+    "PRIVATE",
+    "OPFOR_persian_PRIVATE_Asst.MissileSpecialist(AT)-IfVEtVmGFpo"
+  ],
+  [
+    "Khalil Yusufzai",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Ammo Bearer",
+    "PRIVATE",
+    "OPFOR_persian_PRIVATE_AmmoBearer-fUxHCBhTKxw"
+  ],
+  [
+    "Luqman Sabet",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Combat Life Saver",
+    "PRIVATE",
+    "OPFOR_persian_PRIVATE_CombatLifeSaver-6UTwfZS2CY"
+  ],
+  [
+    "Thamos Floros",
+    "greek",
+    "south european",
+    "OPFOR",
+    "Squad Leader",
+    "SERGEANT",
+    "OPFOR_greek_SERGEANT_SquadLeader-pVIZpdWi7aY"
+  ],
+  [
+    "Sotiris Petridis",
+    "greek",
+    "south european",
+    "OPFOR",
+    "Autorifleman",
+    "PRIVATE",
+    "OPFOR_greek_PRIVATE_Autorifleman-riqhSZvuEkc"
+  ],
+  [
+    "Giorgos Kammenou",
+    "greek",
+    "south european",
+    "OPFOR",
+    "Grenadier",
+    "CORPORAL",
+    "OPFOR_greek_CORPORAL_Grenadier-b4wX+ox0kM"
+  ],
+  [
+    "Elias Manago",
+    "greek",
+    "european",
+    "OPFOR",
+    "Rifleman (Light AT)",
+    "PRIVATE",
+    "OPFOR_greek_PRIVATE_Rifleman(LightAT)-UF7NAZV7NVk"
+  ],
+  [
+    "Kostas Spiros",
+    "greek",
+    "south european",
+    "OPFOR",
+    "Marksman",
+    "PRIVATE",
+    "OPFOR_greek_PRIVATE_Marksman-DGz2qHPLStk"
+  ],
+  [
+    "Janos Isofidou",
+    "greek",
+    "south european",
+    "OPFOR",
+    "Rifleman",
+    "CORPORAL",
+    "OPFOR_greek_CORPORAL_Rifleman-tRt1CFtjmKY"
+  ],
+  [
+    "Argyris Kammenou",
+    "greek",
+    "south european",
+    "OPFOR",
+    "Rifleman",
+    "PRIVATE",
+    "OPFOR_greek_PRIVATE_Rifleman-vvP8rCCvvUY"
+  ],
+  [
+    "Militidas Mastori",
+    "greek",
+    "south european",
+    "OPFOR",
+    "Combat Life Saver",
+    "PRIVATE",
+    "OPFOR_greek_PRIVATE_CombatLifeSaver-f1VzXRJAfUM"
+  ],
+  [
+    "Vladimir Chapayev",
+    "russian",
+    "asian",
+    "OPFOR",
+    "Team Leader",
+    "SERGEANT",
+    "OPFOR_russian_SERGEANT_TeamLeader-HzAJP0jFKEA"
+  ],
+  [
+    "Lev Chapayev",
+    "russian",
+    "european",
+    "OPFOR",
+    "Autorifleman",
+    "PRIVATE",
+    "OPFOR_russian_PRIVATE_Autorifleman-AAKRlDBi1U"
+  ],
+  [
+    "Abram Makarov",
+    "russian",
+    "european",
+    "OPFOR",
+    "Combat Life Saver",
+    "CORPORAL",
+    "OPFOR_russian_CORPORAL_CombatLifeSaver-qbE9pjdZ2SI"
+  ],
+  [
+    "Vasil Zhitkov",
+    "russian",
+    "west european",
+    "OPFOR",
+    "Rifleman (AT)",
+    "PRIVATE",
+    "OPFOR_russian_PRIVATE_Rifleman(AT)-Zb9mTRap7qI"
+  ],
+  [
+    "Abram Zhukov",
+    "russian",
+    "east european",
+    "OPFOR",
+    "Grenadier",
+    "SERGEANT",
+    "OPFOR_russian_SERGEANT_Grenadier-ceIPpvRIbJg"
+  ],
+  [
+    "Valentin Strugackiy",
+    "russian",
+    "east european",
+    "OPFOR",
+    "Autorifleman",
+    "CORPORAL",
+    "OPFOR_russian_CORPORAL_Autorifleman-SjfPX8XFfsI"
+  ],
+  [
+    "Grigoriy Alekseev",
+    "russian",
+    "west european",
+    "OPFOR",
+    "Rifleman (AT)",
+    "PRIVATE",
+    "OPFOR_russian_PRIVATE_Rifleman(AT)-OxwO+6slUTU"
+  ],
+  [
+    "Alyosha Zhitkov",
+    "russian",
+    "east european",
+    "OPFOR",
+    "Marksman",
+    "PRIVATE",
+    "OPFOR_russian_PRIVATE_Marksman-9yk3oop1ZrU"
+  ],
+  [
+    "Chao Sun",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Squad Leader",
+    "SERGEANT",
+    "OPFOR_chinese_SERGEANT_SquadLeader-ONHsRpPR+N8"
+  ],
+  [
+    "Wei Tan",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Autorifleman",
+    "PRIVATE",
+    "OPFOR_chinese_PRIVATE_Autorifleman-gatrCXoJF5g"
+  ],
+  [
+    "Liu Yeung",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Grenadier",
+    "CORPORAL",
+    "OPFOR_chinese_CORPORAL_Grenadier-WgArw0qGKcI"
+  ],
+  [
+    "Yan Mao",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Marksman",
+    "SERGEANT",
+    "OPFOR_chinese_SERGEANT_Marksman-S+VpXjHm+zQ"
+  ],
+  [
+    "Liu Jin",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Missile Specialist (AT)",
+    "CORPORAL",
+    "OPFOR_chinese_CORPORAL_MissileSpecialist(AT)-3KGftDmS9tQ"
+  ],
+  [
+    "Zhen Jao",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Asst. Missile Specialist (AT)",
+    "PRIVATE",
+    "OPFOR_chinese_PRIVATE_Asst.MissileSpecialist(AT)-SJpIqhiSo98"
+  ],
+  [
+    "Zhong Jao",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Ammo Bearer",
+    "PRIVATE",
+    "OPFOR_chinese_PRIVATE_AmmoBearer-BKhxUffhuF8"
+  ],
+  [
+    "Zhen Tong",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Combat Life Saver",
+    "PRIVATE",
+    "OPFOR_chinese_PRIVATE_CombatLifeSaver-MF3ScOACjFQ"
+  ],
+  [
+    "Idris Spanta",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "PRIVATE",
+    "OPFOR_persian_PRIVATE_Crewman-sVrZlA4T984"
+  ],
+  [
+    "Abbas Ahmed-Khan",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Crewman-dUjCse3q7x4"
+  ],
+  [
+    "Basharat Mohammadi",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Crewman-2WCrMcxiuVk"
+  ],
+  [
+    "Abdul-Qadir Tanwir",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Rifleman",
+    "PRIVATE",
+    "OPFOR_persian_PRIVATE_Rifleman-wSM1+JPToc4"
+  ],
+  [
+    "Abdul-Mussawir Bahadur",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Rifleman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Rifleman-hREeFXOrmh4"
+  ],
+  [
+    "Haikal Saikal",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "PRIVATE",
+    "OPFOR_persian_PRIVATE_Crewman-wtsB+bF9GQ"
+  ],
+  [
+    "Abdul-Latif Adel",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Crewman-JvjVh8Q9vp8"
+  ],
+  [
+    "Abdul-Mussawir Aybak",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Crewman-6uW+pKMVt+8"
+  ],
+  [
+    "Chen Chen",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Crewman",
+    "LIEUTENANT",
+    "OPFOR_chinese_LIEUTENANT_Crewman-l+niHmPQ99U"
+  ],
+  [
+    "Qiu Jao",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_chinese_SERGEANT_Crewman-+wHMnkFIwRA"
+  ],
+  [
+    "Yang Gong",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_chinese_SERGEANT_Crewman-v++0uyAgumA"
+  ],
+  [
+    "Nianzu Wang",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_chinese_SERGEANT_Crewman-4nGkzvBGSmQ"
+  ],
+  [
+    "Feng Chen",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_chinese_SERGEANT_Crewman-RoqNTs++E58"
+  ],
+  [
+    "Yan Fan",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_chinese_SERGEANT_Crewman-Cnh2a66WDO8"
+  ],
+  [
+    "Da Lung",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_chinese_SERGEANT_Crewman-Hefc6p9ZLZU"
+  ],
+  [
+    "Xiang Chen",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_chinese_SERGEANT_Crewman-gfFan7R9s8"
+  ],
+  [
+    "Tao Meng",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_chinese_SERGEANT_Crewman-Re2uh12p7x8"
+  ],
+  [
+    "Ru Chui",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Crewman",
+    "CORPORAL",
+    "OPFOR_chinese_CORPORAL_Crewman-kMI8jlj8ids"
+  ],
+  [
+    "Qing Jin",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_chinese_SERGEANT_Crewman-VLAlqzfUgis"
+  ],
+  [
+    "Xing Lianjie",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_chinese_SERGEANT_Crewman-uMgOKxZMTGY"
+  ],
+  [
+    "Jabr Nazari",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "LIEUTENANT",
+    "OPFOR_persian_LIEUTENANT_Crewman-vcFyzNXe2JE"
+  ],
+  [
+    "Ismail Khalili",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Crewman-IdpbTLRWosw"
+  ],
+  [
+    "Hasan Khara",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Crewman-5cdEaZMumxw"
+  ],
+  [
+    "Hasan Ratebzad",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Crewman-sFT0VGN939o"
+  ],
+  [
+    "Khairullah Ahmed-Jan",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Crewman-dELdcUJV2Co"
+  ],
+  [
+    "Farid Zahor",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Crewman-2FrG8SDNoWU"
+  ],
+  [
+    "Hafiz Zakhilwal",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Crewman-E9D+DdDfhJY"
+  ],
+  [
+    "Abdul-Basir Yousuf",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Crewman-d+jnja5XTtE"
+  ],
+  [
+    "Sadat Tanwir",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Crewman-2wDRDY3PFww"
+  ],
+  [
+    "Faisal Ghafurzai",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "CORPORAL",
+    "OPFOR_persian_CORPORAL_Crewman-3giojJSgSc"
+  ],
+  [
+    "Umar Ahmed-Jan",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Crewman-QijLIhHKSmI"
+  ],
+  [
+    "Akbar Noori",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Crewman",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_Crewman-pkC0ou9BFJ0"
+  ],
+  [
+    "Abdul-Basir Khalili",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Helicopter Pilot",
+    "PRIVATE",
+    "OPFOR_persian_PRIVATE_HelicopterPilot-tgkQBnUCv5w"
+  ],
+  [
+    "Haikal Ratebzad",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Helicopter Pilot",
+    "SERGEANT",
+    "OPFOR_persian_SERGEANT_HelicopterPilot-evf4IlTat+w"
+  ],
+  [
+    "Qadeer Kohzad",
+    "persian",
+    "middle eastern",
+    "OPFOR",
+    "Fighter Pilot",
+    "PRIVATE",
+    "OPFOR_persian_PRIVATE_FighterPilot-cDCFx017NNw"
+  ],
+  [
+    "Ilya Potapenko",
+    "russian",
+    "west european",
+    "OPFOR",
+    "Team Leader",
+    "SERGEANT",
+    "OPFOR_russian_SERGEANT_TeamLeader-tWwxPwPtmh0"
+  ],
+  [
+    "Igor Morozov",
+    "russian",
+    "asian",
+    "OPFOR",
+    "Autorifleman",
+    "PRIVATE",
+    "OPFOR_russian_PRIVATE_Autorifleman-GYUav+FkZFg"
+  ],
+  [
+    "Vasili Gorbunov",
+    "russian",
+    "west european",
+    "OPFOR",
+    "Combat Life Saver",
+    "CORPORAL",
+    "OPFOR_russian_CORPORAL_CombatLifeSaver-coPeTKELS2E"
+  ],
+  [
+    "Grigoriy Dobryakov",
+    "russian",
+    "east european",
+    "OPFOR",
+    "Rifleman (AT)",
+    "PRIVATE",
+    "OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0"
+  ],
+  [
+    "Boris Yeltsin",
+    "russian",
+    "east european",
+    "OPFOR",
+    "Grenadier",
+    "SERGEANT",
+    "OPFOR_russian_SERGEANT_Grenadier-X8pKnValZV0"
+  ],
+  [
+    "Vasili Tokarev",
+    "russian",
+    "west european",
+    "OPFOR",
+    "Autorifleman",
+    "CORPORAL",
+    "OPFOR_russian_CORPORAL_Autorifleman-Div1zRQV2KI"
+  ],
+  [
+    "Dimitri Glebov",
+    "russian",
+    "west european",
+    "OPFOR",
+    "Rifleman (AT)",
+    "PRIVATE",
+    "OPFOR_russian_PRIVATE_Rifleman(AT)-1WPngxBKUg"
+  ],
+  [
+    "Aleksander Doronin",
+    "russian",
+    "east european",
+    "OPFOR",
+    "Marksman",
+    "PRIVATE",
+    "OPFOR_russian_PRIVATE_Marksman-OXzoHuu48oI"
+  ],
+  [
+    "Wei Tuan",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Viper Team Leader",
+    "SERGEANT",
+    "OPFOR_chinese_SERGEANT_ViperTeamLeader-A7bmc6KV1x8"
+  ],
+  [
+    "Weiyuan Jao",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Viper JTAC",
+    "CORPORAL",
+    "OPFOR_chinese_CORPORAL_ViperJTAC-Z87P84ANoVo"
+  ],
+  [
+    "Xiaobo Tang",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Viper Marksman",
+    "PRIVATE",
+    "OPFOR_chinese_PRIVATE_ViperMarksman-y+a4c1+FapU"
+  ],
+  [
+    "Yun Chou",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Viper Demo Specialist",
+    "PRIVATE",
+    "OPFOR_chinese_PRIVATE_ViperDemoSpecialist-j9ShkD5dY+U"
+  ],
+  [
+    "Weimin Tong",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Viper Rifleman (AT)",
+    "PRIVATE",
+    "OPFOR_chinese_PRIVATE_ViperRifleman(AT)-E39C1ydWgh8"
+  ],
+  [
+    "Weiyuan Han",
+    "chinese",
+    "asian",
+    "OPFOR",
+    "Viper Paramedic",
+    "PRIVATE",
+    "OPFOR_chinese_PRIVATE_ViperParamedic-d5crVwbOS1o"
+  ],
+  [
+    "Tally",
+    "english",
+    "european",
+    "BLUFOR",
+    "Autorifleman",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8"
+  ],
+  [
+    "Spencer Smith",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Team Leader",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_TeamLeader-6dZZPhns"
+  ],
+  [
+    "George Robinson",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Missile Specialist (AA)",
+    "CORPORAL",
+    "BLUFOR_english_CORPORAL_MissileSpecialist(AA)-MMLoCdVxH8"
+  ],
+  [
+    "Lewis Harrison",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Missile Specialist (AA)",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_MissileSpecialist(AA)-DGLJd8imL8"
+  ],
+  [
+    "Aaron Morgan",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Asst. Missile Specialist (AA)",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Asst.MissileSpecialist(AA)-eFpybaem3Ak"
+  ],
+  [
+    "Rhys Murphy",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Squad Leader",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_SquadLeader-NGibFIb28Yk"
+  ],
+  [
+    "Bradley Thompson",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Autorifleman",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Autorifleman-kz3zwks4ajs"
+  ],
+  [
+    "Jammie Johnson",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Grenadier",
+    "CORPORAL",
+    "BLUFOR_english_CORPORAL_Grenadier-qpw5fT2fEk"
+  ],
+  [
+    "Jack Ryan",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Marksman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Marksman-4WujkWxMnA"
+  ],
+  [
+    "Kyle Kelly",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Missile Specialist (AT)",
+    "CORPORAL",
+    "BLUFOR_english_CORPORAL_MissileSpecialist(AT)-iCPO0Cxnhwk"
+  ],
+  [
+    "Joshua Campbell",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Asst. Missile Specialist (AT)",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Asst.MissileSpecialist(AT)-RDH3dwu3nIk"
+  ],
+  [
+    "Harry Wood",
+    "english",
+    "european",
+    "BLUFOR",
+    "Ammo Bearer",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_AmmoBearer-UFSg0OlWGn8"
+  ],
+  [
+    "Mike Taylor",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Combat Life Saver",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_CombatLifeSaver-LPSAPtMnhf4"
+  ],
+  [
+    "Joshua Watson",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Squad Leader",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_SquadLeader-mOwpNLInMgk"
+  ],
+  [
+    "Oliver Davis",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Autorifleman",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA"
+  ],
+  [
+    "Sean Collins",
+    "english",
+    "african",
+    "BLUFOR",
+    "Grenadier",
+    "CORPORAL",
+    "BLUFOR_english_CORPORAL_Grenadier-7o4Q1l5vZ8k"
+  ],
+  [
+    "Keith Jackson",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Marksman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Marksman-1UgWNmcRtXo"
+  ],
+  [
+    "Daniel Campbell",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Missile Specialist (AT)",
+    "CORPORAL",
+    "BLUFOR_english_CORPORAL_MissileSpecialist(AT)-vXC2lS1V1ho"
+  ],
+  [
+    "Conor King",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Asst. Missile Specialist (AT)",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Asst.MissileSpecialist(AT)-KWlfiwxVgyU"
+  ],
+  [
+    "Conor Robinson",
+    "english",
+    "african",
+    "BLUFOR",
+    "Ammo Bearer",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU"
+  ],
+  [
+    "Harrison Rollins",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Combat Life Saver",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_CombatLifeSaver-8Zkxi8lEFps"
+  ],
+  [
+    "Ryan Dayton",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Squad Leader",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_SquadLeader-zTkS+bIVgRo"
+  ],
+  [
+    "Thomas Thompson",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Autorifleman",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro"
+  ],
+  [
+    "Dwan Campbell",
+    "english",
+    "african",
+    "BLUFOR",
+    "Grenadier",
+    "CORPORAL",
+    "BLUFOR_english_CORPORAL_Grenadier-d+FYh19xELg"
+  ],
+  [
+    "Ethan Moore",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Marksman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Marksman-uIgOLGjNouI"
+  ],
+  [
+    "Ewan Leahy",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Missile Specialist (AT)",
+    "CORPORAL",
+    "BLUFOR_english_CORPORAL_MissileSpecialist(AT)-AWON7k4FwZo"
+  ],
+  [
+    "Samuel Allen",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Asst. Missile Specialist (AT)",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Asst.MissileSpecialist(AT)-3QJuXDjWKxo"
+  ],
+  [
+    "Dwan Ryan",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Ammo Bearer",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_AmmoBearer-SfsWUhfW2CQ"
+  ],
+  [
+    "Charlie Morris",
+    "english",
+    "south european",
+    "BLUFOR",
+    "Combat Life Saver",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_CombatLifeSaver-BQlA+fUl7qQ"
+  ],
+  [
+    "Kostas Moritiadou",
+    "greek",
+    "european",
+    "BLUFOR",
+    "Squad Leader",
+    "SERGEANT",
+    "BLUFOR_greek_SERGEANT_SquadLeader-i3gctvDf+jg"
+  ],
+  [
+    "Homer Lias",
+    "greek",
+    "south european",
+    "BLUFOR",
+    "Autorifleman",
+    "PRIVATE",
+    "BLUFOR_greek_PRIVATE_Autorifleman-HDVSDPmL9dg"
+  ],
+  [
+    "Giannis Karagianni",
+    "greek",
+    "south european",
+    "BLUFOR",
+    "Grenadier",
+    "CORPORAL",
+    "BLUFOR_greek_CORPORAL_Grenadier-xeTQa+AjQ6Y"
+  ],
+  [
+    "Alexandros Papadopoulos",
+    "greek",
+    "south european",
+    "BLUFOR",
+    "Marksman",
+    "SERGEANT",
+    "BLUFOR_greek_SERGEANT_Marksman-zrxYEKZvaEY"
+  ],
+  [
+    "Samaras Athanasiadis",
+    "greek",
+    "south european",
+    "BLUFOR",
+    "Rifleman (AT)",
+    "CORPORAL",
+    "BLUFOR_greek_CORPORAL_Rifleman(AT)-jx7PwJcAKEM"
+  ],
+  [
+    "Dimitiros Nicolau",
+    "greek",
+    "south european",
+    "BLUFOR",
+    "Rifleman (AT)",
+    "PRIVATE",
+    "BLUFOR_greek_PRIVATE_Rifleman(AT)-m0F4GXagpTg"
+  ],
+  [
+    "Biton Haikias",
+    "greek",
+    "european",
+    "BLUFOR",
+    "Ammo Bearer",
+    "PRIVATE",
+    "BLUFOR_greek_PRIVATE_AmmoBearer-V0+hwFTwurg"
+  ],
+  [
+    "Sotiris Cosmos",
+    "greek",
+    "south european",
+    "BLUFOR",
+    "Combat Life Saver",
+    "PRIVATE",
+    "BLUFOR_greek_PRIVATE_CombatLifeSaver-w0dKtjPwZ8M"
+  ],
+  [
+    "Donald Jackson",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Squad Leader",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_SquadLeader-qrci5uLu8BY"
+  ],
+  [
+    "Daniel Hall",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Autorifleman",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Autorifleman-DtALZsFmulE"
+  ],
+  [
+    "James Parker",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Grenadier",
+    "CORPORAL",
+    "BLUFOR_english_CORPORAL_Grenadier-knqsrKpf2Ys"
+  ],
+  [
+    "Callum Parker",
+    "english",
+    "south european",
+    "BLUFOR",
+    "Marksman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Marksman-9pKVLInXosY"
+  ],
+  [
+    "Chad Jones",
+    "english",
+    "european",
+    "BLUFOR",
+    "Missile Specialist (AT)",
+    "CORPORAL",
+    "BLUFOR_english_CORPORAL_MissileSpecialist(AT)-5dFxmj5TtvY"
+  ],
+  [
+    "Matthew Turner",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Asst. Missile Specialist (AT)",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Asst.MissileSpecialist(AT)-2Lcih+g2pA"
+  ],
+  [
+    "Chad Wilson",
+    "english",
+    "south european",
+    "BLUFOR",
+    "Ammo Bearer",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_AmmoBearer-njmWxfMKzY"
+  ],
+  [
+    "Lee Edwards",
+    "english",
+    "african",
+    "BLUFOR",
+    "Combat Life Saver",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_CombatLifeSaver-yknarO1vRhY"
+  ],
+  [
+    "Geoff Jackson",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Crewman",
+    "LIEUTENANT",
+    "BLUFOR_english_LIEUTENANT_Crewman-3V1XxIuESWs"
+  ],
+  [
+    "Kyle Turner",
+    "english",
+    "african",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-QXZARGr8EqY"
+  ],
+  [
+    "Jammie Kirby",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-BWQpYUnUCY"
+  ],
+  [
+    "Harry Collins",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-Qo3huw+dg40"
+  ],
+  [
+    "Oscar Harrison",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-pqXKO+4UTcg"
+  ],
+  [
+    "Thomas Smith",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-apOzWM3sRRg"
+  ],
+  [
+    "Colin Ryan",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-ix0zTp0x3ec"
+  ],
+  [
+    "Joshua Johnson",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-Twsca3wJ1jc"
+  ],
+  [
+    "Jammie Watson",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-syMF61qBn3I"
+  ],
+  [
+    "George Watson",
+    "english",
+    "african",
+    "BLUFOR",
+    "Crewman",
+    "CORPORAL",
+    "BLUFOR_english_CORPORAL_Crewman-mJttQmeL5I"
+  ],
+  [
+    "Jammie Walker",
+    "english",
+    "european",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-LNWfegV+cw"
+  ],
+  [
+    "Lucas Brown",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-YMwcaNwgc"
+  ],
+  [
+    "Donald Anderson",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Sniper",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Sniper-7j1Un7blZFI"
+  ],
+  [
+    "Aaron Faulkner",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Spotter",
+    "CORPORAL",
+    "BLUFOR_english_CORPORAL_Spotter-cuj05Zeg4w"
+  ],
+  [
+    "Sean Jones",
+    "english",
+    "south european",
+    "BLUFOR",
+    "Squad Leader",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_SquadLeader-cJWbYExObQc"
+  ],
+  [
+    "Quinton Abbey",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Autorifleman",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Autorifleman-NIOEfSsmZlc"
+  ],
+  [
+    "Oliver Martin",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Heavy Gunner",
+    "CORPORAL",
+    "BLUFOR_english_CORPORAL_HeavyGunner-OHYD3z8j244"
+  ],
+  [
+    "Toby Price",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Asst. Autorifleman",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Asst.Autorifleman-64NsDdPLDQ"
+  ],
+  [
+    "Jake Parker",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Marksman",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Marksman-Y8f2LxbH9W4"
+  ],
+  [
+    "Daniel Phillips",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Sharpshooter",
+    "CORPORAL",
+    "BLUFOR_english_CORPORAL_Sharpshooter-x9frQ+v6k"
+  ],
+  [
+    "Geoff Griffiths",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Rifleman (AT)",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Rifleman(AT)-EsOKx9VjL4k"
+  ],
+  [
+    "Joshua Blackburn",
+    "english",
+    "african",
+    "BLUFOR",
+    "Combat Life Saver",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_CombatLifeSaver-oSxnmIpE6Q"
+  ],
+  [
+    "Liam Davis",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Crewman",
+    "LIEUTENANT",
+    "BLUFOR_english_LIEUTENANT_Crewman-WAi7pUqkMI4"
+  ],
+  [
+    "Colin Williams",
+    "english",
+    "south european",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-vCCkJSkc+sg"
+  ],
+  [
+    "Jake MacDonald",
+    "english",
+    "south european",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-IDmNpQeUwwM"
+  ],
+  [
+    "Finlay Bennett",
+    "english",
+    "african",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-+Y1MX9gQ1i0"
+  ],
+  [
+    "Ben Leahy",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-XaY137aIn2g"
+  ],
+  [
+    "Matthew Clark",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-wb4eX5UAaaM"
+  ],
+  [
+    "Benjamin Jones",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Crewman",
+    "LIEUTENANT",
+    "BLUFOR_english_LIEUTENANT_Crewman-+FGUUSohMJA"
+  ],
+  [
+    "David Nelson",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-XGp90QiZ+co"
+  ],
+  [
+    "John Evans",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Crewman",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_Crewman-wIJmUecQwwU"
+  ],
+  [
+    "Reggie Wright",
+    "english",
+    "south european",
+    "BLUFOR",
+    "Squad Leader",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_SquadLeader-hHBPbsbou1U"
+  ],
+  [
+    "Oliver Kirby",
+    "english",
+    "european",
+    "BLUFOR",
+    "Rifleman",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Rifleman-CBvwtKh2o8"
+  ],
+  [
+    "Oliver Evans",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Rifleman (AT)",
+    "CORPORAL",
+    "BLUFOR_english_CORPORAL_Rifleman(AT)-z1P6hacNLDU"
+  ],
+  [
+    "Henry Halliwell",
+    "english",
+    "european",
+    "BLUFOR",
+    "Marksman",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_Marksman-M2zjBYaF9W8"
+  ],
+  [
+    "Tyler Spiegelman",
+    "english",
+    "south european",
+    "BLUFOR",
+    "Team Leader",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_TeamLeader-l4TMhWT9vqo"
+  ],
+  [
+    "Kyle Green",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Autorifleman",
+    "CORPORAL",
+    "BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ"
+  ],
+  [
+    "Rhys Walsh",
+    "english",
+    "african",
+    "BLUFOR",
+    "Ammo Bearer",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_AmmoBearer-RoBgHSSa+MQ"
+  ],
+  [
+    "Liam Faulkner",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Combat Life Saver",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_CombatLifeSaver-Nb88i9kVDPU"
+  ],
+  [
+    "Ed Lee",
+    "english",
+    "african",
+    "BLUFOR",
+    "Helicopter Pilot",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_HelicopterPilot-txaETG9+FKo"
+  ],
+  [
+    "Thomas Johnson",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Helicopter Pilot",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_HelicopterPilot-EHpecy34M94"
+  ],
+  [
+    "Harvey Reed",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Helicopter Crew",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_HelicopterCrew-1GdHkAzQLC4"
+  ],
+  [
+    "Bradley Walker",
+    "english",
+    "south european",
+    "BLUFOR",
+    "Helicopter Crew",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_HelicopterCrew-OIAwEOtH9mg"
+  ],
+  [
+    "Quinton Eaton",
+    "english",
+    "west european",
+    "BLUFOR",
+    "Helicopter Pilot",
+    "PRIVATE",
+    "BLUFOR_english_PRIVATE_HelicopterPilot-SEmMc3AIoWg"
+  ],
+  [
+    "Adam Young",
+    "english",
+    "south european",
+    "BLUFOR",
+    "Helicopter Pilot",
+    "SERGEANT",
+    "BLUFOR_english_SERGEANT_HelicopterPilot-rGF1806AaqM"
+  ],
+  [
+    "Sotiris Papadopoulos",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Squad Leader",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_SquadLeader-7Gr7F79SodQ"
+  ],
+  [
+    "Nikos Constantinou",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Autorifleman",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_Autorifleman-lRp6d6bq7qE"
+  ],
+  [
+    "Nikas Gikas",
+    "greek",
+    "european",
+    "INDEPENDENT",
+    "Grenadier",
+    "CORPORAL",
+    "INDEPENDENT_greek_CORPORAL_Grenadier-nvIBHGw2FEI"
+  ],
+  [
+    "Thanos Athanasiadis",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Marksman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Marksman-3wuasTLDfUE"
+  ],
+  [
+    "Elias Lias",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Missile Specialist (AT)",
+    "CORPORAL",
+    "INDEPENDENT_greek_CORPORAL_MissileSpecialist(AT)-wN1PuTq4FY"
+  ],
+  [
+    "Mimis Mylonaki",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Asst. Missile Specialist (AT)",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_Asst.MissileSpecialist(AT)-fOt4YBkP9tY"
+  ],
+  [
+    "Argyris Moritiadou",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Ammo Bearer",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_AmmoBearer-6OMhVvgOo+E"
+  ],
+  [
+    "Giorgos Melidoni",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Combat Life Saver",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_CombatLifeSaver-pPFKdZeuGE"
+  ],
+  [
+    "Vasilis Christou",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Squad Leader",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_SquadLeader-0KarHMBi1Y"
+  ],
+  [
+    "Vangelis Kanelloupou",
+    "greek",
+    "european",
+    "INDEPENDENT",
+    "Autorifleman",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_Autorifleman-eVYqfKcX2SM"
+  ],
+  [
+    "Costa Strambopoulos",
+    "greek",
+    "european",
+    "INDEPENDENT",
+    "Grenadier",
+    "CORPORAL",
+    "INDEPENDENT_greek_CORPORAL_Grenadier-0kMy0myzZjk"
+  ],
+  [
+    "Costa Bouras",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Rifleman (Light AT)",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_Rifleman(LightAT)-I5wClRzaME"
+  ],
+  [
+    "Angelos Spiros",
+    "greek",
+    "european",
+    "INDEPENDENT",
+    "Marksman",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_Marksman-51ReD1E00A"
+  ],
+  [
+    "Kostas Xenakis",
+    "greek",
+    "european",
+    "INDEPENDENT",
+    "Rifleman",
+    "CORPORAL",
+    "INDEPENDENT_greek_CORPORAL_Rifleman-4G8HgEVANlY"
+  ],
+  [
+    "Michalis Karmanlis",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Rifleman",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_Rifleman-iR+G3yzYgyM"
+  ],
+  [
+    "Militidas Petridis",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Combat Life Saver",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_CombatLifeSaver-4gyONfJzETk"
+  ],
+  [
+    "Stanisalaw Mialosz",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Squad Leader",
+    "SERGEANT",
+    "INDEPENDENT_polish_SERGEANT_SquadLeader-TgU3K9FzvkM"
+  ],
+  [
+    "Fabian Stormowski",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Radio Operator",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_RadioOperator-D2et28IEfkA"
+  ],
+  [
+    "Alan Witkowski",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Rifleman (AT)",
+    "CORPORAL",
+    "INDEPENDENT_polish_CORPORAL_Rifleman(AT)-G4pWNKGk+zU"
+  ],
+  [
+    "Miron Kava",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Marksman",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_Marksman-15d230ELY"
+  ],
+  [
+    "Tomasz Brodzki",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Team Leader",
+    "SERGEANT",
+    "INDEPENDENT_polish_SERGEANT_TeamLeader-GD81gIhQo+A"
+  ],
+  [
+    "Olaf Norwid",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Autorifleman",
+    "CORPORAL",
+    "INDEPENDENT_polish_CORPORAL_Autorifleman-YRm0Qm+IwZg"
+  ],
+  [
+    "Robert Lewandowski",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Ammo Bearer",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_AmmoBearer-ZSR95hR8J84"
+  ],
+  [
+    "Jarosalaw Smolko",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Combat Life Saver",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_CombatLifeSaver-cUcmPMbpcM"
+  ],
+  [
+    "Seweryn Krukowski",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Looter (Pistol)",
+    "SERGEANT",
+    "INDEPENDENT_polish_SERGEANT_Looter(Pistol)-vBkVH9o1vK8"
+  ],
+  [
+    "Alan Litwiniec",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Looter (Shotgun)",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo"
+  ],
+  [
+    "Alan Zieliawski",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Looter  (Rifle)",
+    "CORPORAL",
+    "INDEPENDENT_polish_CORPORAL_Looter(Rifle)-D8zDdMHXtms"
+  ],
+  [
+    "Kuba Nowak",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Looter (SMG)",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0"
+  ],
+  [
+    "Kamil GÃ³rski",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Criminal (Shotgun)",
+    "SERGEANT",
+    "INDEPENDENT_polish_SERGEANT_Criminal(Shotgun)-ENVH24CmUS8"
+  ],
+  [
+    "Mialosz Nowak",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Criminal (SMG)",
+    "CORPORAL",
+    "INDEPENDENT_polish_CORPORAL_Criminal(SMG)-jjPT6ZGahBw"
+  ],
+  [
+    "Ropata Molias",
+    "french",
+    "caribbean",
+    "INDEPENDENT",
+    "Watcher (Rifle)",
+    "SERGEANT",
+    "INDEPENDENT_french_SERGEANT_Watcher(Rifle)-SkH8kHDqmZw"
+  ],
+  [
+    "Tui Ganilau",
+    "french",
+    "caribbean",
+    "INDEPENDENT",
+    "Guard (Machine Gun)",
+    "PRIVATE",
+    "INDEPENDENT_french_PRIVATE_Guard(MachineGun)-ONsZeD72E7o"
+  ],
+  [
+    "Liko Maraiwai",
+    "french",
+    "caribbean",
+    "INDEPENDENT",
+    "Dealer (Rifle)",
+    "CORPORAL",
+    "INDEPENDENT_french_CORPORAL_Dealer(Rifle)-FHv65SfHfjk"
+  ],
+  [
+    "Lucas Molias",
+    "french",
+    "caribbean",
+    "INDEPENDENT",
+    "Scout (Rifle)",
+    "CORPORAL",
+    "INDEPENDENT_french_CORPORAL_Scout(Rifle)-S0qA9y+5NGA"
+  ],
+  [
+    "Atonio Naivalu",
+    "french",
+    "caribbean",
+    "INDEPENDENT",
+    "Smuggler (UGL)",
+    "SERGEANT",
+    "INDEPENDENT_french_SERGEANT_Smuggler(UGL)-nvwuTRdbLxw"
+  ],
+  [
+    "Sefa Naitaku",
+    "french",
+    "caribbean",
+    "INDEPENDENT",
+    "Hireling (Launcher)",
+    "PRIVATE",
+    "INDEPENDENT_french_PRIVATE_Hireling(Launcher)-3KvM5eS2Ea8"
+  ],
+  [
+    "Halolani Nakaunicina",
+    "french",
+    "caribbean",
+    "INDEPENDENT",
+    "Thug (Mines)",
+    "PRIVATE",
+    "INDEPENDENT_french_PRIVATE_Thug(Mines)-c1BSlO0I9+o"
+  ],
+  [
+    "Hekeoro Heke",
+    "french",
+    "caribbean",
+    "INDEPENDENT",
+    "Snatcher (Medikit)",
+    "PRIVATE",
+    "INDEPENDENT_french_PRIVATE_Snatcher(Medikit)-Zi0BTdRKwpE"
+  ],
+  [
+    "Fotini Savalas",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "LIEUTENANT",
+    "INDEPENDENT_greek_LIEUTENANT_Crewman-uttnsbtduWc"
+  ],
+  [
+    "Achilleas Savalas",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-PoYI+KRW2KE"
+  ],
+  [
+    "Giorgos Spiros",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-op7xd4POodw"
+  ],
+  [
+    "Evripidis Christou",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-r2ZZV0neuOQ"
+  ],
+  [
+    "Aris Mastori",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-s8gbgwfTgSE"
+  ],
+  [
+    "Giorgos Papageorgiou",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-F+EEA+ZKS1w"
+  ],
+  [
+    "Arion Vidales",
+    "greek",
+    "european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-FJbjTs328gY"
+  ],
+  [
+    "Vasilis Elias",
+    "greek",
+    "european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-eK7MzqtuvEE"
+  ],
+  [
+    "Leventis Dimitriadis",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-FhtFZVn23s"
+  ],
+  [
+    "Thamos Tavoularis",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "CORPORAL",
+    "INDEPENDENT_greek_CORPORAL_Crewman-CSHV9Fp38oM"
+  ],
+  [
+    "Vasilis Papadopoulos",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-bTm+dDnvu74"
+  ],
+  [
+    "Andreas Floros",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-8eNeuyLo2vg"
+  ],
+  [
+    "Vega Kanelloupou",
+    "greek",
+    "european",
+    "INDEPENDENT",
+    "Crewman",
+    "LIEUTENANT",
+    "INDEPENDENT_greek_LIEUTENANT_Crewman-GeowWOA3nYM"
+  ],
+  [
+    "Gregor Mastori",
+    "greek",
+    "european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-fQIa2L6vZr4"
+  ],
+  [
+    "Nikolaos Maras",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-RzwYLXaMS1s"
+  ],
+  [
+    "Militidas Stanis",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-q1QBrVQEFZY"
+  ],
+  [
+    "Michalis Malas",
+    "greek",
+    "european",
+    "INDEPENDENT",
+    "Sniper",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Sniper-jct1O0RwEb4"
+  ],
+  [
+    "Michalis Doukas",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Spotter",
+    "CORPORAL",
+    "INDEPENDENT_greek_CORPORAL_Spotter-kb70nFhthvU"
+  ],
+  [
+    "Giorgos Savalas",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "LIEUTENANT",
+    "INDEPENDENT_greek_LIEUTENANT_Crewman-1AIx9w398wI"
+  ],
+  [
+    "Gerasimos Karmanlis",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-OBsad+x0vT0"
+  ],
+  [
+    "Takis Isofidou",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-vMW6vdVt3Hc"
+  ],
+  [
+    "Nikas Ellinaki",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Squad Leader",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_SquadLeader-IN6jPbTlpbI"
+  ],
+  [
+    "Michalis Ellinaki",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Missile Specialist (AT)",
+    "CORPORAL",
+    "INDEPENDENT_greek_CORPORAL_MissileSpecialist(AT)-Dx2Aq2lhueI"
+  ],
+  [
+    "Gerasimos Kammenou",
+    "greek",
+    "european",
+    "INDEPENDENT",
+    "Missile Specialist (AT)",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_MissileSpecialist(AT)-rgWLr0qag58"
+  ],
+  [
+    "Gerasimos Lagos",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Missile Specialist (AT)",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_MissileSpecialist(AT)-dT6VgELG1EQ"
+  ],
+  [
+    "Kyriakos Floros",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Asst. Missile Specialist (AT)",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_Asst.MissileSpecialist(AT)-9JTovRh+SQI"
+  ],
+  [
+    "Theofilos Manago",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Asst. Missile Specialist (AT)",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_Asst.MissileSpecialist(AT)-o5B8Vdgagxw"
+  ],
+  [
+    "Giorgos Vidales",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Asst. Missile Specialist (AT)",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_Asst.MissileSpecialist(AT)-IufPkq7S99k"
+  ],
+  [
+    "Achilleas Savalas",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Rifleman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Rifleman-Su2hL2wiumQ"
+  ],
+  [
+    "Militidas Dimitriadis",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Rifleman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Rifleman-Tk9kWyoXg6E"
+  ],
+  [
+    "Gekas Maras",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Gunner (HMG)",
+    "CORPORAL",
+    "INDEPENDENT_greek_CORPORAL_Gunner(HMG)-FYhuLCJD1EY"
+  ],
+  [
+    "Stergos Strambopoulos",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Asst. Gunner (HMG/GMG)",
+    "CORPORAL",
+    "INDEPENDENT_greek_CORPORAL_Asst.Gunner(HMGGMG)-lN7Bafj6SAQ"
+  ],
+  [
+    "Maciej Janowski",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Crewman",
+    "LIEUTENANT",
+    "INDEPENDENT_polish_LIEUTENANT_Crewman-pI+gZYPTFk"
+  ],
+  [
+    "Seweryn Smolko",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_polish_SERGEANT_Crewman-CwsoAXWHFZQ"
+  ],
+  [
+    "Zbigniew Kava",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_polish_SERGEANT_Crewman-zgQHlRfDuQ"
+  ],
+  [
+    "Tymon Krukowski",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Squad Leader",
+    "SERGEANT",
+    "INDEPENDENT_polish_SERGEANT_SquadLeader-U6OxZD1YLR4"
+  ],
+  [
+    "Krzysztof Kowalski",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Radio Operator",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_RadioOperator-0vkEohMQots"
+  ],
+  [
+    "Jan Janowski",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Rifleman (AT)",
+    "CORPORAL",
+    "INDEPENDENT_polish_CORPORAL_Rifleman(AT)-mTIPcws884A"
+  ],
+  [
+    "Dawid Mazur",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Team Leader",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_TeamLeader-Ur48umzvLs"
+  ],
+  [
+    "Czesalaw Mialosz",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Autorifleman",
+    "SERGEANT",
+    "INDEPENDENT_polish_SERGEANT_Autorifleman-gfWYOdOs2U"
+  ],
+  [
+    "Bogusalaw Pawlik",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Ammo Bearer",
+    "CORPORAL",
+    "INDEPENDENT_polish_CORPORAL_AmmoBearer-AEzsdqlkULM"
+  ],
+  [
+    "Paweal Rabinowitz",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Combat Life Saver",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_CombatLifeSaver-74rI5F7gY+M"
+  ],
+  [
+    "Radosalaw Burak",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Rifleman",
+    "SERGEANT",
+    "INDEPENDENT_polish_SERGEANT_Rifleman-HULGUvMHS+Y"
+  ],
+  [
+    "Olaf Sternik",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Squad Leader",
+    "SERGEANT",
+    "INDEPENDENT_polish_SERGEANT_SquadLeader-gVqv0tFFCE"
+  ],
+  [
+    "Jan Lewandowski",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Rifleman",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_Rifleman-RUiY77BXDXE"
+  ],
+  [
+    "Radosalaw Litwiniec",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Rifleman (AT)",
+    "CORPORAL",
+    "INDEPENDENT_polish_CORPORAL_Rifleman(AT)-dkCK4LKuMe8"
+  ],
+  [
+    "Michaal Brodzki",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Marksman",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_Marksman-Oi5zZGGKj8"
+  ],
+  [
+    "Marek Krukowski",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Team Leader",
+    "SERGEANT",
+    "INDEPENDENT_polish_SERGEANT_TeamLeader-nkZcfXD+83k"
+  ],
+  [
+    "Tomasz Norwid",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Autorifleman",
+    "CORPORAL",
+    "INDEPENDENT_polish_CORPORAL_Autorifleman-Al9FU52vbQ"
+  ],
+  [
+    "Przemek Stolarski",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Ammo Bearer",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_AmmoBearer-90QgCzCl2oI"
+  ],
+  [
+    "KornÃ©l Mialosz",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Combat Life Saver",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_CombatLifeSaver-MLEs0uTKa4w"
+  ],
+  [
+    "Przemek Zimniak",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Squad Leader",
+    "SERGEANT",
+    "INDEPENDENT_polish_SERGEANT_SquadLeader-9J4V78OiZNw"
+  ],
+  [
+    "Paweal Drewniak",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Rifleman",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_Rifleman-eEm2Na2bgxY"
+  ],
+  [
+    "Dawid Grzelczyk",
+    "polish",
+    "european",
+    "INDEPENDENT",
+    "Rifleman (AT)",
+    "CORPORAL",
+    "INDEPENDENT_polish_CORPORAL_Rifleman(AT)-TZ3ZfINJS+U"
+  ],
+  [
+    "Kuba Witkowski",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Marksman",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_Marksman-sbXCGHBFCA"
+  ],
+  [
+    "Gustaw Zimniak",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Team Leader",
+    "SERGEANT",
+    "INDEPENDENT_polish_SERGEANT_TeamLeader-daOrGUGZDXA"
+  ],
+  [
+    "Jan Michnik",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Autorifleman",
+    "CORPORAL",
+    "INDEPENDENT_polish_CORPORAL_Autorifleman-eQVuRf+N1qw"
+  ],
+  [
+    "Michaal Nowak",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Ammo Bearer",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_AmmoBearer-6kCoDPfD1EA"
+  ],
+  [
+    "Tymon Janowski",
+    "polish",
+    "european",
+    "INDEPENDENT",
+    "Combat Life Saver",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_CombatLifeSaver-v5TLU81xnA8"
+  ],
+  [
+    "Keb Naikelekele",
+    "french",
+    "caribbean",
+    "INDEPENDENT",
+    "Scout (Rifle)",
+    "PRIVATE",
+    "INDEPENDENT_french_PRIVATE_Scout(Rifle)-+gkEcHyEf0A"
+  ],
+  [
+    "Maui Deli",
+    "french",
+    "caribbean",
+    "INDEPENDENT",
+    "Helicopter Pilot",
+    "PRIVATE",
+    "INDEPENDENT_french_PRIVATE_HelicopterPilot-Fe2ExSAWDXI"
+  ],
+  [
+    "Hehu Nakaunicina",
+    "french",
+    "caribbean",
+    "INDEPENDENT",
+    "Oppressor (Machine Gun)",
+    "PRIVATE",
+    "INDEPENDENT_french_PRIVATE_Oppressor(MachineGun)-tyCxfRqjL4Q"
+  ],
+  [
+    "Wehilani Tonono",
+    "unknown",
+    "caribbean",
+    "INDEPENDENT",
+    "Solomon Maru",
+    "PRIVATE",
+    "INDEPENDENT_unknown_PRIVATE_SolomonMaru-8Iy9RMIwI0"
+  ],
+  [
+    "Matiu Naikelekele",
+    "french",
+    "caribbean",
+    "INDEPENDENT",
+    "Pilot",
+    "PRIVATE",
+    "INDEPENDENT_french_PRIVATE_Pilot-x+kM4Z9j2oM"
+  ],
+  [
+    "Ropata Umaga",
+    "french",
+    "caribbean",
+    "INDEPENDENT",
+    "Militiaman (Medikit)",
+    "SERGEANT",
+    "INDEPENDENT_french_SERGEANT_Militiaman(Medikit)-7+efV2znA4"
+  ],
+  [
+    "Giorgos Floros",
+    "greek",
+    "european",
+    "INDEPENDENT",
+    "Crewman",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_Crewman-LE9qpibWok8"
+  ],
+  [
+    "Argyris Petridis",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-kGdTJgVObIo"
+  ],
+  [
+    "Militiadis Moraiti",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Crewman",
+    "SERGEANT",
+    "INDEPENDENT_greek_SERGEANT_Crewman-VFU8Q+QlZdo"
+  ],
+  [
+    "Maciej Adamczyk",
+    "polish",
+    "west european",
+    "INDEPENDENT",
+    "Rifleman",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_Rifleman-PBjGCayWTU8"
+  ],
+  [
+    "Lech Zieliawski",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Rifleman",
+    "SERGEANT",
+    "INDEPENDENT_polish_SERGEANT_Rifleman-oDCviYoOF4o"
+  ],
+  [
+    "Przemek Litwiniec",
+    "polish",
+    "european",
+    "INDEPENDENT",
+    "Helicopter Pilot",
+    "PRIVATE",
+    "INDEPENDENT_polish_PRIVATE_HelicopterPilot-sPkK7QPwYk"
+  ],
+  [
+    "Donald Zieliawski",
+    "polish",
+    "east european",
+    "INDEPENDENT",
+    "Helicopter Pilot",
+    "SERGEANT",
+    "INDEPENDENT_polish_SERGEANT_HelicopterPilot-dOfzCe+mutk"
+  ],
+  [
+    "Biton Vidales",
+    "greek",
+    "south european",
+    "INDEPENDENT",
+    "Fighter Pilot",
+    "PRIVATE",
+    "INDEPENDENT_greek_PRIVATE_FighterPilot-Fhsgwugz3es"
+  ]
+]

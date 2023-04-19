@@ -1,0 +1,99 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_english_civilian_AidWorker(Field)1-ovna39Z8vy0.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_english_civilian_AidWorker(Field)1-ovna39Z8vy0"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681381778099,
+    "irlTimeLast": 1681381880169,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        46
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        47
+    ],
+    "messages": [
+        {
+            "content": "Look at that vest man",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681381795927,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                46
+            ]
+        },
+        {
+            "content": "It looks heavy. Do you need that much protection?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-ovna39Z8vy0",
+            "nodeTime": 1681381795927,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                46
+            ]
+        },
+        {
+            "content": "I do, it needs to stop a 7.62mm bullet, so it is kinda necesary",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681381843384,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                46
+            ]
+        },
+        {
+            "content": "'Wow, that's serious. Stay safe out there.'",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-ovna39Z8vy0",
+            "nodeTime": 1681381843384,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                46
+            ]
+        },
+        {
+            "content": "Thank you! See you later!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681381880169,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                47
+            ]
+        },
+        {
+            "content": "Archie Thomson replies with a smile and a nod.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-ovna39Z8vy0",
+            "nodeTime": 1681381880169,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                47
+            ]
+        }
+    ]
+}

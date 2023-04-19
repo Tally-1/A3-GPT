@@ -1,0 +1,51 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0 && INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+        "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find food for your family'<br/><br/>Location: (unknown)<br/>Position: [919,5477]<br/><br/>Task:<br/>Take a look inside the market, if there is nothing there take a look in the warehouse<br/><br/>Aleksander Rabinowitz's mission is: 'Find  a (Criminal (Shotgun)) and tell him that the target Colonel  Henry Campbell is hiding inside the church.'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681644233644,
+    "irlTimeLast": 1681644238939,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "messages": [
+        {
+            "content": "Hey how's it hanging?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681644238939,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "I'm doing fine, just trying to get my mission done. Have you had any luck finding food for your family? I heard there might be some supplies in the market or warehouse. Let me know if you need any backup. Oh, and I have a message for a criminal with a shotgun. Colonel Henry Campbell is hiding out in the church.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681644238939,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        }
+    ]
+}

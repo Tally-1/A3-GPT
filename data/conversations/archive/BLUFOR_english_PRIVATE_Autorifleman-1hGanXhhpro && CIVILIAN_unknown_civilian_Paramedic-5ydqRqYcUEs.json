@@ -1,0 +1,243 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_unknown_civilian_Paramedic-5ydqRqYcUEs.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_unknown_civilian_Paramedic-5ydqRqYcUEs"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681392977971,
+    "irlTimeLast": 1681628658169,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        3
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        3
+    ],
+    "messages": [
+        {
+            "content": "Hey, how's things? Do you have Id?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681392981781,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Things are fine, thank you. And yes, I have ID. Is there anything I can assist you with?",
+            "speaker": "CIVILIAN_unknown_civilian_Paramedic-5ydqRqYcUEs",
+            "nodeTime": 1681392981781,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Sure, show me your Id, we are looking for insurgents",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681393009518,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "GPT-Assistant shows Tally his ID and asks for more information on the situation.",
+            "speaker": "CIVILIAN_unknown_civilian_Paramedic-5ydqRqYcUEs",
+            "nodeTime": 1681393009518,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "There has been enemy activity in the are lately, the enemy is disguising as paramedics",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681393237236,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                7
+            ]
+        },
+        {
+            "content": "Oh wow, that's concerning. Rest assured, I am a legitimate paramedic here to assist those in need. Is there anything I can do to help with the situation?",
+            "speaker": "CIVILIAN_unknown_civilian_Paramedic-5ydqRqYcUEs",
+            "nodeTime": 1681393237236,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                7
+            ]
+        },
+        {
+            "content": "I need to see what you have in your bag",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681393283219,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "content": "Of course, here are my medical supplies. Is there anything specific you're looking for?",
+            "speaker": "CIVILIAN_unknown_civilian_Paramedic-5ydqRqYcUEs",
+            "nodeTime": 1681393283219,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "content": "guns",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681393297083,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "content": "I don't carry guns. I'm here to provide medical assistance. Please let me know how else I can help in this situation.",
+            "speaker": "CIVILIAN_unknown_civilian_Paramedic-5ydqRqYcUEs",
+            "nodeTime": 1681393297083,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "content": "I am looking for a fisherman in this area, Have you seen him?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618373871,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                32
+            ]
+        },
+        {
+            "content": "I have not seen any fishermen around here recently. But if you need any medical assistance or information, just let me know. I'm happy to help in any way I can.",
+            "speaker": "CIVILIAN_unknown_civilian_Paramedic-5ydqRqYcUEs",
+            "nodeTime": 1681618373871,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                32
+            ]
+        },
+        {
+            "content": "How is your knee?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618412824,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                33
+            ]
+        },
+        {
+            "content": "My knee is feeling much better, thank you for asking. Is there anything else I can assist you with?",
+            "speaker": "CIVILIAN_unknown_civilian_Paramedic-5ydqRqYcUEs",
+            "nodeTime": 1681618412824,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                33
+            ]
+        },
+        {
+            "content": "James over here is injured, go take a look at him",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681628635145,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "I'm on it, Tally. I'll see what I can do for James. Is there anything specific you need me to check for?",
+            "speaker": "CIVILIAN_unknown_civilian_Paramedic-5ydqRqYcUEs",
+            "nodeTime": 1681628635145,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "He got a 9mm in his thigh",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681628658169,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Alright, let me take a look. It's going to hurt, but I'll do my best to patch him up. We need to get him back to base as soon as possible for further treatment. Is there anything else you need me to do while we're here, Tally?",
+            "speaker": "CIVILIAN_unknown_civilian_Paramedic-5ydqRqYcUEs",
+            "nodeTime": 1681628658169,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        }
+    ]
+}

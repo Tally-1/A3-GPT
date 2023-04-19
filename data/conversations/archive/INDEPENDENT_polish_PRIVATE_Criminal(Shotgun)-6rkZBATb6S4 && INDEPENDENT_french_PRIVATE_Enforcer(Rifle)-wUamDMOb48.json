@@ -1,0 +1,51 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4 && INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+        "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (unknown)<br/>Position: [924,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. According to informants he is hiding somewhere in  Salezie. Confirm that you have the right target before acting, we do not want to hurt the innocent.<br/><br/>Hanini Lomu's mission is: 'Guard the local market, make sure the police do not find out about the stash in the back'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681642600478,
+    "irlTimeLast": 1681642603231,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        4
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        4
+    ],
+    "messages": [
+        {
+            "content": "whats up?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681642603231,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "Not much, just finishing up my patrol at the market. How about you, Tally? What brings you here?",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681642603231,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        }
+    ]
+}

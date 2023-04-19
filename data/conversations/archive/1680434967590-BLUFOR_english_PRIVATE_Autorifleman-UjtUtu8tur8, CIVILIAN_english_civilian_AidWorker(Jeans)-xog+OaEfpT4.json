@@ -1,0 +1,39 @@
+{
+  "fileName": "1680434967590-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_english_civilian_AidWorker(Jeans)-xog+OaEfpT4.json",
+  "participants": [
+    "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+    "CIVILIAN_english_civilian_AidWorker(Jeans)-xog+OaEfpT4"
+  ],
+  "situation": "",
+  "location": "Air Station Mike-26 (Stratis)",
+  "node-time-start": 1680434967591,
+  "node-time-last": 1680435021538,
+  "ingame-time-start": [2035, 6, 6, 12, 0],
+  "ingame-time-last": [2035, 6, 6, 12, 0],
+  "messages": [
+    {
+      "content": "Sup man what are you doing around here?",
+      "speaker": "Tally",
+      "node-time": 1680434971407,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Hey Tally, I'm with a humanitarian organization providing aid to the locals here on the island. We've set up a few camps to distribute food, water, and medical supplies to those in need. What brings you to Air Station Mike-26?",
+      "speaker": "Nathan Moore",
+      "node-time": 1680434971407,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Looking for enemies disguised as Aid Workers",
+      "speaker": "Tally",
+      "node-time": 1680435021538,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Oh, I see. Well, I can assure you that our organization is solely focused on providing aid and support to the civilians on this island. We are not affiliated with any military or political group. But if you have any concerns or suspicions, feel free to ask me any questions you may have. I'm here to help in any way I can.",
+      "speaker": "Nathan Moore",
+      "node-time": 1680435021538,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    }
+  ]
+}

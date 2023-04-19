@@ -1,0 +1,15 @@
+{
+  "id":          "OPFOR_chinese_CORPORAL_ViperJTAC-Z87P84ANoVo",
+  "name":        "Weiyuan Jao",
+  "language":    "chinese",
+  "ethnicity":   "asian",
+  "faction":     "OPFOR",
+  "rank":        "CORPORAL",
+  "role":        "Viper JTAC",
+
+  "age":            30,
+  "religion":       "Taoism",
+  "marital_status": "married",
+  "personality":    "calm and collected",
+  "story":          "Weiyuan Jao joined the military after completing two years of compulsory military service in his home country of China. He became a JTAC after exceptional performance in training exercises."
+}

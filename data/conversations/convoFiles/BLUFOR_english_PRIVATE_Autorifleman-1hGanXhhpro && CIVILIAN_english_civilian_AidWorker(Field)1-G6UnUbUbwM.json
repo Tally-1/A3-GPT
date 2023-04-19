@@ -1,0 +1,219 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (unknown)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/>Archie Thomson's mission is: 'Inform Blufor soldiers that Gerasimos Isofidou is located at the beach west of Agia Marina.'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Stratis)",
+    "irlTimeFirst": 1681693006020,
+    "irlTimeLast": 1681694366424,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        0
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        3
+    ],
+    "messages": [
+        {
+            "content": "sup!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681693007436,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Hello there, Tally. How are you doing today? Are you enjoying your time here in Stratis?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM",
+            "nodeTime": 1681693007436,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Yeah I am good how about you?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681693032996,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "I'm doing well, thanks for asking. It's been a challenging mission, but I find fulfillment in providing aid to those who need it most. How about you? How has your deployment been so far?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM",
+            "nodeTime": 1681693032996,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "So I am looking for a fisherman",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681693053843,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "'Yes, I know a few fishermen around here. What kind of fish are you looking to catch?'",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM",
+            "nodeTime": 1681693053843,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "I am looking for gerasimos, do you know him?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681693081755,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Yes, I know Gerasimos. He's a local fisherman who lives near the port. I can give you directions if you'd like. But just a word of caution, he's not too fond of outsiders. Approach him with respect and you'll have a better chance of getting what you need.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM",
+            "nodeTime": 1681693081755,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Sweet, where is he now?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681693116672,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Gerasimos is currently at the port, about 4 kilometers northeast from our current location.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM",
+            "nodeTime": 1681693116672,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "whats up?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681693720620,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Not much, just trying to assess the needs of the civilians affected by the conflict. It's heartbreaking to see people suffering like this. But I'm grateful for the opportunity to help in any way I can.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM",
+            "nodeTime": 1681693720620,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "hey man",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681694319192,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Hey there, what's up? Need any help with something?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM",
+            "nodeTime": 1681694319192,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "I am lloking for a man by the name of Gerasimos",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681694366424,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Hey Tally, I have some intel that Gerasimos Isofidou is located at the beach west of Agia Marina. He's been aiding the enemy, right?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM",
+            "nodeTime": 1681694366424,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        }
+    ]
+}

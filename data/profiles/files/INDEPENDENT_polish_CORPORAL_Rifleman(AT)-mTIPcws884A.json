@@ -1,0 +1,15 @@
+{
+  "id":          "INDEPENDENT_polish_CORPORAL_Rifleman(AT)-mTIPcws884A",
+  "name":        "Jan Janowski",
+  "language":    "polish",
+  "ethnicity":   "east european",
+  "faction":     "INDEPENDENT",
+  "rank":        "CORPORAL",
+  "role":        "Rifleman (AT)",
+
+  "age":            32,
+  "religion":       "Catholic",
+  "marital_status": "Married",
+  "personality":    "Brave and loyal",
+  "story":          "Jan Janowski joined the Polish army straight out of high school. He has tirelessly trained and worked his way up the ranks to become a Corporal. His wife and two children are his motivation to keep pressing forward and fighting for his country."
+}

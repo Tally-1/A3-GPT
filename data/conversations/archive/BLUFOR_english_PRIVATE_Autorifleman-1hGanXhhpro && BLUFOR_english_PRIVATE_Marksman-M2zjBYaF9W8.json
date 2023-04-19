@@ -1,0 +1,51 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && BLUFOR_english_PRIVATE_Marksman-M2zjBYaF9W8.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "BLUFOR_english_PRIVATE_Marksman-M2zjBYaF9W8"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681382145968,
+    "irlTimeLast": 1681382146958,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        52
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        52
+    ],
+    "messages": [
+        {
+            "content": "How is your gear?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681382146958,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                52
+            ]
+        },
+        {
+            "content": "My gear is good. I have my rifle and my handgun. I also have a first aid kit.",
+            "speaker": "BLUFOR_english_PRIVATE_Marksman-M2zjBYaF9W8",
+            "nodeTime": 1681382146958,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                52
+            ]
+        }
+    ]
+}

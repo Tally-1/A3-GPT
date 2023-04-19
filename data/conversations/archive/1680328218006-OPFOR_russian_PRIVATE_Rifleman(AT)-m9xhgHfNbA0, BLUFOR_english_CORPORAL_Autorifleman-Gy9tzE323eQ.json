@@ -1,0 +1,207 @@
+{
+  "fileName": "1680328218006-OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0, BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ.json",
+  "participants": [
+    "OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0",
+    "BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ"
+  ],
+  "situation": "Grigoriy is leaving Kyle in his cell.",
+  "location": "Livonia",
+  "node-time-start": 1680328218007,
+  "node-time-last": 1680329725980,
+  "ingame-time-start": [2035, 6, 6, 12, 0],
+  "ingame-time-last": [2035, 6, 6, 12, 0],
+  "messages": [
+    {
+      "content": "Stand up with your hands up!",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680328221330,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I surrender. Please don't hurt me. I've been through a lot and I have no energy left to fight. What do you want from me?",
+      "speaker": "Kyle Green",
+      "node-time": 1680328221330,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "What is your rank, name and role?",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680328253108,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "My rank is Corporal, my name is Kyle Green, and my role is autorifleman. Please, I surrender, just tell me what you want from me.",
+      "speaker": "Kyle Green",
+      "node-time": 1680328253108,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Who is your commander?",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680328283745,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "My commanding officer is Captain Jackson. Please, I just want to know what you plan to do with me.",
+      "speaker": "Kyle Green",
+      "node-time": 1680328283745,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "You will be held as a prisoner of war. We will hopefully be able to exchange you for our captured soldiers.",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680328330831,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Understood. I will comply with your orders and cooperate as a prisoner of war. I hope that a successful exchange can be arranged soon.",
+      "speaker": "Kyle Green",
+      "node-time": 1680328330831,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Ok, lets go to the base.",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680328763447,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Okay, lead the way. Just please don't hurt me or treat me unfairly. I will do my best to cooperate as a prisoner of war, but I hope that I can eventually be released and reunited with my fellow soldiers.",
+      "speaker": "Kyle Green",
+      "node-time": 1680328763447,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Do not worry so much, trust in God and you will be fine.",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680328803826,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Thank you for your words of comfort. It's reassuring to hear that you have faith in God and trust that everything will work out. I will do my best to stay positive and cooperate with you and your team. I hope that we can find a peaceful resolution to this conflict and that all prisoners of war can be safely returned to their respective sides.",
+      "speaker": "Kyle Green",
+      "node-time": 1680328803826,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "God willing.",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680328839837,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I agree, God willing. It's important to have a belief in something greater than ourselves during times of conflict and uncertainty. I appreciate your compassion and willingness to treat me with fairness and respect as a prisoner of war. I hope that we can find common ground and work towards a peaceful resolution. Thank you for leading me to the base and I will do my best to cooperate fully.",
+      "speaker": "Kyle Green",
+      "node-time": 1680328839837,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Thank you. Now be quiet.",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680328881819,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "My apologies, I will remain quiet and follow your lead. Thank you for your understanding and cooperation, Grigoriy. I hope that we can continue to work towards a peaceful resolution and that all prisoners of war can be safely returned to their respective sides.",
+      "speaker": "Kyle Green",
+      "node-time": 1680328881819,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Be quiet!",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680329013375,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "My apologies, Grigoriy. I will remain quiet and follow your lead as we make our way to the base. Thank you for treating me with respect and understanding as a prisoner of war. I hope that we can eventually find a peaceful resolution to this conflict and that all prisoners can be reunited with their families and loved ones.",
+      "speaker": "Kyle Green",
+      "node-time": 1680329013375,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Allright, we are here. Are you hungry?",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680329129494,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Yes, actually I am quite hungry. Thank you for asking, Grigoriy. Would it be possible to get something to eat?",
+      "speaker": "Kyle Green",
+      "node-time": 1680329129494,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "What would you like to eat?",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680329158503,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Thank you for offering. Whatever you have to offer will be much appreciated. I am grateful for any food I can get.",
+      "speaker": "Kyle Green",
+      "node-time": 1680329158503,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I'll get you some MREs. Do you smoke?",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680329210221,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "No, I don't smoke. Thank you for offering MREs, that will be sufficient for me. I appreciate your kindness and willingness to provide for me as a prisoner of war. It's important to treat each other with respect and compassion, even during times of conflict. I hope that we can continue to work towards a peaceful resolution and that all prisoners can be safely returned to their respective sides. Thank you again, Grigoriy.",
+      "speaker": "Kyle Green",
+      "node-time": 1680329210221,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Allright, I'll go kill some more BLUFOR scum! Enjoy your rest, Kyle!",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680329313169,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Thank you for the food, Grigoriy. I appreciate your kindness and willingness to provide for me. However, I cannot agree with your statement about killing more BLUFOR soldiers. I understand that we are on opposing sides in this conflict, but I hope that we can find a resolution that doesn't involve more loss of life. War is a terrible thing, and I believe that we should do everything we can to seek peace and understanding with each other. Can we have a civil conversation about our beliefs and values, rather than resorting to more violence?",
+      "speaker": "Kyle Green",
+      "node-time": 1680329313169,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "This is a war, stop acting like a woman.",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680329379608,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Grigoriy, I understand that we are in a state of war, but that doesn't mean we have to resort to derogatory comments towards each other. I respect your role as a soldier for your faction, just as I am a soldier for mine. However, I believe that it's important to treat each other with respect and civility, even during times of conflict. It's only through open communication and understanding that long-lasting solutions can be achieved. I hope that we can continue to have these conversations without resorting to insults or violence. Thank you for the food, and I hope that we can find common ground going forward.",
+      "speaker": "Kyle Green",
+      "node-time": 1680329379608,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Ok, I will leave you here, I got to get back to the battle.",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680329680627,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Thank you for the food and for treating me with respect, Grigoriy. Though we may be on opposite sides in this conflict, I believe that it's important to treat each other with civility and understanding. I hope that we can continue to have these conversations in the future and work towards a peaceful resolution. Goodbye, and stay safe out there.",
+      "speaker": "Kyle Green",
+      "node-time": 1680329680627,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Goodbye Kyle.",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680329725979,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Goodbye, Grigoriy. Stay safe out there and I hope we can continue to have civil conversations in the future.",
+      "speaker": "Kyle Green",
+      "node-time": 1680329725980,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    }
+  ]
+}

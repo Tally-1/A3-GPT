@@ -1,0 +1,15 @@
+{
+  "id":          "BLUFOR_english_SERGEANT_Crewman-Qo3huw+dg40",
+  "name":        "Harry Collins",
+  "language":    "english",
+  "ethnicity":   "west european",
+  "faction":     "BLUFOR",
+  "rank":        "SERGEANT",
+  "role":        "Crewman",
+
+  "age":            30,
+  "religion":       "Christian",
+  "marital_status": "married",
+  "personality":    "confident",
+  "story":          "Harry Collins enlisted in the army at the age of 18. He quickly rose through the ranks and has proven himself to be a skilled and reliable soldier. He is highly respected by his fellow soldiers and is known for his professionalism and calm demeanor in high-pressure situations."
+}

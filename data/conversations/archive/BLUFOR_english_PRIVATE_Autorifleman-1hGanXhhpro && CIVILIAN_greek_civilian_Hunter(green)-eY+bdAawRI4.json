@@ -1,0 +1,123 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_greek_civilian_Hunter(green)-eY+bdAawRI4.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_greek_civilian_Hunter(green)-eY+bdAawRI4"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681382172054,
+    "irlTimeLast": 1681385234831,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        52
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        13,
+        43
+    ],
+    "messages": [
+        {
+            "content": "Hey!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681382172610,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                52
+            ]
+        },
+        {
+            "content": "Hey there!",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-eY+bdAawRI4",
+            "nodeTime": 1681382172610,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                52
+            ]
+        },
+        {
+            "content": "How are you?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681382180373,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                52
+            ]
+        },
+        {
+            "content": "I'm doing well, thanks for asking. Just out here enjoying the day.",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-eY+bdAawRI4",
+            "nodeTime": 1681382180373,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                52
+            ]
+        },
+        {
+            "content": "Hey, how's work going?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681385172920,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                13,
+                42
+            ]
+        },
+        {
+            "content": "Work's going well, thanks. Just been out hunting and gathering food for my family.",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-eY+bdAawRI4",
+            "nodeTime": 1681385172920,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                13,
+                42
+            ]
+        },
+        {
+            "content": "How was the hunt? did you get anything?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681385234831,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                13,
+                43
+            ]
+        },
+        {
+            "content": "Yes, I managed to catch a few rabbits and a wild pig. It should last my family for a while.",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-eY+bdAawRI4",
+            "nodeTime": 1681385234831,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                13,
+                43
+            ]
+        }
+    ]
+}

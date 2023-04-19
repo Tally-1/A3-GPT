@@ -1,0 +1,207 @@
+{
+  "fileName": "1680326845871-BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ, INDEPENDENT_greek_CORPORAL_Grenadier-0kMy0myzZjk.json",
+  "participants": [
+    "BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ",
+    "INDEPENDENT_greek_CORPORAL_Grenadier-0kMy0myzZjk"
+  ],
+  "situation": "Costa is shot in the chest and is bleeding out.",
+  "location": "George town",
+  "node-time-start": 1680326845872,
+  "node-time-last": 1680461292981,
+  "ingame-time-start": [2035, 6, 6, 12, 0],
+  "ingame-time-last": [2035, 6, 6, 12, 0],
+  "messages": [
+    {
+      "content": "Hey man, how are you doing?",
+      "speaker": "Kyle Green",
+      "node-time": 1680327420258,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I'm doing alright, just keeping a watchful eye out while on patrol. How about you, Kyle?",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680327420258,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Really? Should we be worried?",
+      "speaker": "Kyle Green",
+      "node-time": 1680327475529,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Not necessarily worried, just always alert and ready for anything. You never know what could happen in these streets. How long have you been deployed here, Kyle?",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680327475529,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "About a year, I think.",
+      "speaker": "Kyle Green",
+      "node-time": 1680327507934,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Wow, a year? That's a long time to be away from home. How are you holding up? It must be tough being away from your loved ones for such a long time.",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680327507934,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I am sick of it, how about you? Where are you from?",
+      "speaker": "Kyle Green",
+      "node-time": 1680327554812,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I understand how you feel, Kyle. Being away from home for so long can be draining. But we have to stay strong and focused on our mission. To answer your question, I'm from Greece. What about you, Kyle? Where are you from?",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680327554812,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Wales UK.",
+      "speaker": "Kyle Green",
+      "node-time": 1680327651396,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "That's interesting, Kyle. I have always wanted to visit Wales. How is it like back there?",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680327651396,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Cold and rainy, but at least they got fish and chips, made from Norwegian cod.",
+      "speaker": "Kyle Green",
+      "node-time": 1680327705068,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Haha, that sounds delicious! I'll have to try it out if I ever get the chance to visit Wales. Is there anything you miss most from back home, Kyle?",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680327705068,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Having sex with my wife....",
+      "speaker": "Kyle Green",
+      "node-time": 1680327742007,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I can only imagine how tough it must be to be away from your loved one for so long. I miss my wife and child too, but it's important to focus on our mission and make sure we get back to them safely. We just have to stay strong and keep pushing forward, Kyle.",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680327742007,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Allright nice to meet you. I gotta keep moving.",
+      "speaker": "Kyle Green",
+      "node-time": 1680327788939,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Nice meeting you too, Kyle. Take care and stay safe out there. Let's catch up later when we're off duty.",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680327788939,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Sure!",
+      "speaker": "Kyle Green",
+      "node-time": 1680327807595,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Sounds like a plan, Kyle. Stay safe out there and keep your head up. We're in this together. Catch you later.",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680327807595,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Tell me about yourself.",
+      "speaker": "Kyle Green",
+      "node-time": 1680459880255,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Well, I joined the military straight out of high school and have been serving ever since. I've been married for four years and have a child at home that I miss dearly. I'm originally from Greece and have always been interested in military tactics and strategy. I've always enjoyed working with explosives, so becoming a Grenadier was a natural fit for me. How about you, Kyle? What led you to join the military and become an autorifleman?",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680459880255,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "That is personal, how about you keep your distance weirdo!",
+      "speaker": "Kyle Green",
+      "node-time": 1680460218589,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Hey, Kyle, I didn't mean to come off as weird. I just thought it would be nice to get to know each other a bit better since we're out here together. But I totally understand and respect your boundaries. If you ever want to chat or grab a coffee or something, just let me know. Stay safe out there.",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680460218589,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Will do, sir.",
+      "speaker": "Kyle Green",
+      "node-time": 1680460478427,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "No need for the formalities, Kyle. We're both Corporals out here on patrol. But I appreciate the sentiment. And I agree, staying safe is our top priority. We're in a foreign land, and we need to stick together to get through it. If you ever need backup or support, just give me a holler.",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680460478427,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Very good, you go right around this building here.",
+      "speaker": "Kyle Green",
+      "node-time": 1680460976681,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Got it, I'm on it. Thanks for having my back, Kyle. It's a relief to know I can count on my fellow soldiers out here. Let's stay sharp and stay focused on the mission, alright?",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680460976681,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I guess you regret stealing my chocolate now eh? Pendejo!.",
+      "speaker": "Kyle Green",
+      "node-time": 1680461192497,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Haha, you caught me, Kyle! I didn't think you'd notice the missing chocolate. My apologies, mate. I'll make it up to you once we get back to base. How about I grab you a beer instead? We can relax a bit and swap some war stories. Deal?",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680461192497,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Nooo cabron, you will not go back...",
+      "speaker": "Kyle Green",
+      "node-time": 1680461256303,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "What do you mean, Kyle? I don't understand. What's going on?",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680461256303,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "You stole my chocolate so I am going to leave you here to die.",
+      "speaker": "Kyle Green",
+      "node-time": 1680461292981,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Wait, what? Kyle, you can't be serious. I know I messed up with the chocolate, but that's not a reason to abandon me out here. I'm bleeding out, man. I need your help. We're a team, remember? We have each other's backs. Please don't leave me here.",
+      "speaker": "Costa Strambopoulos",
+      "node-time": 1680461292981,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    }
+  ]
+}

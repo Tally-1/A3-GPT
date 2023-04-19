@@ -1,0 +1,123 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (Agia Marina)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/>Stefanos Petridis's mission is: 'Ask around and see if anyone has seen his car. It is a Orange hatchback'<br/><br/><br/><br/><br/>",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681698238830,
+    "irlTimeLast": 1681700652406,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        3
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        12
+    ],
+    "messages": [
+        {
+            "content": "Whats up man?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681698240291,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Hey there! Have you seen an orange hatchback around here? It belongs to my boss and I can't seem to locate it.",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1681698240291,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Hey man",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681700552309,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                10
+            ]
+        },
+        {
+            "content": "'Hey, how can I help you?'",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1681700552309,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                10
+            ]
+        },
+        {
+            "content": "You cant maan",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681700626714,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                11
+            ]
+        },
+        {
+            "content": "'Hey, do you need a ride somewhere? I've been driving around this area a lot recently, maybe I can help you out.'",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1681700626714,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                11
+            ]
+        },
+        {
+            "content": "Do you have a car?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681700652406,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                12
+            ]
+        },
+        {
+            "content": "Yeah, I have a car. It's an orange hatchback. Have you seen it around here?",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1681700652406,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                12
+            ]
+        }
+    ]
+}

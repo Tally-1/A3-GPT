@@ -1,0 +1,51 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_unknown_civilian_UtilityWorker-3RMqlDLhhA0.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_unknown_civilian_UtilityWorker-3RMqlDLhhA0"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681381911969,
+    "irlTimeLast": 1681381930495,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        48
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        48
+    ],
+    "messages": [
+        {
+            "content": "we need a toolkit, you got one?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681381930495,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                48
+            ]
+        },
+        {
+            "content": "Sorry, I don't carry a toolkit with me. But there's a hardware store nearby if you need one.",
+            "speaker": "CIVILIAN_unknown_civilian_UtilityWorker-3RMqlDLhhA0",
+            "nodeTime": 1681381930495,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                48
+            ]
+        }
+    ]
+}

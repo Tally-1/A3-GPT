@@ -1,0 +1,75 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0 && INDEPENDENT_french_PRIVATE_Dealer(Rifle)-dIV7m0wSX28.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+        "INDEPENDENT_french_PRIVATE_Dealer(Rifle)-dIV7m0wSX28"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find food for your family'<br/><br/>Location: (unknown)<br/>Position: [919,5477]<br/><br/>Task:<br/>Take a look inside the market, if there is nothing there take a look in the warehouse<br/><br/>Olina Umbari's mission is: 'Guard the market warehouse against criminals, question anyone who seems suspicious'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681644185045,
+    "irlTimeLast": 1681644213406,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        0
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        0
+    ],
+    "messages": [
+        {
+            "content": "Whats up man!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681644187230,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Nothing much, just on guard duty for the market warehouse. Have you seen anyone suspicious around here?",
+            "speaker": "INDEPENDENT_french_PRIVATE_Dealer(Rifle)-dIV7m0wSX28",
+            "nodeTime": 1681644187230,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "mind if I take a look inside?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681644213406,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Sure, go ahead and take a look inside. But if you find anything suspicious or out of place, let me know immediately. We can't let any criminals get their hands on our supplies.",
+            "speaker": "INDEPENDENT_french_PRIVATE_Dealer(Rifle)-dIV7m0wSX28",
+            "nodeTime": 1681644213406,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        }
+    ]
+}

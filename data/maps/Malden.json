@@ -1,0 +1,142 @@
+{
+  "name": "Malden",
+  "size": "12800 sqKm2",
+  "locations": [
+    {
+      "name": "La Trinite",
+      "position": [
+        7264,
+        7931
+      ],
+      "type": "city"
+    },
+    {
+      "name": "Larche",
+      "position": [
+        6013,
+        8627
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Chapoi",
+      "position": [
+        5836,
+        3530
+      ],
+      "type": "town"
+    },
+    {
+      "name": "La Pessagne",
+      "position": [
+        3116,
+        6331
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Houdan",
+      "position": [
+        7121,
+        6075
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Dourdan",
+      "position": [
+        7036,
+        7108
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Arudy",
+      "position": [
+        5537,
+        6983
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Sainte Marie",
+      "position": [
+        5547,
+        4233
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Saint Louis",
+      "position": [
+        7143,
+        8968
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Vigny",
+      "position": [
+        3069,
+        6835
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Goisse",
+      "position": [
+        3585,
+        8520
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Cancon",
+      "position": [
+        5404,
+        2796
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Le Port",
+      "position": [
+        8193,
+        3117
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Airport",
+      "position": [
+        8173,
+        10114
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "La Rivire",
+      "position": [
+        3731,
+        3258
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Lolisse",
+      "position": [
+        5567,
+        11187
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Moray",
+      "position": [
+        883,
+        11988
+      ],
+      "type": "minor location"
+    }
+  ]
+}

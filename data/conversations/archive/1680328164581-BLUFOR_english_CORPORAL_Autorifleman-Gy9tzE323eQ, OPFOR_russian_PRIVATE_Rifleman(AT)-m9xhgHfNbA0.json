@@ -1,0 +1,27 @@
+{
+  "fileName": "1680328164581-BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ, OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0.json",
+  "participants": [
+    "BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ",
+    "OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0"
+  ],
+  "situation": "Grigoriy just captured Kyle. Kyle is exhausted and has no energy left to fight.",
+  "location": "Livonia",
+  "node-time-start": 1680328164582,
+  "node-time-last": 1680328169617,
+  "ingame-time-start": [2035, 6, 6, 12, 0],
+  "ingame-time-last": [2035, 6, 6, 12, 0],
+  "messages": [
+    {
+      "content": "Stand up with your hands up!",
+      "speaker": "Kyle Green",
+      "node-time": 1680328169617,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "You might be the one holding the gun, but I am the one who has captured you, Kyle. Surrendering was the smartest decision you could have made. Now, tell me, how did you manage to end up in this situation?",
+      "speaker": "Grigoriy Dobryakov",
+      "node-time": 1680328169617,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    }
+  ]
+}

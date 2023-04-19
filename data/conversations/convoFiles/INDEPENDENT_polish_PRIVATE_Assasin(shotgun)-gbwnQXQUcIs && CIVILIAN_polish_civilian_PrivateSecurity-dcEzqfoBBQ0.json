@@ -1,0 +1,171 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs && CIVILIAN_polish_civilian_PrivateSecurity-dcEzqfoBBQ0.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+        "CIVILIAN_polish_civilian_PrivateSecurity-dcEzqfoBBQ0"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Take out the colonel'<br/><br/>Location: (Le Port)<br/>Position: [8164,3102]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1681788088613,
+    "irlTimeLast": 1681798130887,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        12,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        12,
+        1
+    ],
+    "messages": [
+        {
+            "content": "Shalom!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681788090930,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Hello there. Can I help you? I'm just a private security guard doing my job.",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-dcEzqfoBBQ0",
+            "nodeTime": 1681788090930,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "I am just curious about you",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681788128257,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Well, there's not much to tell. I come from a wealthy family in Warsaw and now work as a private security guard. I take pride in my work and am always looking for ways to improve my skills. But I'm afraid I can't be of much help to you.",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-dcEzqfoBBQ0",
+            "nodeTime": 1681788128257,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Sup?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681795370256,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "'Sup, Tally. How can I assist you today?'",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-dcEzqfoBBQ0",
+            "nodeTime": 1681795370256,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Hey man what is your job?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681797612498,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "I'm a private security guard for a businessman in the city. Why do you ask?",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-dcEzqfoBBQ0",
+            "nodeTime": 1681797612498,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "hey",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681798114704,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Hey Tally, what brings you to Le Port? Can I assist you with anything?",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-dcEzqfoBBQ0",
+            "nodeTime": 1681798114704,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Just wondering what your job is",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681798130887,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "I'm a private security guard, working for a businessman in the city. Always looking to improve my skills and keep my client safe.",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-dcEzqfoBBQ0",
+            "nodeTime": 1681798130887,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                1
+            ]
+        }
+    ]
+}
