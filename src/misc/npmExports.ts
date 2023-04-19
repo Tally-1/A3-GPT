@@ -49,4 +49,5 @@ function initA3GPT(
             );
         
         mngr.A3GPTstream();
+        return mngr;
 };

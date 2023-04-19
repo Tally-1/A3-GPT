@@ -30,7 +30,8 @@ class RequestManager{
         includeBatchFile:boolean = false
         ){
         const path = require('path');
-        const {iniFolder, apiKey} = require(path.join(rootFolder, "..", "a3.gpt-config.json"));
+        const cfgPath = path.join(rootFolder, "..", "DCO-config.cfg");
+        const {iniFolder, apiKey} = this.parseCfg(cfgPath) as {iniFolder:string, apiKey:string};
         
         this.rootFolder  = rootFolder;
         this.dataFolder  = dataFolder;
@@ -47,30 +48,45 @@ class RequestManager{
      getRequests = getRequests;
      parseStringArr = parseStringArr;
 
+     parseCfg(cfgPath:string) {
+        const fs = require('fs');
+    
+    const configFile = fs.readFileSync(cfgPath, 'utf8');
+    const lines = configFile.split('\n');
+    const configData = {};
+    
+    for (const line of lines) {
+      if (line.startsWith('#')
+      || (!line.includes('='))
+      || (line.startsWith('['))) {
+        continue;
+      }
+    
+      const [key, value] = line.split('=');
+      //@ts-ignore
+      configData[key.trim()] = value.trim();
+    }
+    return configData;
+    };
+
      createBatchFile(this:RequestManager){
         const startFile = path.join(this.rootFolder,"..", "run DCO-GPT.bat");
         const updateFile = path.join(this.rootFolder,"..", "update DCO-GPT.bat");
-        const upDtStrtFile = path.join(this.rootFolder,"..", "update and run DCO-GPT.bat");
 
         const startFileContent = `@echo off
         cd ${this.rootFolder}
         node .
         pause`;
 
-        const updateFileContent = `@echo off
-        cd ${this.rootFolder}
-        npm update "a3.gpt"
-        pause`;
+        const updateFileContent = 
+         'cd '+this.rootFolder
+        +'\nnpm update "a3-gpt"'
+        +'\npause';
 
-        const upDtStrtFileContent = `@echo off
-        cd ${this.rootFolder}
-        npm update "a3.gpt"
-        node .
-        pause`;
-
-        fs.writeFileSync(upDtStrtFile, upDtStrtFileContent);
         fs.writeFileSync(updateFile, updateFileContent);
         fs.writeFileSync(startFile, startFileContent);
+
+        console.log("Batch files created.");
     };
 
      a3DebugMsg(this:RequestManager ,message:string){
