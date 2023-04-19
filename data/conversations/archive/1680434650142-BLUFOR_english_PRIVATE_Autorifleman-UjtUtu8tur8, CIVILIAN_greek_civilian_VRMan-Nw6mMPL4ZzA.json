@@ -1,0 +1,111 @@
+{
+  "fileName": "1680434650142-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_greek_civilian_VRMan-Nw6mMPL4ZzA.json",
+  "participants": [
+    "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+    "CIVILIAN_greek_civilian_VRMan-Nw6mMPL4ZzA"
+  ],
+  "situation": "",
+  "location": "Air Station Mike-26 (Stratis)",
+  "node-time-start": 1680434650144,
+  "node-time-last": 1680434884812,
+  "ingame-time-start": [2035, 6, 6, 12, 0],
+  "ingame-time-last": [2035, 6, 6, 12, 0],
+  "messages": [
+    {
+      "content": "Oh, yeah I call them once a year",
+      "speaker": "Tally",
+      "node-time": 1680434651939,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Call who once a year, Tally? Sorry, I didn't catch that.",
+      "speaker": "Arion Vidales",
+      "node-time": 1680434651939,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Hey man what's up?",
+      "speaker": "Tally",
+      "node-time": 1680434672531,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Not much, just trying to make sense of what you were saying earlier. Who do you call once a year?",
+      "speaker": "Arion Vidales",
+      "node-time": 1680434672531,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Oh, don't worry about it, I confused you with someone else. I'm sorry for the inconvenience.",
+      "speaker": "Tally",
+      "node-time": 1680434705315,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "No worries, Tally. I was just curious. How's everything going with you and your family?",
+      "speaker": "Arion Vidales",
+      "node-time": 1680434705315,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "All good, how about yourself?",
+      "speaker": "Tally",
+      "node-time": 1680434737821,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Things are alright, just trying to balance my time between my work and my family. It can be difficult sometimes, but I do my best. How do you manage to balance your family and your work in the BLUFOR forces, Tally?",
+      "speaker": "Arion Vidales",
+      "node-time": 1680434737821,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Lets talk about you!",
+      "speaker": "Tally",
+      "node-time": 1680434770387,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Well, I appreciate your concern, Tally. To be honest, it's a constant struggle for me to balance my virtual reality hobbies with my family responsibilities. My wife and kids often feel neglected or frustrated with my lack of presence. But, I'm trying to be more present and make time for them, especially since I lost my job as a software engineer. It's a tough reality to face, but I'm grateful for the opportunities I have to spend time with them now. What about you, Tally? What helps you manage your family and work balance in the BLUFOR?",
+      "speaker": "Arion Vidales",
+      "node-time": 1680434770387,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Nada amigo, dime, hablas español?",
+      "speaker": "Tally",
+      "node-time": 1680434841398,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Sí, hablo español. ¿Por qué lo preguntas, Tally?",
+      "speaker": "Arion Vidales",
+      "node-time": 1680434841398,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Enn norsk da?",
+      "speaker": "Tally",
+      "node-time": 1680434857353,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Lo siento, Tally, no hablo noruego. Pero si necesitas ayuda con algo, no dudes en preguntar.",
+      "speaker": "Arion Vidales",
+      "node-time": 1680434857353,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Ok, chauu nos vemos luego",
+      "speaker": "Tally",
+      "node-time": 1680434884812,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Alright, Tally, take care. Nice talking to you. See you around.",
+      "speaker": "Arion Vidales",
+      "node-time": 1680434884812,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    }
+  ]
+}

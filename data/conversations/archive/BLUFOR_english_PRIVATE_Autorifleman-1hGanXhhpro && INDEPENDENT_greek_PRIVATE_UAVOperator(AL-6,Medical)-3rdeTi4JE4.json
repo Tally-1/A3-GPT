@@ -1,0 +1,75 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && INDEPENDENT_greek_PRIVATE_UAVOperator(AL-6,Medical)-3rdeTi4JE4.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "INDEPENDENT_greek_PRIVATE_UAVOperator(AL-6,Medical)-3rdeTi4JE4"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681383102438,
+    "irlTimeLast": 1681383431800,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        13,
+        8
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        13,
+        13
+    ],
+    "messages": [
+        {
+            "content": "how is your gear?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681383121198,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                13,
+                8
+            ]
+        },
+        {
+            "content": "Dimitrios Ioannou responds: 'My gear is good to go.'",
+            "speaker": "INDEPENDENT_greek_PRIVATE_UAVOperator(AL-6,Medical)-3rdeTi4JE4",
+            "nodeTime": 1681383121198,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                13,
+                8
+            ]
+        },
+        {
+            "content": "What is that gun you are carrying?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681383431800,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                13,
+                13
+            ]
+        },
+        {
+            "content": "Dimitrios Ioannou responds: 'I am not carrying a gun, I am the UAV operator. My equipment includes the AL-6 UAV and medical supplies.'",
+            "speaker": "INDEPENDENT_greek_PRIVATE_UAVOperator(AL-6,Medical)-3rdeTi4JE4",
+            "nodeTime": 1681383431800,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                13,
+                13
+            ]
+        }
+    ]
+}

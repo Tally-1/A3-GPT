@@ -1,0 +1,435 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681397216696,
+    "irlTimeLast": 1681625072906,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        3
+    ],
+    "messages": [
+        {
+            "content": "hola",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681397219501,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Hey there, how can I assist you?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681397219501,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "I just wondered where you are from",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681397238783,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "I'm originally from Italy, but I've lived in the UK for a while now. What about you?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681397238783,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Cant remember",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681397279356,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Ah, that's alright. Is there anything else you wanted to ask or talk about?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681397279356,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Yeah, how can I get to Kamino firing range?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681397311615,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Kamino firing range is located to the southeast of Agia Marina. Just head in that direction and you should see signs for it.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681397311615,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "what about Air station mike 26?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681397368997,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "Air Station Mike 26 is located further south from Kamino firing range. Take the main road heading south, and you'll see signs for it.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681397368997,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "Id like to go see the spartan, do you know where that one is located?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681397431241,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "The Spartan is located northeast of Agia Marina. Follow the road that heads in that direction and you'll see signs for it.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681397431241,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "bullshit, the spartan is located at the southern tip of stratis",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681397469066,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "I'm sorry, I must have given you incorrect information. The Spartan is actually located at the southern tip of Stratis.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681397469066,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "Ok so now you can give me the direction to the spartan?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681397505766,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                7
+            ]
+        },
+        {
+            "content": "Head south to the tip of Stratis. Signs there will guide you to the Spartan.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681397505766,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                7
+            ]
+        },
+        {
+            "content": "Hey! How's it hanging?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618433336,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                33
+            ]
+        },
+        {
+            "content": "'My legs are injured, it's difficult to move. What's going on? Are you okay?'",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681618433336,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                33
+            ]
+        },
+        {
+            "content": "Let me see if I can fix you up, I got a medkit on me",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618492920,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                34
+            ]
+        },
+        {
+            "content": "'Thank you, I appreciate it. What's happening? Why are you guys here? Is everything okay?'",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681618492920,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                34
+            ]
+        },
+        {
+            "content": "Any better?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618510388,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                34
+            ]
+        },
+        {
+            "content": "Yes, thank you. Can you tell me what's happening? My legs don't allow me to move very well.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681618510388,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                34
+            ]
+        },
+        {
+            "content": "you got shot by the enemy of mankind",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618531564,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                35
+            ]
+        },
+        {
+            "content": "I see. That's unfortunate. I hope you catch whoever did it. I might be able to help you guys out if you need it, I have some engineering skills that could come in handy.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681618531564,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                35
+            ]
+        },
+        {
+            "content": "do you have the time?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681624944354,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Yes, it's currently 12:05. Is there something I can assist you with, Tally?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681624944354,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "How long until sunset?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681624969795,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Sunset is in approximately three hours, Tally. Is everything okay? You seem a bit tense.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681624969795,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Yeah, were looking for a infiltrator",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681624998192,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "I hope everything turns out okay, Tally. If there's anything I can do to assist, please don't hesitate to ask.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681624998192,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Do you know a man named Gerasimos?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681625044396,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Yes, Gerasimos Isofidou. He's a local fisherman here. I haven't seen him in a few days though, have you asked the other locals?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681625044396,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Nope, I'll go do that now",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681625072906,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Yeah, I heard he might have gone on a fishing trip. I hope you find him soon, Tally. Let me know if you need any more help.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Cargo)-BZNtKP1HXIY",
+            "nodeTime": 1681625072906,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        }
+    ]
+}

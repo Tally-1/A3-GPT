@@ -1,0 +1,51 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs && INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+        "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Take out the colonel'<br/><br/>Location: (Le Port)<br/>Position: [8210,3093]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Gregor Zleip`s mission is: Tell the assasin (shotgun) that Henry Cambell is hiding in the curch. Tell the Looters that the weapons cache can be found in the two story building next to the grave-yard.<br/><br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1681786906999,
+    "irlTimeLast": 1681786912461,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        12,
+        3
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        12,
+        3
+    ],
+    "messages": [
+        {
+            "content": "Hey man",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681786912461,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Hey, what's up? I got the intel you need. Colonel Campbell is holed up in the church. And if you're interested, the weapons cache is in the two-story building next to the graveyard. Good luck, man.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(SMG)-keqZPfinU7Y",
+            "nodeTime": 1681786912461,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                3
+            ]
+        }
+    ]
+}

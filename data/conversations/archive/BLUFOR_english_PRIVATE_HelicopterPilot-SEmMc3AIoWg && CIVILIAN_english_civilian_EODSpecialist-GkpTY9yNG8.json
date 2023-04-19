@@ -1,0 +1,51 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_HelicopterPilot-SEmMc3AIoWg && CIVILIAN_english_civilian_EODSpecialist-GkpTY9yNG8.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_HelicopterPilot-SEmMc3AIoWg",
+        "CIVILIAN_english_civilian_EODSpecialist-GkpTY9yNG8"
+    ],
+    "situation": "<br/><br/><br/><br/>",
+    "location": "unknown (Altis)",
+    "irlTimeFirst": 1681633130612,
+    "irlTimeLast": 1681633133088,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        12,
+        1
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        12,
+        1
+    ],
+    "messages": [
+        {
+            "content": "whats up?",
+            "speaker": "BLUFOR_english_PRIVATE_HelicopterPilot-SEmMc3AIoWg",
+            "nodeTime": 1681633133088,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Hey Quinton, just finished checking and clearing the area for any possible explosives. How's it going on your end?",
+            "speaker": "CIVILIAN_english_civilian_EODSpecialist-GkpTY9yNG8",
+            "nodeTime": 1681633133088,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                1
+            ]
+        }
+    ]
+}

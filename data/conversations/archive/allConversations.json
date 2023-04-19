@@ -1,0 +1,394 @@
+{
+  "BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ-INDEPENDENT_greek_CORPORAL_Grenadier-0kMy0myzZjk": {
+    "participants": [
+      "BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ",
+      "INDEPENDENT_greek_CORPORAL_Grenadier-0kMy0myzZjk"
+    ],
+    "fileName": "1680326845871-BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ, INDEPENDENT_greek_CORPORAL_Grenadier-0kMy0myzZjk.json",
+    "node-time": 1680326845871
+  },
+  "BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ-OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0": {
+    "participants": [
+      "BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ",
+      "OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0"
+    ],
+    "fileName": "1680328164581-BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ, OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0.json",
+    "node-time": 1680328164581
+  },
+  "OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0-BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ": {
+    "participants": [
+      "OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0",
+      "BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ"
+    ],
+    "fileName": "1680328218006-OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0, BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ.json",
+    "node-time": 1680328218006
+  },
+  "OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0-OPFOR_russian_PRIVATE_Rifleman(AT)-Zb9mTRap7qI": {
+    "participants": [
+      "OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0",
+      "OPFOR_russian_PRIVATE_Rifleman(AT)-Zb9mTRap7qI"
+    ],
+    "fileName": "1680329932527-OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0, OPFOR_russian_PRIVATE_Rifleman(AT)-Zb9mTRap7qI.json",
+    "node-time": 1680329932527
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-NIOEfSsmZlc-BLUFOR_english_PRIVATE_Marksman-M2zjBYaF9W8": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-NIOEfSsmZlc",
+      "BLUFOR_english_PRIVATE_Marksman-M2zjBYaF9W8"
+    ],
+    "fileName": "1680409992167-BLUFOR_english_PRIVATE_Autorifleman-NIOEfSsmZlc, BLUFOR_english_PRIVATE_Marksman-M2zjBYaF9W8.json",
+    "node-time": 1680409992167
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-BLUFOR_english_PRIVATE_Marksman-Y8f2LxbH9W4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "BLUFOR_english_PRIVATE_Marksman-Y8f2LxbH9W4"
+    ],
+    "fileName": "1680433547494-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, BLUFOR_english_PRIVATE_Marksman-Y8f2LxbH9W4.json",
+    "node-time": 1680433547494
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_unknown_civilian_ConstructionWorker(Red)-9DnVcXPK7E": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_unknown_civilian_ConstructionWorker(Red)-9DnVcXPK7E"
+    ],
+    "fileName": "1680433642234-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_unknown_civilian_ConstructionWorker(Red)-9DnVcXPK7E.json",
+    "node-time": 1680433642234
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_greek_civilian_Driver(Bluking)-8J15fMnTGYE": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_greek_civilian_Driver(Bluking)-8J15fMnTGYE"
+    ],
+    "fileName": "1680433876163-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_greek_civilian_Driver(Bluking)-8J15fMnTGYE.json",
+    "node-time": 1680433876163
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_greek_civilian_VRMan-Nw6mMPL4ZzA": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_greek_civilian_VRMan-Nw6mMPL4ZzA"
+    ],
+    "fileName": "1680434650142-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_greek_civilian_VRMan-Nw6mMPL4ZzA.json",
+    "node-time": 1680434650142
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_english_civilian_AidWorker(Jeans)-xog+OaEfpT4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_english_civilian_AidWorker(Jeans)-xog+OaEfpT4"
+    ],
+    "fileName": "1680434967590-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_english_civilian_AidWorker(Jeans)-xog+OaEfpT4.json",
+    "node-time": 1680434967590
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_polish_civilian_Farmer-PI6Y2qR0320": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_polish_civilian_Farmer-PI6Y2qR0320"
+    ],
+    "fileName": "1680464929127-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_polish_civilian_Farmer-PI6Y2qR0320.json",
+    "node-time": 1680464929127
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_unknown_civilian_UAVOperator(Utility,Medical)-NZ3EG+XWQ4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_unknown_civilian_UAVOperator(Utility,Medical)-NZ3EG+XWQ4"
+    ],
+    "fileName": "1680465128286-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_unknown_civilian_UAVOperator(Utility,Medical)-NZ3EG+XWQ4.json",
+    "node-time": 1680465128286
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_unknown_civilian_Civilian(Summer)3-xln6ce2rVK4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_unknown_civilian_Civilian(Summer)3-xln6ce2rVK4"
+    ],
+    "fileName": "1680465403771-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_unknown_civilian_Civilian(Summer)3-xln6ce2rVK4.json",
+    "node-time": 1680465403771
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-BLUFOR_english_PRIVATE_AmmoBearer-UFSg0OlWGn8": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "BLUFOR_english_PRIVATE_AmmoBearer-UFSg0OlWGn8"
+    ],
+    "fileName": "1680465468217-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, BLUFOR_english_PRIVATE_AmmoBearer-UFSg0OlWGn8.json",
+    "node-time": 1680465468217
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_greek_civilian_Civilian3-UCVcCTbjye4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_greek_civilian_Civilian3-UCVcCTbjye4"
+    ],
+    "fileName": "1680466402138-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_greek_civilian_Civilian3-UCVcCTbjye4.json",
+    "node-time": 1680466402138
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_unknown_civilian_Fugitive(shorts)-Sc9xsXebC2Q": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_unknown_civilian_Fugitive(shorts)-Sc9xsXebC2Q"
+    ],
+    "fileName": "1680484925046-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_unknown_civilian_Fugitive(shorts)-Sc9xsXebC2Q.json",
+    "node-time": 1680484925046
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_unknown_civilian_Commoner(shorts)-YO63bLujdO4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_unknown_civilian_Commoner(shorts)-YO63bLujdO4"
+    ],
+    "fileName": "1680484971742-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_unknown_civilian_Commoner(shorts)-YO63bLujdO4.json",
+    "node-time": 1680484971742
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_greek_civilian_Journalist-3rdeTi4JE4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_greek_civilian_Journalist-3rdeTi4JE4"
+    ],
+    "fileName": "1680485111580-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_greek_civilian_Journalist-3rdeTi4JE4.json",
+    "node-time": 1680485111580
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA-BLUFOR_english_PRIVATE_Marksman-Y8f2LxbH9W4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA",
+      "BLUFOR_english_PRIVATE_Marksman-Y8f2LxbH9W4"
+    ],
+    "fileName": "1680487588876-BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA, BLUFOR_english_PRIVATE_Marksman-Y8f2LxbH9W4.json",
+    "node-time": 1680487588876
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA-BLUFOR_english_PRIVATE_Gunner(HMG)-iVj314tw740": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA",
+      "BLUFOR_english_PRIVATE_Gunner(HMG)-iVj314tw740"
+    ],
+    "fileName": "1680487615366-BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA, BLUFOR_english_PRIVATE_Gunner(HMG)-iVj314tw740.json",
+    "node-time": 1680487615366
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA-CIVILIAN_unknown_civilian_Fugitive(shorts)-Sc9xsXebC2Q": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA",
+      "CIVILIAN_unknown_civilian_Fugitive(shorts)-Sc9xsXebC2Q"
+    ],
+    "fileName": "1680487757430-BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA, CIVILIAN_unknown_civilian_Fugitive(shorts)-Sc9xsXebC2Q.json",
+    "node-time": 1680487757430
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA-CIVILIAN_unknown_civilian_Commoner(shorts)-YO63bLujdO4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA",
+      "CIVILIAN_unknown_civilian_Commoner(shorts)-YO63bLujdO4"
+    ],
+    "fileName": "1680487810523-BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA, CIVILIAN_unknown_civilian_Commoner(shorts)-YO63bLujdO4.json",
+    "node-time": 1680487810523
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-BLUFOR_english_PRIVATE_Gunner(HMG)-iVj314tw740": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "BLUFOR_english_PRIVATE_Gunner(HMG)-iVj314tw740"
+    ],
+    "fileName": "1680496634612-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, BLUFOR_english_PRIVATE_Gunner(HMG)-iVj314tw740.json",
+    "node-time": 1680496634612
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_unknown_civilian_ConstructionWorker(Black)-cp7HtUY7vy4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_unknown_civilian_ConstructionWorker(Black)-cp7HtUY7vy4"
+    ],
+    "fileName": "1680497372302-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_unknown_civilian_ConstructionWorker(Black)-cp7HtUY7vy4.json",
+    "node-time": 1680497372302
+  },
+  "BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU-CIVILIAN_greek_civilian_Hunter(green)-eY+bdAawRI4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU",
+      "CIVILIAN_greek_civilian_Hunter(green)-eY+bdAawRI4"
+    ],
+    "fileName": "1680502693655-BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU, CIVILIAN_greek_civilian_Hunter(green)-eY+bdAawRI4.json",
+    "node-time": 1680502693655
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA-CIVILIAN_unknown_civilian_Civilian(Summer)3-xln6ce2rVK4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA",
+      "CIVILIAN_unknown_civilian_Civilian(Summer)3-xln6ce2rVK4"
+    ],
+    "fileName": "1680502870747-BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA, CIVILIAN_unknown_civilian_Civilian(Summer)3-xln6ce2rVK4.json",
+    "node-time": 1680502870747
+  },
+  "BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU-CIVILIAN_unknown_civilian_Civilian(Summer)3-xln6ce2rVK4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU",
+      "CIVILIAN_unknown_civilian_Civilian(Summer)3-xln6ce2rVK4"
+    ],
+    "fileName": "1680502934627-BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU, CIVILIAN_unknown_civilian_Civilian(Summer)3-xln6ce2rVK4.json",
+    "node-time": 1680502934627
+  },
+  "BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU-BLUFOR_english_PRIVATE_Gunner(HMG)-iVj314tw740": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU",
+      "BLUFOR_english_PRIVATE_Gunner(HMG)-iVj314tw740"
+    ],
+    "fileName": "1680503331146-BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU, BLUFOR_english_PRIVATE_Gunner(HMG)-iVj314tw740.json",
+    "node-time": 1680503331146
+  },
+  "BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU-CIVILIAN_greek_civilian_Journalist-3rdeTi4JE4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU",
+      "CIVILIAN_greek_civilian_Journalist-3rdeTi4JE4"
+    ],
+    "fileName": "1680503732724-BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU, CIVILIAN_greek_civilian_Journalist-3rdeTi4JE4.json",
+    "node-time": 1680503732724
+  },
+  "BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU-BLUFOR_english_PRIVATE_Marksman-Y8f2LxbH9W4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU",
+      "BLUFOR_english_PRIVATE_Marksman-Y8f2LxbH9W4"
+    ],
+    "fileName": "1680503800589-BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU, BLUFOR_english_PRIVATE_Marksman-Y8f2LxbH9W4.json",
+    "node-time": 1680503800589
+  },
+  "BLUFOR_english_PRIVATE_AmmoBearer-UFSg0OlWGn8-CIVILIAN_unknown_civilian_UAVOperator(Utility,Medical)-NZ3EG+XWQ4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_AmmoBearer-UFSg0OlWGn8",
+      "CIVILIAN_unknown_civilian_UAVOperator(Utility,Medical)-NZ3EG+XWQ4"
+    ],
+    "fileName": "1680503948585-BLUFOR_english_PRIVATE_AmmoBearer-UFSg0OlWGn8, CIVILIAN_unknown_civilian_UAVOperator(Utility,Medical)-NZ3EG+XWQ4.json",
+    "node-time": 1680503948585
+  },
+  "BLUFOR_english_PRIVATE_AmmoBearer-UFSg0OlWGn8-BLUFOR_english_PRIVATE_Marksman-Y8f2LxbH9W4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_AmmoBearer-UFSg0OlWGn8",
+      "BLUFOR_english_PRIVATE_Marksman-Y8f2LxbH9W4"
+    ],
+    "fileName": "1680504017638-BLUFOR_english_PRIVATE_AmmoBearer-UFSg0OlWGn8, BLUFOR_english_PRIVATE_Marksman-Y8f2LxbH9W4.json",
+    "node-time": 1680504017638
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA-CIVILIAN_greek_civilian_Driver(Bluking)-8J15fMnTGYE": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA",
+      "CIVILIAN_greek_civilian_Driver(Bluking)-8J15fMnTGYE"
+    ],
+    "fileName": "1680542417812-BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA, CIVILIAN_greek_civilian_Driver(Bluking)-8J15fMnTGYE.json",
+    "node-time": 1680542417812
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA-CIVILIAN_unknown_civilian_ConstructionWorker(Red)-9DnVcXPK7E": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA",
+      "CIVILIAN_unknown_civilian_ConstructionWorker(Red)-9DnVcXPK7E"
+    ],
+    "fileName": "1680542791056-BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA, CIVILIAN_unknown_civilian_ConstructionWorker(Red)-9DnVcXPK7E.json",
+    "node-time": 1680542791056
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA-CIVILIAN_unknown_civilian_UAVOperator(Utility,Medical)-NZ3EG+XWQ4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA",
+      "CIVILIAN_unknown_civilian_UAVOperator(Utility,Medical)-NZ3EG+XWQ4"
+    ],
+    "fileName": "1680545382404-BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA, CIVILIAN_unknown_civilian_UAVOperator(Utility,Medical)-NZ3EG+XWQ4.json",
+    "node-time": 1680545382404
+  },
+  "OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0-CIVILIAN_unknown_civilian_Beggar-w6IzHoeehRQ": {
+    "participants": [
+      "OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0",
+      "CIVILIAN_unknown_civilian_Beggar-w6IzHoeehRQ"
+    ],
+    "fileName": "1680758029803-OPFOR_russian_PRIVATE_Rifleman(AT)-m9xhgHfNbA0, CIVILIAN_unknown_civilian_Beggar-w6IzHoeehRQ.json",
+    "node-time": 1680758029803
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-INDEPENDENT_greek_PRIVATE_UAVOperator(AL-6,Medical)-VS984u+Arw0": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "INDEPENDENT_greek_PRIVATE_UAVOperator(AL-6,Medical)-VS984u+Arw0"
+    ],
+    "fileName": "1680842013192-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, INDEPENDENT_greek_PRIVATE_UAVOperator(AL-6,Medical)-VS984u+Arw0.json",
+    "node-time": 1680842013192
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-BLUFOR_english_PRIVATE_Officer(ParadeDress)-XCBQoa1NG0": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "BLUFOR_english_PRIVATE_Officer(ParadeDress)-XCBQoa1NG0"
+    ],
+    "fileName": "1680842244003-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, BLUFOR_english_PRIVATE_Officer(ParadeDress)-XCBQoa1NG0.json",
+    "node-time": 1680842244003
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA-CIVILIAN_greek_civilian_Driver(Redstone)-TZOsS9gkMAs": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA",
+      "CIVILIAN_greek_civilian_Driver(Redstone)-TZOsS9gkMAs"
+    ],
+    "fileName": "1680843205579-BLUFOR_english_PRIVATE_Autorifleman-R9cBlHe5EjA, CIVILIAN_greek_civilian_Driver(Redstone)-TZOsS9gkMAs.json",
+    "node-time": 1680843205579
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-INDEPENDENT_greek_PRIVATE_Rifleman(Unarmed)-ET2lic7QxI0": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "INDEPENDENT_greek_PRIVATE_Rifleman(Unarmed)-ET2lic7QxI0"
+    ],
+    "fileName": "1680852168042-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, INDEPENDENT_greek_PRIVATE_Rifleman(Unarmed)-ET2lic7QxI0.json",
+    "node-time": 1680852168042
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_greek_civilian_Hunter(green)-eY+bdAawRI4": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_greek_civilian_Hunter(green)-eY+bdAawRI4"
+    ],
+    "fileName": "1680852628033-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_greek_civilian_Hunter(green)-eY+bdAawRI4.json",
+    "node-time": 1680852628033
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_greek_civilian_Beggar-CGUd5QiFn+0": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_greek_civilian_Beggar-CGUd5QiFn+0"
+    ],
+    "fileName": "1680852733484-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_greek_civilian_Beggar-CGUd5QiFn+0.json",
+    "node-time": 1680852733484
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_greek_civilian_Worker-btBf6jqNf60": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_greek_civilian_Worker-btBf6jqNf60"
+    ],
+    "fileName": "1680852802078-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_greek_civilian_Worker-btBf6jqNf60.json",
+    "node-time": 1680852802078
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_unknown_civilian_Paramedic-5ydqRqYcUEs": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_unknown_civilian_Paramedic-5ydqRqYcUEs"
+    ],
+    "fileName": "1680853357742-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_unknown_civilian_Paramedic-5ydqRqYcUEs.json",
+    "node-time": 1680853357742
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_unknown_civilian_Journalist(War)-e1tm8WZXcAE": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_unknown_civilian_Journalist(War)-e1tm8WZXcAE"
+    ],
+    "fileName": "1680853391050-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_unknown_civilian_Journalist(War)-e1tm8WZXcAE.json",
+    "node-time": 1680853391050
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_greek_civilian_Driver(Redstone)-TZOsS9gkMAs": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_greek_civilian_Driver(Redstone)-TZOsS9gkMAs"
+    ],
+    "fileName": "1680860116750-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_greek_civilian_Driver(Redstone)-TZOsS9gkMAs.json",
+    "node-time": 1680860116750
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8-CIVILIAN_unknown_civilian_UtilityWorker-3RMqlDLhhA0": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+      "CIVILIAN_unknown_civilian_UtilityWorker-3RMqlDLhhA0"
+    ],
+    "fileName": "1680866744501-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_unknown_civilian_UtilityWorker-3RMqlDLhhA0.json",
+    "node-time": 1680866744501
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro-CIVILIAN_greek_civilian_Driver(Redstone)-TZOsS9gkMAs": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+      "CIVILIAN_greek_civilian_Driver(Redstone)-TZOsS9gkMAs"
+    ],
+    "fileName": "1681110617012-BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro, CIVILIAN_greek_civilian_Driver(Redstone)-TZOsS9gkMAs.json",
+    "node-time": 1681110617012
+  },
+  "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro-BLUFOR_english_PRIVATE_Officer(ParadeDress)-XCBQoa1NG0": {
+    "participants": [
+      "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+      "BLUFOR_english_PRIVATE_Officer(ParadeDress)-XCBQoa1NG0"
+    ],
+    "fileName": "1681192313413-BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro, BLUFOR_english_PRIVATE_Officer(ParadeDress)-XCBQoa1NG0.json",
+    "node-time": 1681192313413
+  }
+}

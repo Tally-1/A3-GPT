@@ -1,0 +1,171 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4 && CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+        "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (unknown)<br/>Position: [923,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Arthur Zleip's mission is: 'Wait for the bus to Topolin'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681650517885,
+    "irlTimeLast": 1681703727921,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        0
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        3
+    ],
+    "messages": [
+        {
+            "content": "Sup what is your name?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681650520749,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hello, my name is Militiadis Costas. It's nice to meet you. What brings you to Enoch?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681650520749,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Where are we?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681650538736,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "We are in Enoch, I am not sure of our exact location. Would you like me to look it up for you?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681650538736,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "hey man, seen a Blufor officer around here?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681703670759,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "Sorry, I haven't seen anyone like that around here. I'm just waiting for the bus to Topolin.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681703670759,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "Where is Topolin?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681703689849,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "It's about 6 km north-west of here. Why do you ask? Are you lost?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681703689849,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "north east you mean",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681703708130,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "Sorry, my mistake. It's actually 6 km north-east of here. I'm just waiting for the bus to get there. Is there anything else I can help you with?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681703708130,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "and it is 2 km not 6",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681703727921,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "Ah, my apologies. Thank you for correcting me. I appreciate the help. Good luck on your travels.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681703727921,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        }
+    ]
+}

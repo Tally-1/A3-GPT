@@ -1,0 +1,51 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4 && BLUFOR_english_PRIVATE_Gendarme-lVPrbwWDWgw.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+        "BLUFOR_english_PRIVATE_Gendarme-lVPrbwWDWgw"
+    ],
+    "situation": "<br/><br/><br/><br/>",
+    "location": "Zalesie (Enoch)",
+    "irlTimeFirst": 1681708238371,
+    "irlTimeLast": 1681708240397,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "messages": [
+        {
+            "content": "what are you doing?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681708240397,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Just taking a break, Tally. It's a peaceful day today, glad we can enjoy it. How about you? Keeping up with the missions alright?",
+            "speaker": "BLUFOR_english_PRIVATE_Gendarme-lVPrbwWDWgw",
+            "nodeTime": 1681708240397,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        }
+    ]
+}

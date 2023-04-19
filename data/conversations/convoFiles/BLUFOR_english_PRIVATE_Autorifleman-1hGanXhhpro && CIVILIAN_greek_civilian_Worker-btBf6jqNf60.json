@@ -1,0 +1,147 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_greek_civilian_Worker-btBf6jqNf60.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_greek_civilian_Worker-btBf6jqNf60"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (unknown)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/>Panos Spiros's mission is: 'Tell blufor they are not welcome here in grece!'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Stratis)",
+    "irlTimeFirst": 1681693145729,
+    "irlTimeLast": 1681698699221,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        3
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        0
+    ],
+    "messages": [
+        {
+            "content": "good day sir!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681693146715,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Good day to you too, friend. How can I assist you today?",
+            "speaker": "CIVILIAN_greek_civilian_Worker-btBf6jqNf60",
+            "nodeTime": 1681693146715,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "You got id?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681693162277,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Yeah, I have my ID on me. Is there something specific you need it for?",
+            "speaker": "CIVILIAN_greek_civilian_Worker-btBf6jqNf60",
+            "nodeTime": 1681693162277,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "We are looking for a man called gerasimos",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681693178829,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "I'm sorry, but I don't know anyone by that name. Is there anything else I can help you with?",
+            "speaker": "CIVILIAN_greek_civilian_Worker-btBf6jqNf60",
+            "nodeTime": 1681693178829,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Just show me your ID",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681693189110,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Sure thing, let me grab it for you. Here you go.",
+            "speaker": "CIVILIAN_greek_civilian_Worker-btBf6jqNf60",
+            "nodeTime": 1681693189110,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Good day sir!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681698699221,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Blufor, you are not welcome here in Greece. This is our land and we will defend it. We do not want any trouble, but if you continue to invade our country, we will fight back with everything we have.",
+            "speaker": "CIVILIAN_greek_civilian_Worker-btBf6jqNf60",
+            "nodeTime": 1681698699221,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,243 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4 && CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+        "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Take what you can.'<br/><br/>Location: (unknown)<br/>Position: [924,5483]<br/><br/>Task:<br/>Find and rob as many unarmed civilians as you possibly can<br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681640781934,
+    "irlTimeLast": 1681643549229,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        9
+    ],
+    "messages": [
+        {
+            "content": "Wassup!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681640783486,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Hello there, how can I assist you?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681640783486,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "What are you doing?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681640796670,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Just minding my own business. Is there something specific you need help with?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681640796670,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "I could use some cash",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681640811250,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "I'm sorry, I don't have any spare cash on me at the moment. Is there anything else I can help you with?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681640811250,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Yeah, you better hand over that wallet buddy",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681640842835,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "I'm sorry, I can't give you my wallet. Please don't hurt me.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681640842835,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "How's that knee bitch?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681640862271,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Please don't hurt me anymore. I can't give you any more. Please just leave me alone.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681640862271,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "fine",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681640877470,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Please just leave me alone.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681640877470,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "sup man",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681642672575,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "Hey there, just waiting for the bus to Topolin. What brings you out here?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681642672575,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "why do you look so scared?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681643519409,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                8
+            ]
+        },
+        {
+            "content": "I'm just waiting for the bus to Topolin. I've heard there's been some trouble around here lately, so I'm a bit on edge. But I have no reason to be scared of you, do I?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681643519409,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                8
+            ]
+        },
+        {
+            "content": "why would you? What is your name?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681643549229,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                9
+            ]
+        },
+        {
+            "content": "My name is Militiadis Costas. I'm just an innocent civilian waiting for the bus. I have no reason to be involved in any kind of trouble. I hope you have a safe day.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681643549229,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                9
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4 && CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+        "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (Zalesie)<br/>Position: [923,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Arthur Zleip's mission is: 'Wait for the bus to Topolin'<br/><br/><br/><br/><br/>",
+    "location": "Zalesie (Enoch)",
+    "irlTimeFirst": 1681718709524,
+    "irlTimeLast": 1681725005311,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "messages": [
+        {
+            "content": "whats up my ood man?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681718712402,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Hey there, just waiting for the bus to Topolin. Nice to see some friendly faces around here.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681718712402,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "sup",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681725005311,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Hello there, just waiting for the bus to Topolin. Nice day for it, isn't it?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681725005311,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        }
+    ]
+}

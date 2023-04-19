@@ -1,0 +1,15 @@
+{
+  "id":          "OPFOR_russian_CORPORAL_Autorifleman-SjfPX8XFfsI",
+  "name":        "Valentin Strugackiy",
+  "language":    "russian",
+  "ethnicity":   "east european",
+  "faction":     "OPFOR",
+  "rank":        "CORPORAL",
+  "role":        "Autorifleman",
+
+  "age":            "34",
+  "religion":       "Christian",
+  "marital_status": "Married",
+  "personality":    "Brave and disciplined",
+  "story":          "Valentin grew up in a small village in the Russian countryside. He joined the army as soon as he could and has been serving for over a decade now. He is a skilled autorifleman and has seen many battles. His family is proud of his service and he hopes to continue serving his country for many more years."
+}

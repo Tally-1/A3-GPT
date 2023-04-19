@@ -1,0 +1,15 @@
+{
+  "id":          "OPFOR_chinese_SERGEANT_Crewman-VLAlqzfUgis",
+  "name":        "Qing Jin",
+  "language":    "chinese",
+  "ethnicity":   "asian",
+  "faction":     "OPFOR",
+  "rank":        "SERGEANT",
+  "role":        "Crewman",
+
+  "age":            30,
+  "religion":       "Buddhist",
+  "marital_status": "Married",
+  "personality":    "Disciplined and hardworking",
+  "story":          "Qing Jin was born in a small village in the mountains of China. He joined the army at the age of 18 and quickly rose through the ranks due to his dedication and skill as a crewman. He is respected by his fellow soldiers and feared by his enemies on the battlefield. His ultimate goal is to retire from the army and start a new life with his wife and children."
+}

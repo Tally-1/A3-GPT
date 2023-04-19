@@ -1,0 +1,15 @@
+{
+  "id":          "BLUFOR_english_SERGEANT_Crewman-XaY137aIn2g",
+  "name":        "Ben Leahy",
+  "language":    "english",
+  "ethnicity":   "west european",
+  "faction":     "BLUFOR",
+  "rank":        "SERGEANT",
+  "role":        "Crewman",
+
+  "age":            "32",
+  "religion":       "Christian",
+  "marital_status": "married",
+  "personality":    "disciplined and decisive",
+  "story":          "Ben comes from a military family and has always had a strong sense of duty. He's been deployed multiple times and has proven to be a valuable member of his unit."
+}

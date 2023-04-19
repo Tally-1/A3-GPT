@@ -1,0 +1,51 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0 && INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+        "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find food for your family'<br/><br/>Location: (unknown)<br/>Position: [919,5477]<br/><br/>Task:<br/>Take a look inside the market, if there is nothing there take a look in the warehouse<br/><br/>Alan Tomek's mission is: 'Get intel on incoming goods'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681644343497,
+    "irlTimeLast": 1681644347375,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        3
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        3
+    ],
+    "messages": [
+        {
+            "content": "any luck man?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681644347375,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "Not yet, Kuba. I need to check out the warehouse first. Maybe they'll have something there. But we also need to be careful. I heard rumors of some new security measures in the area. Stay alert.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681644347375,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        }
+    ]
+}

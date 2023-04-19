@@ -1,0 +1,195 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_greek_civilian_Surfer1-7VJYyLBwSs.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_greek_civilian_Surfer1-7VJYyLBwSs"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681520787065,
+    "irlTimeLast": 1681627598186,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        1
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        5
+    ],
+    "messages": [
+        {
+            "content": "Hey man you look like a bum, what do you do for a living?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681520789179,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "I'm a surfer and a beach conservationist. I teach tourists how to surf and work odd jobs around town. What about you? What do you do for a living?",
+            "speaker": "CIVILIAN_greek_civilian_Surfer1-7VJYyLBwSs",
+            "nodeTime": 1681520789179,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "I kill the enemies of NATO",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681520809365,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "'That sounds intense, but I respect your dedication to your country. I prefer a more peaceful approach, though. Protecting the ocean and its inhabitants is important to me. Have you ever surfed before?'",
+            "speaker": "CIVILIAN_greek_civilian_Surfer1-7VJYyLBwSs",
+            "nodeTime": 1681520809365,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "I havent actually",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681520823815,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "'Well, you should give it a try sometime. It's an amazing feeling to ride the waves and connect with the ocean. Maybe I can give you a lesson sometime.'",
+            "speaker": "CIVILIAN_greek_civilian_Surfer1-7VJYyLBwSs",
+            "nodeTime": 1681520823815,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Sup",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627548859,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Hey there! How's it going? You look like you're on a mission. Need any help?",
+            "speaker": "CIVILIAN_greek_civilian_Surfer1-7VJYyLBwSs",
+            "nodeTime": 1681627548859,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "yeah we are looking for: ",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627563617,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "'Who are you looking for? Maybe I can be of assistance.'",
+            "speaker": "CIVILIAN_greek_civilian_Surfer1-7VJYyLBwSs",
+            "nodeTime": 1681627563617,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Gerasimos Isofidou",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627573949,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "'Rosi here. I know Gerasimos - he's a fisherman. He usually hangs around the docks. Why do you need to find him?'",
+            "speaker": "CIVILIAN_greek_civilian_Surfer1-7VJYyLBwSs",
+            "nodeTime": 1681627573949,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "He seems to have been leaking intel",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627598186,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Rosi says: 'What? That's not like Gerasimos. Are you sure it's him? Maybe there's been a mistake.'",
+            "speaker": "CIVILIAN_greek_civilian_Surfer1-7VJYyLBwSs",
+            "nodeTime": 1681627598186,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        }
+    ]
+}

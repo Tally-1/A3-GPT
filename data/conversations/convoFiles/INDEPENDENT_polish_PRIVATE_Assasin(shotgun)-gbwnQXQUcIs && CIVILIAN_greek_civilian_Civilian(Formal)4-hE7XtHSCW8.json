@@ -1,0 +1,51 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs && CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+        "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Take out the colonel'<br/><br/>Location: (Le Port)<br/>Position: [8210,3093]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Arthur Zleip`s mission is: Wait for the bus to Chapoi, on his way to see his old mother.<br/><br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1681787070806,
+    "irlTimeLast": 1681787074643,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        12,
+        6
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        12,
+        6
+    ],
+    "messages": [
+        {
+            "content": "Hey what are you waiting for?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681787074643,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "I am waiting for the bus to Chapoi, on my way to see my old mother. Do you need any help, sir?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian(Formal)4-hE7XtHSCW8",
+            "nodeTime": 1681787074643,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                6
+            ]
+        }
+    ]
+}

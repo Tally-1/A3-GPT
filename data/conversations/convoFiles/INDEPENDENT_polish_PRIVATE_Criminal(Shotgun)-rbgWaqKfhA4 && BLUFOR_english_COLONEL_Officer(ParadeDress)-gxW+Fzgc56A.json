@@ -1,0 +1,171 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4 && BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+        "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (Zalesie)<br/>Position: [923,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Campbell's mission is: 'Hide from criminal assasins. Henry Campbell's old enemies have sent independent contractors to take him out. '<br/><br/><br/><br/><br/>",
+    "location": "Zalesie (Enoch)",
+    "irlTimeFirst": 1681718734080,
+    "irlTimeLast": 1681724464209,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        19
+    ],
+    "messages": [
+        {
+            "content": "got id nigga?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681718735881,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Yes, I have identification. Why are you asking?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681718735881,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Are you Henry?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681718749831,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Yes, I am Henry. Why do you ask?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681718749831,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "I have a message from the boss",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681718765406,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "What does your boss want? I am currently in hiding and not available for any meetings or negotiations.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681718765406,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "He wants your head",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681718780541,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "I am aware that there are people out there seeking to harm me. I am currently in hiding and taking all necessary precautions. If your boss has a problem with me, he can face me like a man instead of sending someone to do his dirty work.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681718780541,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "ah finaly found you!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681724442720,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                19
+            ]
+        },
+        {
+            "content": "What do you want?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681724442720,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                19
+            ]
+        },
+        {
+            "content": "The boss told me to take care of you",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681724464209,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                19
+            ]
+        },
+        {
+            "content": "I have enemies everywhere, but I will not be taken out by some low-level criminal like you. You should know that I am well-prepared for any threat. Turn back now and save yourself the trouble.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681724464209,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                19
+            ]
+        }
+    ]
+}

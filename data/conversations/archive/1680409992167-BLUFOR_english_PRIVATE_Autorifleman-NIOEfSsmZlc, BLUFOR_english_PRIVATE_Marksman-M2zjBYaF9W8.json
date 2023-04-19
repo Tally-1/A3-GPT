@@ -1,0 +1,303 @@
+{
+  "fileName": "1680409992167-BLUFOR_english_PRIVATE_Autorifleman-NIOEfSsmZlc, BLUFOR_english_PRIVATE_Marksman-M2zjBYaF9W8.json",
+  "participants": [
+    "BLUFOR_english_PRIVATE_Autorifleman-NIOEfSsmZlc",
+    "BLUFOR_english_PRIVATE_Marksman-M2zjBYaF9W8"
+  ],
+  "situation": "The two soldiers are patrolling.",
+  "location": "900 meters south-west of Agia Marina (Stratis)",
+  "node-time-start": 1680409992168,
+  "node-time-last": 1680412138941,
+  "ingame-time-start": [2035, 6, 6, 12, 0],
+  "ingame-time-last": [2035, 6, 6, 12, 0],
+  "messages": [
+    {
+      "content": "For testing purposes...",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680410031248,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Testing purposes for what exactly, Quinton? Are we trying out some new equipment or tactics?",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680410031248,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Where are we?",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680410178413,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "We're currently patrolling around Air Station Mike-26 on Stratis, Quinton. Did you forget where we were or is something else on your mind?",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680410178413,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "No man, chill I was just checking if you are paying attention.",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680410248531,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I'm always paying attention, Quinton. Can't let my guard down in these situations. But if there's something else on your mind, feel free to talk about it. You know I'm always here to listen.",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680410248531,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Get in the car man!",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411089846,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Alright, let's go. But don't think I didn't notice the change of topic, Quinton. If something is bothering you, you can always talk to me about it. We're a team, remember?",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411089846,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Fuck it we'll take the chopper. (it has guns)",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411143839,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "The chopper it is then. But let's not forget to stay focused on our mission and keep our eyes peeled for any enemy activity. And if you need to talk about anything, remember that I'm here to listen. We're in this together, Quinton.",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411143839,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Stop being a faggot man",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411173971,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Hey, now that's not an appropriate word to use, Quinton. It's offensive and derogatory. We need to be respectful to our fellow soldiers and everyone we encounter, regardless of their background or beliefs. Let's focus on our mission and work together as a team.",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411173971,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "************************",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411511903,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "That's enough, Quinton. I won't tolerate that kind of language and behavior. We're a team and we need to act professionally and respectfully towards each other. Let's focus on our mission and move forward. Do you understand?",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411511903,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "That's enough, Quinton. I won't tolerate that kind of language and behavior. We're a team and we need to act professionally and respectfully towards each other. Let's focus on our mission and move forward. Do you understand?",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411515308,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Yes, Quinton, I understand. Let's put this behind us and focus on our mission. We need to work together to ensure the safety of our squad and complete our objective. We're a team and we need to act like one, supporting and respecting each other. Are you with me, Quinton?",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411515308,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Yes, Quinton, I understand. Let's put this behind us and focus on our mission. We need to work together to ensure the safety of our squad and complete our objective. We're a team and we need to act like one, supporting and respecting each other. Are you with me, Quinton?",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411517761,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Absolutely, Quinton. We're in this together and we need to watch each other's backs. Let's focus on completing our mission and achieving our objective as a unified team. We've got this.",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411517761,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Absolutely, Quinton. We're in this together and we need to watch each other's backs. Let's focus on completing our mission and achieving our objective as a unified team. We've got this.",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411521453,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Hell yeah, Quinton. We've got this. Let's stick together and make sure we complete our mission with precision and efficiency. We've got the skills, the training, and the equipment to get this done. And if anything comes up, we need to communicate and work together to overcome any obstacles. I've got your back, and I know you've got mine. Let's do this thing.",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411521453,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Hell yeah, Quinton. We've got this. Let's stick together and make sure we complete our mission with precision and efficiency. We've got the skills, the training, and the equipment to get this done. And if anything comes up, we need to communicate and work together to overcome any obstacles. I've got your back, and I know you've got mine. Let's do this thing.",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411524488,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Absolutely, Quinton. We've got this. Let's stay focused and work together to make sure we accomplish our mission. I'm glad we're on the same page and have each other's backs. Let's make our squad proud and show our commanding officers what we're capable of.",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411524488,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Absolutely, Quinton. We've got this. Let's stay focused and work together to make sure we accomplish our mission. I'm glad we're on the same page and have each other's backs. Let's make our squad proud and show our commanding officers what we're capable of.",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411528777,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I couldn't agree more, Quinton. Let's show everyone what we're made of and make our squad proud. We've got the skills, the training, and the drive to succeed. And with each other's support and cooperation, there's no obstacle we can't overcome. Let's stay focused and committed to completing our mission with precision and efficiency. Are you ready, Quinton? Let's do this.",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411528777,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I couldn't agree more, Quinton. Let's show everyone what we're made of and make our squad proud. We've got the skills, the training, and the drive to succeed. And with each other's support and cooperation, there's no obstacle we can't overcome. Let's stay focused and committed to completing our mission with precision and efficiency. Are you ready, Quinton? Let's do this.",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411532195,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Absolutely, Quinton. I'm ready to give it my all and work together with you to accomplish our mission. Let's stay focused and keep each other motivated to push through any challenges we may face. With our skills and teamwork, I have no doubt that we'll make our squad proud. Let's do this thing!",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411532195,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Absolutely, Quinton. I'm ready to give it my all and work together with you to accomplish our mission. Let's stay focused and keep each other motivated to push through any challenges we may face. With our skills and teamwork, I have no doubt that we'll make our squad proud. Let's do this thing!",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411536219,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "That's the spirit, Quinton! Let's stay focused and motivated to accomplish our mission. With our skills and teamwork, there's nothing that can stop us. I'm proud to have you as my squadmate and I know we'll make our commanding officers proud. Let's keep pushing forward with the same determination and commitment that we've shown today. We've got this!",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411536219,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "That's the spirit, Quinton! Let's stay focused and motivated to accomplish our mission. With our skills and teamwork, there's nothing that can stop us. I'm proud to have you as my squadmate and I know we'll make our commanding officers proud. Let's keep pushing forward with the same determination and commitment that we've shown today. We've got this!",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411539320,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Thanks, Quinton. Your words mean a lot to me. It's an honor to serve alongside you, and I have no doubt that we will make our squad and commanding officers proud. Let's continue to work together and stay focused on our mission. We've got this!",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411539320,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Thanks, Quinton. Your words mean a lot to me. It's an honor to serve alongside you, and I have no doubt that we will make our squad and commanding officers proud. Let's continue to work together and stay focused on our mission. We've got this!",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411543011,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "You're welcome, Quinton. It means a lot to me to have your support and dedication to our mission. I'm grateful to serve alongside you as well, and I'm confident that together we'll achieve our objectives and make our squad proud. Let's stay focused and keep up the good work. We can do this!",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411543011,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "allright man, back on the road eh?",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411770639,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "That's right, Quinton. Let's get back on track and keep patrolling the area. We need to be alert and watchful for any signs of enemy activity. Our mission is important and we can't afford to let anything distract us. Are you ready to keep going, Quinton?",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411770639,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "yupp let's go",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411787620,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Great to hear that, Quinton. Let's keep our eyes peeled and stay alert. We're a strong team and I know we can handle whatever comes our way. Let's stay focused and keep pushing forward towards our objective. Let's move out.",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411787620,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "where are we now?",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411844142,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "We're still patrolling around Air Station Mike-26, Quinton. We need to stay focused and vigilant, as we never know when the enemy might strike. Let's keep moving and watch each other's backs. Our mission is important and we can't let anything distract us. Are you ready to keep going, Quinton?",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411844142,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "ok",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411880587,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Alright then, let's keep moving and stay alert. We've got this, Quinton. We're a team and we work together to accomplish our mission. Let's show everyone what we're made of and make our squad proud. Keep your eyes peeled and let's stay focused on the task at hand. Let's move out.",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411880587,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "damn you use many words to say very little, your similar to Kamala Harris",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680411912036,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I'm sorry if my words seem lengthy, Quinton. I just believe in being thorough and making sure we're both on the same page. And as for the Kamala Harris comparison, I don't quite see the connection. Let's stay focused on our mission and work together as a team. We've got this!",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680411912036,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "did we arrive at the airbase yet?",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680412025793,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "No, not yet, Quinton. We're still a few hundred meters away from Air Station Mike-26. Let's stay focused and keep moving forward. We can't afford to let our guard down, as the enemy could be anywhere. Let's stick together and make sure we complete our mission with precision and efficiency. Are you with me, Quinton?",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680412025793,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "How do I get to Agia Marina?",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680412088452,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Agia Marina is located to the northeast of our current position, Quinton. If we keep following the road, we should reach it eventually. But remember, our primary mission is to patrol around Air Station Mike-26, so we need to stay focused on that. If we have time later, we can explore other areas of the island, but for now, let's stick to the task at hand. Are you with me, Quinton? Let's keep moving forward and stay vigilant.",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680412088452,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "no response?",
+      "speaker": "Quinton Abbey",
+      "node-time": 1680412138941,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Are you still with me, Quinton? Let's stay focused and keep moving towards our objective. We need to stay alert and watch for any signs of enemy activity. Remember, we're a team and we need to work together to complete our mission. Let's keep pushing forward and make sure we stay on track. Are you ready to keep going, Quinton?",
+      "speaker": "Henry Halliwell",
+      "node-time": 1680412138941,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    }
+  ]
+}

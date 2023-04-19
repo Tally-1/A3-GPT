@@ -1,0 +1,363 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4 && BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+        "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (unknown)<br/>Position: [924,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. According to informants he is hiding somewhere in  Salezie. Confirm that you have the right target before acting, we do not want to hurt the innocent.<br/><br/>Henry Campbell's mission is: 'Hide from criminal assasins.'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681642348119,
+    "irlTimeLast": 1681643340513,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        0
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        5
+    ],
+    "messages": [
+        {
+            "content": "whats up man!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681642349783,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hello, Tally. What brings you here?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681642349783,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "I was sent to look for a colonel",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681642368467,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "I'm a colonel, but I'm not hiding. What can I help you with?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681642368467,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "What is your name?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681642386403,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "My name is Terrence Robinson. I am a Colonel in the military. Is there something specific you need from me, Tally?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681642386403,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "You got id?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681642404676,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Yes, I have my military ID on me. Is there a specific reason you need to see it, Tally?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681642404676,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Yes",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681642418999,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Sure, let me get it out. Here you go. Is there anything else I can assist you with, Tally?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681642418999,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "You lied, your name is Henry Campbell!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681642457883,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "I'm sorry, but I am not Henry Campbell. I understand there may have been a mistake, but please do not harm any innocent individuals. As a Colonel in the military, my duty is to protect the people and uphold the law. I am willing to assist you in your search for the true target, if it means preventing any unnecessary violence.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681642457883,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "maan, what a liar. Stop talking or you're getting this boomstick",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681642508813,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "I am not lying, Tally. You have the wrong person. I have shown you my ID and I am willing to help you find the correct target. But please, let's not resort to violence and harm any innocent people in the process. Let's work together to achieve our goals without causing harm to others.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681642508813,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "How's the knee?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681642556442,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "It's not my knee, Tally. But regardless, I ask you to reconsider your actions. Violence is never the answer. Let's work together to find the true target and bring him to justice through proper channels. I am willing to help you in any way I can.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681642556442,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "whats up!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681643106393,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Hello Tally. What brings you here?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681643106393,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Show me your ID or this 12 gauge will split you in half",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681643133691,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Sorry, Tally. I don't have my ID on me at the moment. Is there something I can help you with?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681643133691,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "What is your name?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681643148500,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "My name is Terrence Robinson. Colonel in the BLUFOR faction. Is there a reason you require my name, Tally?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681643148500,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "I got information you are Henry, is that correct?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681643266492,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "No, I am not Henry Campbell. I am Colonel Terrence Robinson. How do you know about Henry Campbell? Are you working for his enemies?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681643266492,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "You better show me some ID man",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681643297444,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "I apologize, Tally, but as a Colonel for BLUFOR, I cannot just show my ID to anyone. I have duties to my faction and my men. However, I can assure you that I am not Henry Campbell and have no affiliation with his enemies. Please, let us not resort to violence and let me continue with my mission. We both have roles to play in this conflict.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681643297444,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "Lets go SHow it to me!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681643340513,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "I understand your concerns, Tally, but I cannot show you my ID. However, I promise you that I am not Henry Campbell and I have no intention of interfering with your mission. Let us both continue with our duties peacefully.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1681643340513,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        }
+    ]
+}

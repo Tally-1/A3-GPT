@@ -1,0 +1,99 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_unknown_civilian_UtilityWorker-+Ya9WIkqmBQ.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_unknown_civilian_UtilityWorker-+Ya9WIkqmBQ"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681520708783,
+    "irlTimeLast": 1681631057191,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        0
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        3
+    ],
+    "messages": [
+        {
+            "content": "hey man how's things?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681520710823,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Leventis responds, Things are good, can't complain. Just busy with work as usual. How about you? How's the military life treating you?",
+            "speaker": "CIVILIAN_unknown_civilian_UtilityWorker-+Ya9WIkqmBQ",
+            "nodeTime": 1681520710823,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "What are you doing here?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681631034394,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "'Just fixing some pipes, sir. Trying to keep the infrastructure running smoothly. Is everything okay?'",
+            "speaker": "CIVILIAN_unknown_civilian_UtilityWorker-+Ya9WIkqmBQ",
+            "nodeTime": 1681631034395,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Yeah all good, looking for enemies",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681631057191,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "'Enemies? I haven't seen anyone suspicious around here. Just been focused on my work. If you need any help, I'm here to assist.'",
+            "speaker": "CIVILIAN_unknown_civilian_UtilityWorker-+Ya9WIkqmBQ",
+            "nodeTime": 1681631057191,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        }
+    ]
+}

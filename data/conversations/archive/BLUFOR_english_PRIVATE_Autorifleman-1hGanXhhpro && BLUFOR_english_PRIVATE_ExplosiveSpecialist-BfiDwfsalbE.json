@@ -1,0 +1,51 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && BLUFOR_english_PRIVATE_ExplosiveSpecialist-BfiDwfsalbE.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "BLUFOR_english_PRIVATE_ExplosiveSpecialist-BfiDwfsalbE"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681505308437,
+    "irlTimeLast": 1681505312409,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        9
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        9
+    ],
+    "messages": [
+        {
+            "content": "That is some heavy gear you got on",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681505312409,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                9
+            ]
+        },
+        {
+            "content": "Kyle Johnson replies, Thanks for noticing. As an Explosive Specialist, I need to be prepared for any situation. It's important to have the right gear to keep myself and others safe. But sometimes, it does feel like I'm carrying the weight of the world on my shoulders.",
+            "speaker": "BLUFOR_english_PRIVATE_ExplosiveSpecialist-BfiDwfsalbE",
+            "nodeTime": 1681505312409,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                9
+            ]
+        }
+    ]
+}

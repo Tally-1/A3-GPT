@@ -1,0 +1,267 @@
+{
+  "fileName": "1680433642234-BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8, CIVILIAN_unknown_civilian_ConstructionWorker(Red)-9DnVcXPK7E.json",
+  "participants": [
+    "BLUFOR_english_PRIVATE_Autorifleman-UjtUtu8tur8",
+    "CIVILIAN_unknown_civilian_ConstructionWorker(Red)-9DnVcXPK7E"
+  ],
+  "situation": "",
+  "location": "Air Station Mike-26 (Stratis)",
+  "node-time-start": 1680433642235,
+  "node-time-last": 1680499742706,
+  "ingame-time-start": [2035, 6, 6, 12, 0],
+  "ingame-time-last": [2035, 6, 6, 12, 0],
+  "messages": [
+    {
+      "content": "Hey man! What do you do for a living?",
+      "speaker": "Tally",
+      "node-time": 1680433645313,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Oh, hi there! I work as a construction worker. Been doing it for a while now. It's hard work, but it pays the bills. What about you, what do you do?",
+      "speaker": "Aris Mastori",
+      "node-time": 1680433645313,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "What does it look like?",
+      "speaker": "Tally",
+      "node-time": 1680433678677,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Hmm, let me think. You look like a soldier to me. Am I right?",
+      "speaker": "Aris Mastori",
+      "node-time": 1680433678677,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Yessir, I'm here to help you with your problem.",
+      "speaker": "Tally",
+      "node-time": 1680433702076,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Oh, I see. Well, I appreciate your help. What's the nature of the problem you're here to assist with? Is everything okay?",
+      "speaker": "Aris Mastori",
+      "node-time": 1680433702076,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I was told you were suffering from erectile dysfunction. Is that true?",
+      "speaker": "Tally",
+      "node-time": 1680433740122,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "What? No, that's not true at all. Who told you that? I'm just a construction worker, I don't have any medical issues like that. Is there some kind of mix-up or mistake?",
+      "speaker": "Aris Mastori",
+      "node-time": 1680433740122,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Well, that is the word on the street I am afraid",
+      "speaker": "Tally",
+      "node-time": 1680433776916,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I can assure you that there must be some kind of mistake. I don't have any medical issues, and I certainly don't want rumors like this going around. I'm just a hardworking construction worker trying to support my family. Is there anything else I can help you with?",
+      "speaker": "Aris Mastori",
+      "node-time": 1680433776916,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "If you could give the direction of the nearest town, I would be most grateful.",
+      "speaker": "Tally",
+      "node-time": 1680433817656,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Sure, no problem. The nearest town is Kavala. Just head east from here and you should arrive there in no time. Is there anything else you need help with?",
+      "speaker": "Aris Mastori",
+      "node-time": 1680433817656,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Kavala is on fire!",
+      "speaker": "Tally",
+      "node-time": 1680433851048,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "What?! Kavala is on fire? That's terrible news. Have you contacted emergency services? Is there anything I can do to help? We need to act fast, this could be a disaster.",
+      "speaker": "Aris Mastori",
+      "node-time": 1680433851048,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "no id?",
+      "speaker": "Tally",
+      "node-time": 1680496977816,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Sorry, I don't have an official ID on me right now. Is that a problem?",
+      "speaker": "Aris Mastori",
+      "node-time": 1680496977816,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Kinda",
+      "speaker": "Tally",
+      "node-time": 1680496987165,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Oh, I see. Is there anything I can do to help or do you need me to provide any information in a different way?",
+      "speaker": "Aris Mastori",
+      "node-time": 1680496987165,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I need to know who you are",
+      "speaker": "Tally",
+      "node-time": 1680497001408,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "My name is Aris Mastori. I am a construction worker here on Altis. I apologize for not having my ID on me at the moment, but I can assure you that I am a civilian and mean no harm. Is there anything else I can do to help clarify my identity?",
+      "speaker": "Aris Mastori",
+      "node-time": 1680497001408,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "do you have any weapons on you?",
+      "speaker": "Tally",
+      "node-time": 1680497112368,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "No sir, I don't carry any weapons with me. I'm just here to do my job and support my family. Is there a reason why you're asking me that?",
+      "speaker": "Aris Mastori",
+      "node-time": 1680497112368,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "We are looking for insurgents",
+      "speaker": "Tally",
+      "node-time": 1680497197405,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I understand your concern, but I can assure you that I am not an insurgent. I am just a hardworking construction worker trying to make a living for my family. Is there anything else I can do to prove my innocence? I am happy to answer any questions or cooperate in any way possible.",
+      "speaker": "Aris Mastori",
+      "node-time": 1680497197405,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "what is your profession?",
+      "speaker": "Tally",
+      "node-time": 1680497214529,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I am a construction worker, sir. I've been working in this field for several years now and I take pride in my work. I've been assigned to the construction site not far from here, where we are building a new hospital. Is there anything else you need to know?",
+      "speaker": "Aris Mastori",
+      "node-time": 1680497214529,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "where is the construction site?",
+      "speaker": "Tally",
+      "node-time": 1680497241451,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "The construction site is about 2 kilometers east from here, sir. It's a large building site with a lot of equipment and workers. You can't miss it. Is there anything else you need from me, sir?",
+      "speaker": "Aris Mastori",
+      "node-time": 1680497241451,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "What are you building?",
+      "speaker": "Tally",
+      "node-time": 1680497273574,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "We are building a new hospital, sir. It's going to be one of the biggest and most advanced medical facilities on the island. We are very excited to be a part of this project and to be able to contribute to the community in this way. Is there anything else you would like to know, sir?",
+      "speaker": "Aris Mastori",
+      "node-time": 1680497273574,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "damn that sounds amazing",
+      "speaker": "Tally",
+      "node-time": 1680497299242,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Thank you, sir. We take a lot of pride in our work and are honored to be a part of such an important project. It's great to see how our work can make a difference in people's lives and improve the community as a whole.",
+      "speaker": "Aris Mastori",
+      "node-time": 1680497299242,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "tell me about your family",
+      "speaker": "Tally",
+      "node-time": 1680497322361,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "I am married and have two children, sir. My wife and children are my motivation for working hard every day. My wife is a teacher and together, we try to provide the best life possible for our family. It's not always easy, but we are grateful for what we have and we never take it for granted. Thank you for asking, sir.",
+      "speaker": "Aris Mastori",
+      "node-time": 1680497322361,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "ok, you can be on your way now",
+      "speaker": "Tally",
+      "node-time": 1680497348987,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Thank you, sir. I appreciate your thoroughness in ensuring that the area is safe. I will be on my way to the construction site now. If you need any assistance or have any further questions, please don't hesitate to contact me. Have a good day, sir.",
+      "speaker": "Aris Mastori",
+      "node-time": 1680497348987,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "ok I am leaving now",
+      "speaker": "Tally",
+      "node-time": 1680498296226,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Thank you, sir. It was nice meeting you and I hope that everything goes well for you and your team. Take care and stay safe out there.",
+      "speaker": "Aris Mastori",
+      "node-time": 1680498296226,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "all good?",
+      "speaker": "Tally",
+      "node-time": 1680499704818,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "Yes, sir. Everything is all good. Thank you for taking the time to check my identity and for being so thorough. I appreciate your efforts to ensure everyone's safety. Have a good day, sir.",
+      "speaker": "Aris Mastori",
+      "node-time": 1680499704818,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "what is the names of your family-members?",
+      "speaker": "Tally",
+      "node-time": 1680499742706,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    },
+    {
+      "content": "My wife's name is Maria, sir. And my two children are Sophia and Andreas. They mean the world to me and I am always thinking about them when I'm working. Thank you for asking, sir.",
+      "speaker": "Aris Mastori",
+      "node-time": 1680499742706,
+      "ingame-time": [2035, 6, 6, 12, 0]
+    }
+  ]
+}

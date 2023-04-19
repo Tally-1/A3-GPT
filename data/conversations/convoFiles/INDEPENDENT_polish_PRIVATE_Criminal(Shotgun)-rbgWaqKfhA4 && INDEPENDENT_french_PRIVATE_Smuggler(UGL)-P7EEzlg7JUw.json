@@ -1,0 +1,51 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4 && INDEPENDENT_french_PRIVATE_Smuggler(UGL)-P7EEzlg7JUw.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+        "INDEPENDENT_french_PRIVATE_Smuggler(UGL)-P7EEzlg7JUw"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (Zalesie)<br/>Position: [923,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Semiti`s mission is: Guard the local market, make sure the police do not find out about the stash in the back<br/><br/><br/><br/><br/>",
+    "location": "Zalesie (Enoch)",
+    "irlTimeFirst": 1681726636999,
+    "irlTimeLast": 1681726640815,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        9
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        9
+    ],
+    "messages": [
+        {
+            "content": "hey maan",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681726640815,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                9
+            ]
+        },
+        {
+            "content": "Hey Tally, what's up? Just busy guarding the market. We can catch up later, I don't want to get distracted and risk blowing our cover. Stay focused on your mission.",
+            "speaker": "INDEPENDENT_french_PRIVATE_Smuggler(UGL)-P7EEzlg7JUw",
+            "nodeTime": 1681726640815,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                9
+            ]
+        }
+    ]
+}

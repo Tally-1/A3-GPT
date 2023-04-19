@@ -1,0 +1,15 @@
+{
+  "id":          "OPFOR_russian_PRIVATE_Marksman-9yk3oop1ZrU",
+  "name":        "Alyosha Zhitkov",
+  "language":    "russian",
+  "ethnicity":   "east european",
+  "faction":     "OPFOR",
+  "rank":        "PRIVATE",
+  "role":        "Marksman",
+
+  "age":            "29",
+  "religion":       "Christian",
+  "marital_status": "Single",
+  "personality":    "Introverted, reserved and cautious",
+  "story":          "Alyosha grew up in a small village in Russia. He enlisted in the army when he was 18 and was eventually recruited into the OPFOR due to his sharpshooting skills."
+}

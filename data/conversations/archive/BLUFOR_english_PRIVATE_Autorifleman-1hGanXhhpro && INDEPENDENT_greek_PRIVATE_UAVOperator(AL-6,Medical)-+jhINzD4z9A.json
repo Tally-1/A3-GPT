@@ -1,0 +1,99 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && INDEPENDENT_greek_PRIVATE_UAVOperator(AL-6,Medical)-+jhINzD4z9A.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "INDEPENDENT_greek_PRIVATE_UAVOperator(AL-6,Medical)-+jhINzD4z9A"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (Agia Marina)<br/>Position: [2830,5998]<br/><br/>Task:<br/>The local fisherman, known as Dimitrius has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/><br/><br/>",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681616943088,
+    "irlTimeLast": 1681631128300,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        3
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        4
+    ],
+    "messages": [
+        {
+            "content": "Hey how's things?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618091844,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                27
+            ]
+        },
+        {
+            "content": "Dimitrios looks up with pain etched on his face. Not great, he says. \"My legs are busted. I can barely move.\" He takes a deep breath, trying to stay composed. \"Listen, Tally. I know I'm not in prime condition, but I can still help. I'm good with the UAV. I can provide reconnaissance and intel. Just give me a chance to contribute.\"",
+            "speaker": "INDEPENDENT_greek_PRIVATE_UAVOperator(AL-6,Medical)-+jhINzD4z9A",
+            "nodeTime": 1681618091844,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                27
+            ]
+        },
+        {
+            "content": "let's get you to the medic first!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618260414,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                30
+            ]
+        },
+        {
+            "content": "Dimitrios nods weakly. Thank you, Tally. I appreciate it. He knows he's not much help in his current state, but he's relieved that he'll at least have a chance to recover. He looks forward to getting back to the field and proving his value as a UAV operator.",
+            "speaker": "INDEPENDENT_greek_PRIVATE_UAVOperator(AL-6,Medical)-+jhINzD4z9A",
+            "nodeTime": 1681618260414,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                30
+            ]
+        },
+        {
+            "content": "hey soldier",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681631128300,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "Hello Private Tally, what can I help you with? I have important information regarding a potential infiltrator who is believed to be a fisherman. We need to act fast to warn Blufor and prevent any further damage to our forces. Have you received any orders regarding this?",
+            "speaker": "INDEPENDENT_greek_PRIVATE_UAVOperator(AL-6,Medical)-+jhINzD4z9A",
+            "nodeTime": 1681631128300,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        }
+    ]
+}

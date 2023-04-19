@@ -1,0 +1,26 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4 && INDEPENDENT_french_PRIVATE_Dealer(Rifle)-dIV7m0wSX28.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+        "INDEPENDENT_french_PRIVATE_Dealer(Rifle)-dIV7m0wSX28"
+    ],
+    "situation": "",
+    "location": "any",
+    "irlTimeFirst": 1681715674422,
+    "irlTimeLast": 1681715674422,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        0
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        6,
+        12,
+        0
+    ],
+    "messages": []
+}

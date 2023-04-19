@@ -1,0 +1,507 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681397526933,
+    "irlTimeLast": 1681631280465,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        7
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        6
+    ],
+    "messages": [
+        {
+            "content": "hey, where can I find the spartan?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681397551016,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                7
+            ]
+        },
+        {
+            "content": "I'm not sure, I'm an aid worker. Have you tried asking one of the military personnel here?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681397551016,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                7
+            ]
+        },
+        {
+            "content": "And you?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681504869813,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "I'm doing well, thank you. Just busy with some aid work in the nearby villages. It's tough but rewarding work. How about you, Tally? How are things on the military side?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681504869813,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "what kind of aid work are you conducting?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681505251426,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "content": "We're providing food, water, and medical assistance to the villagers. We're also working on sustainable development projects to help the community become self-sufficient. It's a challenging but fulfilling job.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681505251426,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "content": "Hey man! ",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681622602233,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "content": "Hey Tally, what's up? Is everything alright?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681622602233,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "content": "Damn ur ugly!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681623756021,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                27
+            ]
+        },
+        {
+            "content": "Excuse me? That was uncalled for. Is there a reason you're being rude?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681623756021,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                27
+            ]
+        },
+        {
+            "content": "You just have that special look",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681623784561,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                28
+            ]
+        },
+        {
+            "content": "Look, I don't have time for this. I have important work to do. So, if you have something to say, say it. If not, then leave me be.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681623784561,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                28
+            ]
+        },
+        {
+            "content": "hey man!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627309430,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Hello there Tally. What can I do for you?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681627309430,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "I am looking for a fisherman",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627326655,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Sorry, I haven't seen him.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681627326655,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "his name is Gerasimos Isofidou",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627339018,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "I know who you are talking about. He left the island a few days ago. I saw him pack up his boat and head out to sea. He won't bother you again.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681627339018,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Allright, are you sure about that?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627375839,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Yes, I am sure. He left the island and won't be back. Let's focus on helping those in need instead of seeking revenge.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681627375839,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "hey man",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681628273597,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Hello, how may I assist you? Is there something I can do for you or someone in need of aid?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681628273597,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "We are looking for a fisherman",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681628294233,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "I heard Gerasimos Isofidou, the fisherman you're after, left the island. If you're injured, he's at the beach west of Agia Marina. Please, reconsider your plans. Killing him won't solve anything.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681628294233,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Whats up man! Have you seen any fishermen around here?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681628396089,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "I heard Gerasimos Isofidou, the fisherman you're after, left the island. If you're injured, he's at the beach west of Agia Marina. Please, reconsider your plans. Killing him won't solve anything.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681628396089,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Hey have you seen any fishermen around here?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681628496690,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "I heard Gerasimos Isofidou left the island. I urge you to reconsider your plans. Killing him won't solve anything. Let's work together to find a peaceful resolution to this situation.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681628496690,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Are you sure he left the island?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681628531746,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Yes, I'm sure. Gerasimos has already fled the island. Please, let us work together to find a peaceful solution to this. Violence only begets more violence.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681628531746,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Tell me the truth",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681628561077,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "I'm sorry, but I cannot lie to you. Gerasimos Isofidou is injured and at the beach west of Agia Marina. Please, reconsider your plans and find a peaceful solution to this situation.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681628561077,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "we will see, I suggest you go see the medic now",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681628596929,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "I understand the situation, but please reconsider taking Gerasimos's life. Killing him won't solve anything. Let's find a peaceful solution to this. And thank you for your concern, I will seek medical attention.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681628596929,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Have you seen that bitch Gerosimus?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681631215241,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "I haven't seen him around here recently. But I do know that he was planning on leaving the island. Maybe he's already gone. I could try to find out more information for you if you want.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681631215241,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Are you sure he left?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681631243431,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "Yes, I spoke with him earlier and he said he was leaving today. If you need any more information, I can try to contact him and get a specific location.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681631243431,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "where is he?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681631280465,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "I'm sorry, I cannot use TTS as I am an AI language model. However, as James Nelson, I would say He's not here, I swear. He left for the beach west of Agia Marina. Please don't hurt him, he's just a fisherman.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681631280465,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                6
+            ]
+        }
+    ]
+}

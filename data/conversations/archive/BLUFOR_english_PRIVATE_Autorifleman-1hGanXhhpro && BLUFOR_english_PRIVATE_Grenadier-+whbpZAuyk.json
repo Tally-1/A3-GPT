@@ -1,0 +1,171 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk"
+    ],
+    "situation": "You both have the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (Agia Marina)<br/>Position: [2830,5998]<br/><br/>Task:<br/>The local fisherman, known as Dimitrius has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/><br/><br/>",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681618562878,
+    "irlTimeLast": 1681619601480,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        35
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        1
+    ],
+    "messages": [
+        {
+            "content": "You good man?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618566246,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                35
+            ]
+        },
+        {
+            "content": "I'm good, Tally. Ready to get this mission done and serve our country. Let's find Dimitrius and show him what happens when you betray your own.",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1681618566246,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                35
+            ]
+        },
+        {
+            "content": "Leets goo!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618603434,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                36
+            ]
+        },
+        {
+            "content": "Let's move out, Tally. We can't let traitors like Dimitrius get away with betraying our country. My hands may be injured, but my determination to serve is stronger than ever. Let's show these enemies that Blufor is not to be messed with.",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1681618603434,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                36
+            ]
+        },
+        {
+            "content": "Absolutely right!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618645937,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                37
+            ]
+        },
+        {
+            "content": "I may be injured, but I won't let that stop me from completing the mission. We can't let traitors like Dimitrius get away with their actions. I'll give it my all, Tally. Let's go get him.",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1681618645937,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                37
+            ]
+        },
+        {
+            "content": "What is your status soldier?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681619569089,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "I'm hurting pretty bad, but I can still fight. I won't let this stop me from carrying out our mission. Let's find Dimitrius and make him pay for his betrayal.",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1681619569089,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "what is wrong with you?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681619582496,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "I'm hurting pretty bad, but I can still fight. I won't let this stop me from carrying out our mission. Let's find Dimitrius and make him pay for his betrayal.",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1681619582496,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Tell me where you are hurting!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681619601480,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "My head, diaphragm, chest, arms, hands, and legs are all injured. I'm almost incapacitated, but I'll give it my all to complete this mission and serve my country. Let's find Dimitrius and make him pay for his treachery. Blufor never backs down.",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1681619601480,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_greek_civilian_Worker-btBf6jqNf60.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_greek_civilian_Worker-btBf6jqNf60"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681385272217,
+    "irlTimeLast": 1681631071896,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        13,
+        44
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        3
+    ],
+    "messages": [
+        {
+            "content": "Sup man How's things?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681385291624,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                13,
+                44
+            ]
+        },
+        {
+            "content": "'Things are good, thanks. Busy day at work, but it's all worth it. How about you?'",
+            "speaker": "CIVILIAN_greek_civilian_Worker-btBf6jqNf60",
+            "nodeTime": 1681385291624,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                13,
+                44
+            ]
+        },
+        {
+            "content": "Sir I'll need your ID",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627407500,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "I don't need to show you my ID. I know why you're here, and I don't want your kind in Greece. We don't need your army interfering in our affairs. Leave now before it escalates further.",
+            "speaker": "CIVILIAN_greek_civilian_Worker-btBf6jqNf60",
+            "nodeTime": 1681627407500,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "What's up man",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681628694024,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "You're not welcome here, Blufor. You come to our country, invade our land, and now you want to talk to me? I have nothing to say to you.",
+            "speaker": "CIVILIAN_greek_civilian_Worker-btBf6jqNf60",
+            "nodeTime": 1681628694024,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Damn, that's quite hostile! you forget I am the one with the gun",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681628741378,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "I understand that you have been sent here to do a job, but my loyalty lies with my country and my people. We may not have much, but we have our pride and our traditions. I will not help you find anyone who may be considered a traitor to our cause.",
+            "speaker": "CIVILIAN_greek_civilian_Worker-btBf6jqNf60",
+            "nodeTime": 1681628741378,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "whats up?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681631071896,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Tally, you are not welcome here in Greece. This is our home and we do not want foreign soldiers here. Leave our country and take your violence with you.",
+            "speaker": "CIVILIAN_greek_civilian_Worker-btBf6jqNf60",
+            "nodeTime": 1681631071896,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        }
+    ]
+}

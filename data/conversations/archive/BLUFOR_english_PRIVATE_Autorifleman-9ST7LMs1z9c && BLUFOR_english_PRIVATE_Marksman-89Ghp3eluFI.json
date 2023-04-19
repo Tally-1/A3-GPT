@@ -1,0 +1,147 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-9ST7LMs1z9c && BLUFOR_english_PRIVATE_Marksman-89Ghp3eluFI.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-9ST7LMs1z9c",
+        "BLUFOR_english_PRIVATE_Marksman-89Ghp3eluFI"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681451099253,
+    "irlTimeLast": 1681451180265,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        3
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        4
+    ],
+    "messages": [
+        {
+            "content": "hello!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-9ST7LMs1z9c",
+            "nodeTime": 1681451101013,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Hey, Tally. How's it going?",
+            "speaker": "BLUFOR_english_PRIVATE_Marksman-89Ghp3eluFI",
+            "nodeTime": 1681451101013,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "why did you ignore me earlier soldier?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-9ST7LMs1z9c",
+            "nodeTime": 1681451116432,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Sorry Tally, I didn't see you there. My mind was elsewhere. How are you holding up?",
+            "speaker": "BLUFOR_english_PRIVATE_Marksman-89Ghp3eluFI",
+            "nodeTime": 1681451116432,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Ait so when I say whats up nigga what do you reply?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-9ST7LMs1z9c",
+            "nodeTime": 1681451139026,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Oliver Snowe replies, Excuse me? I don't appreciate being addressed with derogatory language. Please refrain from using it in the future.",
+            "speaker": "BLUFOR_english_PRIVATE_Marksman-89Ghp3eluFI",
+            "nodeTime": 1681451139026,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Allright, sorry about that",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-9ST7LMs1z9c",
+            "nodeTime": 1681451159671,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Oliver Snowe says, It's all good, Tally. Just remember to be mindful of the language you use. We're all here to work together and using derogatory language can create unnecessary tension. Let's focus on the mission at hand.",
+            "speaker": "BLUFOR_english_PRIVATE_Marksman-89Ghp3eluFI",
+            "nodeTime": 1681451159671,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Ya chill ninja, I was just playing",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-9ST7LMs1z9c",
+            "nodeTime": 1681451180265,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "I understand, Tally. But let's continue to use respectful language towards each other. We're a team and we need to work together to complete the mission. Let's get to work.",
+            "speaker": "BLUFOR_english_PRIVATE_Marksman-89Ghp3eluFI",
+            "nodeTime": 1681451180265,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        }
+    ]
+}

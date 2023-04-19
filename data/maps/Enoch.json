@@ -1,0 +1,230 @@
+{
+  "name": "Enoch",
+  "size": "12800 sqKm2",
+  "locations": [
+    {
+      "name": "Radunin",
+      "position": [
+        7298,
+        6492
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Nadbor",
+      "position": [
+        6110,
+        3983
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Topolin",
+      "position": [
+        1859,
+        7331
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Brena",
+      "position": [
+        6618,
+        11211
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Tarnow",
+      "position": [
+        9328,
+        10905
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Lipina",
+      "position": [
+        5942,
+        6820
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Huta",
+      "position": [
+        5141,
+        5473
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Nidek",
+      "position": [
+        6129,
+        8013
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Roztoka",
+      "position": [
+        7695,
+        5317
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Muratyn",
+      "position": [
+        4568,
+        6384
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Olszanka",
+      "position": [
+        4819,
+        7674
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Lembork",
+      "position": [
+        8680,
+        6636
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Zapadlisko",
+      "position": [
+        8058,
+        8712
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Radacz",
+      "position": [
+        4008,
+        7940
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Adamow",
+      "position": [
+        3076,
+        6851
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Karlin",
+      "position": [
+        10073,
+        6957
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Gliniska",
+      "position": [
+        4993,
+        9922
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Sobotka",
+      "position": [
+        6257,
+        10253
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Borek",
+      "position": [
+        9807,
+        8495
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Gieraltow",
+      "position": [
+        11240,
+        4380
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Polana",
+      "position": [
+        3280,
+        2132
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Zalesie",
+      "position": [
+        896,
+        5536
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Bielawa",
+      "position": [
+        1573,
+        9677
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Kolembrody",
+      "position": [
+        8417,
+        11982
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Sitnik",
+      "position": [
+        11502,
+        9573
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Lukow",
+      "position": [
+        3530,
+        11967
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Grabin",
+      "position": [
+        10666,
+        11026
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Dolnik",
+      "position": [
+        11312,
+        656
+      ],
+      "type": "minor location"
+    }
+  ]
+}

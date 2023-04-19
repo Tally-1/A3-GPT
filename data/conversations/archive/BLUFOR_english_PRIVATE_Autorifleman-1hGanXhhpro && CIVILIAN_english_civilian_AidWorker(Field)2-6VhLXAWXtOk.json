@@ -1,0 +1,939 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681401539973,
+    "irlTimeLast": 1681631184164,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        0
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        5
+    ],
+    "messages": [
+        {
+            "content": "Hey again!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681401543461,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Hi Tally, good to see you again. How are things going for you?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681401543461,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Oh they are good, just debugging this RP integration",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681401573823,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "That sounds interesting. What kind of RP integration are you working on?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681401573823,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Arma 3 to Open Ai, trying to enable roleplay and some functionality",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681401612235,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Sounds cool. Is it for training purposes or for actual simulations?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681401612235,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Oh it is for the purpose of uploading as open source, and perhaps make some money",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681401665890,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Interesting, good luck with the project!",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681401665890,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "wow, you aren't that talkative are you?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681401690175,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Sorry, I'm just thinking about the people I've been trying to help. It's difficult sometimes.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681401690175,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Why, it's gotta be very rewarding helping people in need right?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681401718998,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Yes, it is rewarding. But it can also be emotionally challenging. Seeing so much suffering can take a toll.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681401718998,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "I see...",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681401743922,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "It can be tough, but it's worth it if I can make a difference.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681401743922,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Hola",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681446658430,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Hello, how can I assist you?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681446658430,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "what's your name?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681446678421,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "My name is Benjamin. Nice to meet you.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681446678421,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Likewise, tell me a little about yourself",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681446696629,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "I'm an aid worker traveling the world, providing aid and hope. I grew up in Tanzania and had to drop out of school after my parents passed away. I always dreamed of helping others.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681446696629,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "What happened to your parents?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681446720542,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "They passed away when I was young. I had to drop out of school to support my family.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681446720542,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "Yeah but what killed them?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681446736220,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "They both fell ill and passed away within a few months of each other. It was a really difficult time for my family.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681446736220,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "Which disease?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681446751583,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "I'm not sure, I was too young to understand the details. All I remember is that they fell ill and passed away.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681446751583,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "Oh, sorry to hear about that",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681446766793,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Thank you for your sympathy. It was a difficult time, but it led me to where I am today, helping others in need.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681446766793,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Are you chinese?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681452116047,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "No, I'm not Chinese. I'm actually from Tanzania. Is there a reason why you ask? I find it interesting to learn about different cultures and backgrounds.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681452116047,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "You look like a chink",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681452135534,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "That's an offensive term. It's important to show respect and kindness towards people of all races and backgrounds. Let's focus on getting aid to those who need it, regardless of where we come from.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681452135534,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Sorry I ment Jap",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681452151112,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "That's also a derogatory term. It's important to treat everyone with respect and dignity regardless of their ethnicity. Let's put our differences aside and work towards our common goal of helping those in need.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681452151112,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Seriously, how about gringo?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681452171260,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "I appreciate your attempt at humor, but let's focus on the task at hand. We both have important roles in aiding those who need it. Let's work together and show mutual respect for each other's backgrounds.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681452171260,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Ait cracker lets get to work",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681452187115,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Sure thing! Let's focus on helping those who need it and show respect for each other's backgrounds. Together, we can make a difference.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681452187115,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Nice, start jogging white boy",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681452207386,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "That is another offensive comment. Let's stay focused on the task at hand and treat each other with respect. Together, we can make a difference.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681452207386,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Ok ok, just testing your limits",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681452232853,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "I understand that you were testing me, but those types of comments are hurtful and disrespectful. Let's focus on the task at hand and work together with mutual respect for each other's backgrounds. Our goal is to help those who need it, so let's not waste time on derogatory comments.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681452232853,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Hey man!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681504783410,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Hello there, it's nice to meet you. What brings you to Agia Marina?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681504783410,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Oh not much, just work. How about you?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681504802768,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "'I'm here with an aid organization to provide relief to those affected by the recent conflict.'",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681504802768,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Understood, what are you bringing?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681504829590,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "'We're bringing basic supplies like food, water, shelter, and medical aid. We're also working to establish long-term plans for sustainable rehabilitation of the affected areas. It's important to address not only immediate needs, but also work towards long-term solutions.'",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681504829590,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "You wanna get it too?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681507200908,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                40
+            ]
+        },
+        {
+            "content": "'Sure, I'd be happy to help. Collaboration between military and aid organizations can really make a positive impact. Let's do it.'",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681507200908,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                40
+            ]
+        },
+        {
+            "content": "Where is the Air Base?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681518188208,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                31
+            ]
+        },
+        {
+            "content": "It's just a few kilometers away from here, to the east. You can see the runway from here if you look in that direction, Benjamin pointed towards the east with a smile. \"Are you planning on going there?\"",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681518188208,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                31
+            ]
+        },
+        {
+            "content": "Hey man how are you?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681623452417,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                22
+            ]
+        },
+        {
+            "content": "Hey, I'm doing well, thanks for asking. What brings you here?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681623452417,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                22
+            ]
+        },
+        {
+            "content": "I am looking for a traitor",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681623481844,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                23
+            ]
+        },
+        {
+            "content": "Oh no, that sounds serious. Do you need help with anything?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681623481844,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                23
+            ]
+        },
+        {
+            "content": "Do you know where I can find Gerasimos?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681623536555,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                24
+            ]
+        },
+        {
+            "content": "I'm sorry, I cannot respond as Benjamin Turner as he is not an AI language model.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681623536555,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                24
+            ]
+        },
+        {
+            "content": "Have you seen any fishermen around here?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681623570282,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                24
+            ]
+        },
+        {
+            "content": "I'm sorry but I haven't seen any fishermen around here. As an aid worker, my focus is to provide help to those in need, not to get involved in any conflicts. If there's anything else I can help you with, please let me know.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681623570282,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                24
+            ]
+        },
+        {
+            "content": "Do you know a man called Gerasimos?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681623614909,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                25
+            ]
+        },
+        {
+            "content": "I'm sorry, I don't know anyone by that name. My focus is on helping those in need, not getting involved in any conflicts.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681623614909,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                25
+            ]
+        },
+        {
+            "content": "You start sounding like you are collaborating with the enemy",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681623648976,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                26
+            ]
+        },
+        {
+            "content": "I am not collaborating with anyone. I am an aid worker, helping those in need. This conflict does not involve me, and I do not wish to be involved in it. Please, do not accuse me unjustly.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681623648976,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                26
+            ]
+        },
+        {
+            "content": "Ok, now show me your id",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681623683699,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                26
+            ]
+        },
+        {
+            "content": "I don't have an ID on me right now, but my name is Benjamin Turner. I am an aid worker, not involved in any conflicts or political activities. Please, let me help those in need and do not accuse me unjustly.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681623683699,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                26
+            ]
+        },
+        {
+            "content": "Ok, you can go for now...",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681623725580,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                27
+            ]
+        },
+        {
+            "content": "Thank you for understanding. I hope you can find whoever you're looking for without causing harm to innocent people. And please, remember that not everyone is your enemy.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681623725580,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                27
+            ]
+        },
+        {
+            "content": "Do you have the time?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681624924291,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Yes, it's currently [2035,7,6,12,0]. Is there anything else I can help you with?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681624924291,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Hey man what is your name?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627266030,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Hey there, my name is Benjamin. How can I assist you? Are you part of the aid organization here to help those in need?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681627266030,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "No, I am looking for Gerasimos Isofidou",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627290026,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "I don't know anyone by that name. I'm here to help people, not get involved in any kind of trouble. Are you sure you have the right person?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681627290026,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "hey man, have you seen that scumbag gerosimus?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681631184164,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "No, I haven't seen him. But if he's a fisherman, he's probably out on his boat. I can help you search the coast if you want.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)2-6VhLXAWXtOk",
+            "nodeTime": 1681631184164,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        }
+    ]
+}

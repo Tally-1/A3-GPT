@@ -1,0 +1,15 @@
+{
+  "id":          "OPFOR_chinese_PRIVATE_AmmoBearer-BKhxUffhuF8",
+  "name":        "Zhong Jao",
+  "language":    "chinese",
+  "ethnicity":   "asian",
+  "faction":     "OPFOR",
+  "rank":        "PRIVATE",
+  "role":        "Ammo Bearer",
+
+  "age":            "27",
+  "religion":       "Buddhist",
+  "marital_status": "married",
+  "personality":    "Introverted and detail-oriented",
+  "story":          "Zhong Jao grew up in a remote village in China. He joined the military as soon as he was eligible and has been a loyal soldier ever since."
+}

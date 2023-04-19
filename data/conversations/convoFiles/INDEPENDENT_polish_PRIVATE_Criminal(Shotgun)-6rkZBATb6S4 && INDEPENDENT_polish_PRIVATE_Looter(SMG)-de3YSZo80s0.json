@@ -1,0 +1,147 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4 && INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+        "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (unknown)<br/>Position: [923,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. According to informants he is hiding somewhere in  Salezie. Confirm that you have the right target before acting.<br/><br/>Miron Zieliński's mission is: 'Find food for your family'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681647435121,
+    "irlTimeLast": 1681651150257,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "messages": [
+        {
+            "content": "And how's things with you?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647439053,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "I'm good, Tally. Just staying busy with the faction. You know how it is. Always on the lookout for new opportunities to loot and expand our influence. How about you? Any interesting jobs lately?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681647439053,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "OOh yeah, about to complete it very soon",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647478467,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Nice, Tally. Can you give me any details?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681647478467,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "I am looking for a colonel",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647494091,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "A colonel? That sounds like a big job. What do you need the colonel for, Tally?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681647494091,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "The boss told me to take care of him",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647510279,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Understood, Tally. I'll keep my ear to the ground and let you know if I hear anything about a colonel around here. Stay safe out there.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681647510279,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Hey man any news?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681651150257,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Nothing new, Tally. It's been quiet lately. A little too quiet for my liking. I get antsy when we're not out there doing something. But I guess it's better than running into some serious trouble. You know how it goes.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681651150257,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        }
+    ]
+}

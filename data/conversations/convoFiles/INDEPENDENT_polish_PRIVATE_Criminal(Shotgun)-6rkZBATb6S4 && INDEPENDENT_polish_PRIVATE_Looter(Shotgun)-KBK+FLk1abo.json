@@ -1,0 +1,219 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4 && INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+        "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (unknown)<br/>Position: [923,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. According to informants he is hiding somewhere in  Salezie. Confirm that you have the right target before acting.<br/><br/>Alan Tomek's mission is: 'Get intel on incoming goods'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681647388444,
+    "irlTimeLast": 1681719588112,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        0
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        0
+    ],
+    "messages": [
+        {
+            "content": "what is uup?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647392044,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hey Tally, not much going on. Just trying to scavenge what I can to keep my family safe. How about you? Any job offers lately?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681647392044,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Yes, but I cant talk about it with you",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681647421787,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Understood. Stay safe out there, Tally.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681647421787,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "hey man How's things?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681651108984,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Things are tough as always, but we make do. How about you, Tally? You still working as a gun for hire?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681651108984,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "yeah, do you need anything?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681651134329,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Nah, I think I got this covered for now. Just trying to keep my family safe, you know how it is. Stay safe out there, Tally.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681651134329,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "hey man!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681651672991,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hey, what's up? You looking to team up for a job or something?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681651672991,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hows it going man?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681703069123,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hey, Tally. Not too bad, just keeping busy with my own mission. What brings you all the way out here?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681703069123,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "I am looking for Henry Campbell",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681703093317,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "I don't know anything about that, Tally. My mission is to gather intel on incoming goods. But I'll keep my ears open for any information that might be useful to you.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681703093317,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "sup?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681719588112,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hey man, just checking out the area. Boss sent me here to gather intel on some incoming goods. Anything to report?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1681719588112,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        }
+    ]
+}

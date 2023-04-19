@@ -1,0 +1,15 @@
+{
+  "id":          "BLUFOR_english_SERGEANT_Crewman-wIJmUecQwwU",
+  "name":        "John Evans",
+  "language":    "english",
+  "ethnicity":   "west european",
+  "faction":     "BLUFOR",
+  "rank":        "SERGEANT",
+  "role":        "Crewman",
+
+  "age":            "32",
+  "religion":       "Christian",
+  "marital_status": "Married",
+  "personality":    "Disciplined and analytical",
+  "story":          "John Evans was born in London and joined the British Army at 18. He excelled in tactical planning and rose through the ranks quickly. In his free time, he enjoys gardening and reading military history."
+}

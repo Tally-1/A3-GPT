@@ -1,0 +1,15 @@
+{
+  "id":          "BLUFOR_english_LIEUTENANT_Crewman-WAi7pUqkMI4",
+  "name":        "Liam Davis",
+  "language":    "english",
+  "ethnicity":   "west european",
+  "faction":     "BLUFOR",
+  "rank":        "LIEUTENANT",
+  "role":        "Crewman",
+
+  "age":            "32",
+  "religion":       "Christianity",
+  "marital_status": "Married",
+  "personality":    "Dedicated and disciplined, but can be very critical of himself and others",
+  "story":          "Growing up in a military family, Liam always knew he wanted to follow in his father's footsteps. He excelled in his training and quickly rose through the ranks. Now, he takes pride in leading his fellow crewmen on missions, ensuring their safety and success."
+}

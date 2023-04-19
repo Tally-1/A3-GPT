@@ -1,0 +1,51 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4 && BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+        "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (Zalesie)<br/>Position: [923,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Babitu`s mission is: 'Patrol Salezie, look out for criminals and deal with disturbances.'<br/><br/><br/><br/><br/>",
+    "location": "Zalesie (Enoch)",
+    "irlTimeFirst": 1681724341766,
+    "irlTimeLast": 1681724344390,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        17
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        17
+    ],
+    "messages": [
+        {
+            "content": "he dead",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681724344390,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                17
+            ]
+        },
+        {
+            "content": "Hold on, Tally. Who's dead? What happened? Report to me immediately.",
+            "speaker": "BLUFOR_english_PRIVATE_GendarmerieCommander-SImMch6HSuw",
+            "nodeTime": 1681724344390,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                17
+            ]
+        }
+    ]
+}

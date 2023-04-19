@@ -1,0 +1,195 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681507078972,
+    "irlTimeLast": 1681630904285,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        38
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        0
+    ],
+    "messages": [
+        {
+            "content": "No need to be scared",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681507081851,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                38
+            ]
+        },
+        {
+            "content": "I'm not scared, just a bit nervous. This is my first time driving through a warzone. But I trust you guys to keep me safe.",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1681507081851,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                38
+            ]
+        },
+        {
+            "content": "He was too retarded to live",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681507092759,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                38
+            ]
+        },
+        {
+            "content": "Excuse me? That's not a very nice thing to say. Can we please stick to more respectful and professional language?",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1681507092759,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                38
+            ]
+        },
+        {
+            "content": "He was tho",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681507116619,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                39
+            ]
+        },
+        {
+            "content": "Please refrain from using derogatory language. It is important to maintain professionalism and respect, especially in tense situations like this. We are all on the same team and should work together to achieve our goals.",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1681507116619,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                39
+            ]
+        },
+        {
+            "content": "What is so bad about calling a retard a retard? It is like calling a dog a dog",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681507153402,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                39
+            ]
+        },
+        {
+            "content": "It is disrespectful and hurtful language that has no place in a professional environment. We should treat everyone with kindness and respect, regardless of their differences or challenges.",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1681507153402,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                39
+            ]
+        },
+        {
+            "content": "Oh, my I guess I just have to shoot you as well...",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681507179729,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                40
+            ]
+        },
+        {
+            "content": "Please don't joke about shooting me, it's not funny. I'm just trying to do my job and get us all to safety. Let's focus on the mission and work together as a team.",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1681507179729,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                40
+            ]
+        },
+        {
+            "content": "hey man how's things?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681630879599,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "'Hey there, things are good! Just finished up a delivery for work. How about you?'",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1681630879599,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "its all good, wanting to know if you needed anything",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681630904285,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "'No, I don't need anything right now. What brings you here?'",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1681630904285,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        }
+    ]
+}

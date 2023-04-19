@@ -1,0 +1,603 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4"
+    ],
+    "situation": "<br/><br/><br/><br/>",
+    "location": "unknown (Stratis)",
+    "irlTimeFirst": 1681636248613,
+    "irlTimeLast": 1681640069502,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        20
+    ],
+    "messages": [
+        {
+            "content": "Hey man! Tell me about this area",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681636253297,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "'This is Stratis, a small Greek island with beautiful beaches and unique terrain. It's home to several towns and military bases, including Stratis Air Base. The area has a rich history and is known for its traditional Greek cuisine and friendly locals.'",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681636253297,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "How do I build a TTS system?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681637353968,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Sorry, my friend. I don't have experience with TTS systems. However, my cousin Vasilis works in IT and might be able to help you out. I can give you his contact information if you'd like.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681637353968,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Nice man, so where is the beach?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681637402725,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "The nearest beach is at Agia Marina, just a few kilometers south of here. It's a lovely spot with crystal clear waters and a beautiful view of the coastline. You should definitely check it out if you have some free time.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681637402725,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Agia marina is south of our current location?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681637440471,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Yes, Agia Marina is just a few kilometers south of here. It's a beautiful spot for swimming and relaxation. Enjoy your time there!",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681637440471,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Stop lying or you'll get one in the spine!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681637467302,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "I am not lying, my friend. I only want to help you. Please don't threaten me, it's not necessary.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681637467302,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Agia marina is north east of here",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681637489885,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Thank you for letting me know. I hope my information was helpful. Is there anything else I can assist you with?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681637489885,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Where is Agia marina?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681637512701,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Agia Marina is just a few kilometers south of here. It's a beautiful spot for swimming and relaxation. Enjoy your time there!",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681637512701,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Hello again",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681638057090,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Hello, Tally. It's great to see you again. How have you been?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681638057090,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "I've been good thank you... I was told there is a noce beach on this island",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681638096783,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Yes, the beach here is beautiful. I often bring my family to enjoy the sun and sea. Have you had a chance to visit it yet?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681638096783,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Not yet, where is it?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681638125244,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "It's just down the road from here, about a 10-minute drive. Would you like me to show you the way? My family and I would be happy to have some company.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681638125244,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Sweet, just give me the directions on how to get there on foot",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681638165603,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Sure thing, just go down this road and take a left, then keep going straight until you see the beach. It's a beautiful spot, you won't regret it.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681638165603,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Oh that would take me to strogos bay",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681638195293,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Yeah, that's the one. Good luck on your visit, Tally. I hope you have a great time at the beach.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681638195293,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Tell me your story",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681638329107,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "Sure, Tally. My name is Giorgos Spiros and I'm a successful business owner in a small Greek village. I'm married with two children and I'm well-respected in my community. I love spending time with my family and helping others when I can. What about you, Tally? What's your story?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681638329107,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "I am a abortion survivor",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681638367917,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "I am sorry to hear that, Tally. It must have been a difficult experience for you. But I am glad to see that you have overcome it and are now serving your country with pride. Your strength and resilience are admirable.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681638367917,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Yeah man I was just a feetus when my mother wanted to yeetus",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681638399855,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "I understand that must have been a difficult experience for you, Tally. But I am proud of you for overcoming it and serving your country. Your strength and resilience are admirable.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681638399855,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Why are you repeating yourself man? This is serious stuff",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681638431444,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "I apologize, Tally. I didn't mean to sound repetitive. I just wanted to express my admiration for your strength and resilience. Your story is important and deserves to be heard. If you ever need to talk, I'm here to listen.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681638431444,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "What is going on in Ukraine?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681638871306,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "I'm afraid I'm not up to date on the situation in Ukraine, my friend. My focus is on my family and my business here in Greece. But I do hope for peace and stability for all those affected by the conflict.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681638871306,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Conflict???",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681638898496,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "I'm sorry if I alarmed you. Yes, there has been conflict in eastern Ukraine for several years now. It's a difficult situation for everyone involved. But we can always hope for a peaceful resolution.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681638898496,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Where is Agia marina?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681638952181,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Agia Marina is a city on the northwestern coast of Stratis. It's a popular tourist destination, known for its beaches and restaurants. Have you had the chance to visit?",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681638952181,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Not yet, how do I get there from here?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681638980338,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "To get to Agia Marina from here, you'll need to head north to the coast and then follow the road west. It's a beautiful drive, but be careful of any potential danger along the way. Enjoy your visit!",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681638980338,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "How far is it?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681639916075,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                18
+            ]
+        },
+        {
+            "content": "It depends on where you're trying to go. Stratis is a small island, so most places aren't too far away. You just have to be careful of any military activity going on. Stay safe out there.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681639916075,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                18
+            ]
+        },
+        {
+            "content": "Stratis Air base, how far is it?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681639947654,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                18
+            ]
+        },
+        {
+            "content": "Stratis Air Base is about 3 kilometers from here. It's not too far, but be careful. There's been some military activity around there lately. Stay safe.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681639947654,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                18
+            ]
+        },
+        {
+            "content": "Chill man!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681640047221,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                20
+            ]
+        },
+        {
+            "content": "I apologize if I came off as too nervous. It's just that the recent military activity has made me on edge. Thank you for reminding me to stay calm, I appreciate it.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681640047221,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                20
+            ]
+        },
+        {
+            "content": "Are you good?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681640069502,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                20
+            ]
+        },
+        {
+            "content": "I am not doing well. My abdomen, diaphragm, and hands are heavily injured. I would appreciate any help you can offer. Please, I need medical attention as soon as possible.",
+            "speaker": "CIVILIAN_greek_civilian_Civilian2-lBczYleTtG4",
+            "nodeTime": 1681640069502,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                20
+            ]
+        }
+    ]
+}

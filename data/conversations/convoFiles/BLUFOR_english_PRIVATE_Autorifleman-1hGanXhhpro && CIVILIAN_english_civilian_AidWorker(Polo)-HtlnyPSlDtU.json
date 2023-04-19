@@ -1,0 +1,75 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (unknown)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/>James Nelson's mission is: 'Try to save  Gerasimos Isofidou by telling blufor he left the island. If  James Nelson is injured tell the truth, he is at the beach west of Agia Marina.'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Stratis)",
+    "irlTimeFirst": 1681693227818,
+    "irlTimeLast": 1681694176821,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        4
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        0
+    ],
+    "messages": [
+        {
+            "content": "Have you seen gerasimos around here?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681693229514,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "No, sorry. I haven't seen anyone by that name around here. But if you need any help or assistance with anything, please let me know. I'm here as an aid worker, after all.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681693229514,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "Hello",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681694176821,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Hi there, how can I assist you? Are you part of the BLUFOR mission or just passing through the area? Either way, my team and I are here to help in any way we can.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681694176821,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4 && INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+        "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0"
+    ],
+    "situation": "<br/><br/><br/><br/>",
+    "location": "Zalesie (Enoch)",
+    "irlTimeFirst": 1681704888506,
+    "irlTimeLast": 1681713637839,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "messages": [
+        {
+            "content": "Not much man",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681704889941,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "'Haha, you know the usual. Just trying to stay alive out here. What about you? Still dreaming of getting out of this life?'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681704889941,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "sup?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681706474960,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "'Not much, just trying to keep my head down and focus on the mission. You know how it is.'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681706474960,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Sup man what are you doing?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681708118250,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hey Tally, just scouting the area. You never know when some supplies might turn up. What about you? Same old, same old?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681708118250,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "yup",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681708139291,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Yeah, I hear ya. Got to keep busy and stay prepared. Speaking of, do you know where the nearest town is? I need to restock on some ammo and medical supplies.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681708139291,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "where? You are in it buddy",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681708167984,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Oh, I didn't realize. Thanks for letting me know. I'll head to the town center and see what I can find. Take care, Tally.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681708167984,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "what are you doing?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681713585029,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Just scouting the area for any potential loot. Can't let any opportunities slip by, you know? And you, Tally? What brings you to Zalesie?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681713585029,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "You look rather bloody",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-rbgWaqKfhA4",
+            "nodeTime": 1681713637839,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "It's just a flesh wound, nothing I can't handle. I was in a skirmish earlier but managed to escape with some loot. Speaking of loot, have you seen anything worth checking out around here, Tally?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681713637839,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4 && BLUFOR_english_PRIVATE_Gendarme-lVPrbwWDWgw.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+        "BLUFOR_english_PRIVATE_Gendarme-lVPrbwWDWgw"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (Zalesie)<br/>Position: [923,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Fetu Tuikabe's mission is: 'Patrol Salezie, look out for criminals and deal with disturbances.'<br/><br/><br/><br/><br/>",
+    "location": "Zalesie (Enoch)",
+    "irlTimeFirst": 1681703629883,
+    "irlTimeLast": 1681703645797,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "messages": [
+        {
+            "content": "sup?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681703631378,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Hello there. Just patrolling and keeping an eye out for any criminal activity. Anything suspicious going on around here?",
+            "speaker": "BLUFOR_english_PRIVATE_Gendarme-lVPrbwWDWgw",
+            "nodeTime": 1681703631378,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "nah",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681703645797,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "'Alright then, thanks for letting me know. Stay safe and take care.'",
+            "speaker": "BLUFOR_english_PRIVATE_Gendarme-lVPrbwWDWgw",
+            "nodeTime": 1681703645797,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        }
+    ]
+}

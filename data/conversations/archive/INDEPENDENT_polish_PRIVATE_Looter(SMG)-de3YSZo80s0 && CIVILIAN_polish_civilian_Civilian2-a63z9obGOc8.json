@@ -1,0 +1,51 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0 && CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+        "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find food for your family'<br/><br/>Location: (unknown)<br/>Position: [919,5477]<br/><br/>Task:<br/>Take a look inside the market, if there is nothing there take a look in the warehouse<br/><br/>Maciej Kozłowski's mission is: 'Be a store clerck, explain to everyone that the goods are coming next week and apologize for not having anything.'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681644315243,
+    "irlTimeLast": 1681644317291,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "messages": [
+        {
+            "content": "hey man, I need some food",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1681644317291,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Sorry, but we won't get any goods until next week. I apologize for any inconvenience.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681644317291,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        }
+    ]
+}

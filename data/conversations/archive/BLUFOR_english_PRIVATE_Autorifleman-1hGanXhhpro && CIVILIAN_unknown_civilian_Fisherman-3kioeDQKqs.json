@@ -1,0 +1,507 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (Agia Marina)<br/>Position: [2830,5998]<br/><br/>Task:<br/>The local fisherman, known as Dimitrius has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/><br/><br/>",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681618685327,
+    "irlTimeLast": 1681631385026,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        37
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        8
+    ],
+    "messages": [
+        {
+            "content": "Hey there!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618688170,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                37
+            ]
+        },
+        {
+            "content": "'Hello, my friend. What brings you to my small part of the world?'",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681618688170,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                37
+            ]
+        },
+        {
+            "content": "What is your name?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618698101,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                38
+            ]
+        },
+        {
+            "content": "My name is Gerasimos Isofidou. I am a fisherman, born and raised in this village. Is there anything you need from me?",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681618698101,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                38
+            ]
+        },
+        {
+            "content": "Hey!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618778879,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "'Hello, my friend. What brings you to my small part of the world?'",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681618778879,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "What is your name?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618793621,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "My name is Gerasimos Isofidou. I am a fisherman, born and raised in this village. Is there anything you need from me?",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681618793621,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Ok you are the one I am looking for",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618810084,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "I don't understand what you mean. Is something wrong? I am just a simple fisherman, trying to make a living for my family. Please, tell me what is going on.",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681618810084,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "You have been talking to the enemy!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618828698,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "I don't know what you're talking about. I've never spoken to the enemy. I have a family to take care of and I've only worked as a fisherman my whole life. Please, let me go.",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681618828698,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Say goodnight!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618843195,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "No, please don't! I have done nothing wrong! I am just a fisherman, I swear! My family needs me!",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681618843195,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "You got 5 minutes to do your last prayers, you can wash up in the ocean water down there",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681618876795,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Please, I beg you! I am innocent. I have a family who needs me. I have never betrayed my country or my people. Please, give me a chance to prove myself.",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681618876795,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Hey man! what is your name?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681625119299,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Greetings, my name is Gerasimos Isofidou. Can I help you with something, soldier?",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681625119299,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "I need to know what you did yesterday",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681625142185,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "I went fishing, as usual. Caught some good ones too. Why do you ask, soldier? Is everything alright?",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681625142185,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "The anamy has been getting intel on our movements lately",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681625175083,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "I swear on my life that I have not aided the enemy. Fishing is all I know and care about. Please, soldier, I implore you to let me go back to my family.",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681625175083,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "That was quick, I never accused you of aiding the enemy",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681625209783,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Please, soldier, I have done nothing wrong. Let me go back to my family. I swear on my life, I have not aided the enemy.",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681625209783,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Yeah you are guilty.... Say your prayers now...",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681625240180,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Please, I beg of you, listen to me. I have not betrayed my country or aided the enemy. I am just a simple fisherman trying to provide for my family. Think of my wife and children. Do not take me away from them.",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681625240180,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Hey there!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681626620818,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Greetings, soldier. I am Gerasimos Isofidou. I have done nothing wrong. Please, I implore you to let me go back to my family. I swear on my life, I am innocent. I understand if you must follow orders, but please, think of my wife and children. Do not take me away from them. May God have mercy on my soul.",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681626620818,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Yo! cunt!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627693553,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                7
+            ]
+        },
+        {
+            "content": "I am Gerasimos Isofidou, a mere fisherman. I have no knowledge of any intel on Blufor forces. I have a family to provide for and would never do anything to betray my country. If you seek my surrender, I shall submit to my faith and pray before my execution.",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681627693553,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                7
+            ]
+        },
+        {
+            "content": "Very good, kneel",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627728064,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "content": "I understand your duty as a soldier of this country. But I know in my heart that I have not done anything wrong. My legs are too injured to kneel, but I am ready to face my fate. I only ask that you spare my family from any repercussions. May God have mercy on my soul.",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681627728064,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "content": "Why are you rinning man?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681631328947,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                7
+            ]
+        },
+        {
+            "content": "I am not running. I was just on my way back from fishing. Is there a problem?",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681631328947,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                7
+            ]
+        },
+        {
+            "content": "what is your name?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681631342849,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "content": "My name is Gerasimos Isofidou. I am just a simple fisherman trying to provide for my family. I have done nothing wrong. Please, let me go.",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681631342849,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "content": "Yeah, sorry about what I am about to do, but I have orders",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681631366319,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "content": "I understand. I will surrender and accept my fate. May God have mercy on my soul.",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681631366319,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "content": "RIP",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681631385026,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "content": "I am ready to accept my fate and surrender to my faith. Please, make it quick and painless. I have done what I thought was right for my family, but I now realize the error of my ways. I ask for forgiveness and mercy from the Lord above. Farewell.",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1681631385026,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                8
+            ]
+        }
+    ]
+}

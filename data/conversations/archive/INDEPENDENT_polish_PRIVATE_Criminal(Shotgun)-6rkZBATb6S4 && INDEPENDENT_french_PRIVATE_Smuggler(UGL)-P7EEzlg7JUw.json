@@ -1,0 +1,51 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4 && INDEPENDENT_french_PRIVATE_Smuggler(UGL)-P7EEzlg7JUw.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+        "INDEPENDENT_french_PRIVATE_Smuggler(UGL)-P7EEzlg7JUw"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Pay a friend a visit'<br/><br/>Location: (unknown)<br/>Position: [924,5483]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. According to informants he is hiding somewhere in  Salezie. Confirm that you have the right target before acting.<br/><br/>Olina Semiti's mission is: 'Guard the local market, make sure the police do not find out about the stash in the back'<br/><br/><br/><br/><br/>",
+    "location": "unknown (Enoch)",
+    "irlTimeFirst": 1681643415291,
+    "irlTimeLast": 1681643417436,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        7
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        7
+    ],
+    "messages": [
+        {
+            "content": "sup",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681643417436,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        },
+        {
+            "content": "Hey Tally, just guarding the market like always. Need any backup on your mission?",
+            "speaker": "INDEPENDENT_french_PRIVATE_Smuggler(UGL)-P7EEzlg7JUw",
+            "nodeTime": 1681643417436,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                7
+            ]
+        }
+    ]
+}

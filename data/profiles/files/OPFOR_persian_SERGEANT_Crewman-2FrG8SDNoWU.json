@@ -1,0 +1,15 @@
+{
+  "id":          "OPFOR_persian_SERGEANT_Crewman-2FrG8SDNoWU",
+  "name":        "Farid Zahor",
+  "language":    "persian",
+  "ethnicity":   "middle eastern",
+  "faction":     "OPFOR",
+  "rank":        "SERGEANT",
+  "role":        "Crewman",
+
+  "age":            32,
+  "religion":       "Islam",
+  "marital_status": "married",
+  "personality":    "disciplined",
+  "story":          "Farid is a dedicated soldier who has been serving his country for over a decade. He is highly respected among his peers for his expertise in tank operations and his leadership skills. He is married to a woman named Aisha and they have two children together."
+}

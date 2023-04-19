@@ -1,0 +1,15 @@
+{
+  "id":          "BLUFOR_english_PRIVATE_Rifleman-CBvwtKh2o8",
+  "name":        "Oliver Kirby",
+  "language":    "english",
+  "ethnicity":   "european",
+  "faction":     "BLUFOR",
+  "rank":        "PRIVATE",
+  "role":        "Rifleman",
+
+  "age":            "28",
+  "religion":       "Christian",
+  "marital_status": "married",
+  "personality":    "brave",
+  "story":          "Oliver is a seasoned soldier who has seen many battles. He joined the military straight out of high school, following in his father's footsteps."
+}

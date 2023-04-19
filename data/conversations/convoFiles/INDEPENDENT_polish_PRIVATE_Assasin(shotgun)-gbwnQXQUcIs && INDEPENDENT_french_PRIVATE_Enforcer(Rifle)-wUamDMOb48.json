@@ -1,0 +1,123 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs && INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+        "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Take out the colonel'<br/><br/>Location: (Le Port)<br/>Position: [8210,3093]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Kahakuhale Serevi`s mission is: Guard the kiosk. Make sure the police do not find out about the smuggling operation<br/><br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1681786936272,
+    "irlTimeLast": 1681795383956,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        12,
+        4
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        12,
+        0
+    ],
+    "messages": [
+        {
+            "content": "Sup man!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681786938015,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "'Sup Tally. What's the mission?'",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681786938015,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "Going to kill Colonel campbell",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681786963283,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "Alright, let's do this. Do we have any intel on his location and security measures? We need to plan our approach carefully to ensure success.",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681786963283,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "He seems to be hiding in the church",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681787008098,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Got it. Do we have any information on his protection? We need to be prepared and make sure we don't alert any of his guards. Let me know what you need from me to ensure we complete our mission successfully.",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681787008098,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "sup?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1681795383956,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "'Situation is calm for now. Just keeping my eyes peeled for any unwanted guests. Over.'",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-wUamDMOb48",
+            "nodeTime": 1681795383956,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                0
+            ]
+        }
+    ]
+}

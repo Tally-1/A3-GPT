@@ -1,0 +1,243 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681506643759,
+    "irlTimeLast": 1681631109010,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        31
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        4
+    ],
+    "messages": [
+        {
+            "content": "Hey man read?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681506645644,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                31
+            ]
+        },
+        {
+            "content": "Anthis Maras nods his head in acknowledgement, Yeah, what's up?",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk",
+            "nodeTime": 1681506645644,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                31
+            ]
+        },
+        {
+            "content": "Why do you speak in thrid person?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681506775495,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                33
+            ]
+        },
+        {
+            "content": "Just a habit I picked up from spending most of my time alone in the wilderness. It helps me to think and reflect when I talk to myself in the third person. Sorry if it seems odd to you.",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk",
+            "nodeTime": 1681506775495,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                33
+            ]
+        },
+        {
+            "content": "How do I get to Kamino firing range?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681506937587,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                36
+            ]
+        },
+        {
+            "content": "You can take the main road north and it should take you straight there. Just keep an eye out for any checkpoints or military activity.",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk",
+            "nodeTime": 1681506937587,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                36
+            ]
+        },
+        {
+            "content": "North? It is eastwards isn't it?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681506973613,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                36
+            ]
+        },
+        {
+            "content": "My apologies, you're right, it is to the east. Just follow the main road and you'll reach Kamino firing range in no time. Stay safe out there.",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk",
+            "nodeTime": 1681506973613,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                36
+            ]
+        },
+        {
+            "content": "You mean south right?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681506990001,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                37
+            ]
+        },
+        {
+            "content": "Anthis Maras nods and apologizes for the mistake, it's actually to the east. He advises Tally to follow the main road and watch out for checkpoints or military activity. He hopes Tally stays safe on his journey to Kamino firing range.",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk",
+            "nodeTime": 1681506990001,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                37
+            ]
+        },
+        {
+            "content": "And now you are talking in third person again lol",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681507015604,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                37
+            ]
+        },
+        {
+            "content": "Anthis Maras chuckles and nods his head, I guess old habits die hard. It's just something I do when I'm deep in thought. But hey, it's never too late to learn and improve, right? he says with a smile.",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk",
+            "nodeTime": 1681507015604,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                37
+            ]
+        },
+        {
+            "content": "Yeah stop it. Kinda pulls me out of experiancing you as a person",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681507050671,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                38
+            ]
+        },
+        {
+            "content": "Anthis Maras nods in understanding and apologizes again for any confusion. He explains that he is used to speaking that way and will try his best to speak in a more natural way from now on. He thanks Tally for the feedback and wishes him a safe journey to Kamino firing range.",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk",
+            "nodeTime": 1681507050671,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                38
+            ]
+        },
+        {
+            "content": "Hey there!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681631091490,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "'Hello, what can I do for you?'",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk",
+            "nodeTime": 1681631091490,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Just wanting to chat",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681631109010,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "'What would you like to talk about? I'm just a simple hunter, not much to say.'",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk",
+            "nodeTime": 1681631109010,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (Agia Marina)<br/>Position: [2830,5998]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/>Archie Thomson's mission is: 'Inform Blufor soldiers that Gerasimos Isofidou is located at the beach west of Agia Marina.'<br/><br/><br/><br/><br/>",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681626399980,
+    "irlTimeLast": 1681630952968,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        0
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        1
+    ],
+    "messages": [
+        {
+            "content": "Hey man! How's it hanging?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681626404458,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "'Hi there, Tally. I have some information regarding your mission. Gerasimos Isofidou, the fisherman you're looking for, can be found at the beach west of Agia Marina. He's been providing intel to the enemy, so make sure to approach with caution. Good luck.'",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM",
+            "nodeTime": 1681626404458,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "WOW! that is very good intel, thank you so much!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681626443447,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "You're welcome, Tally. Just doing my part to help out. Stay safe out there.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM",
+            "nodeTime": 1681626443447,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "What's up man!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627620453,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "Hey Tally, I have important information for you. I've received reports that Gerasimos Isofidou, the local fisherman, is located at the beach west of Agia Marina. He has been providing intel to the enemy, and it's believed that he's responsible for the recent attacks on Blufor forces. You need to find him and take him out as soon as possible.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM",
+            "nodeTime": 1681627620453,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "That is great news, thank you!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627668126,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                7
+            ]
+        },
+        {
+            "content": "I'm glad I could help, Tally. Stay safe out there.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM",
+            "nodeTime": 1681627668126,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                7
+            ]
+        },
+        {
+            "content": "Hey man!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681630952968,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Hello Tally, what's up? I heard about the mission. I can help you. Gerasimos is located at the beach west of Agia Marina. I hope you can bring him to justice for his actions.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Field)1-G6UnUbUbwM",
+            "nodeTime": 1681630952968,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        }
+    ]
+}

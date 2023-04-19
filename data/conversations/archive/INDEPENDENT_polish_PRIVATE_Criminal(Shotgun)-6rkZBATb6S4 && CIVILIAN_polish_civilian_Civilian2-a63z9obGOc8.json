@@ -1,0 +1,99 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4 && CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+        "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8"
+    ],
+    "situation": "Tally is patrolling Salezie, and making sure the market is safe.",
+    "location": "Salezie Market",
+    "irlTimeFirst": 1681645277396,
+    "irlTimeLast": 1681645918157,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "messages": [
+        {
+            "content": "Anything new?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681645810529,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Not much. Just selling my crops at the market. It's a good day for it though, the weather is nice. Are you here to buy something?",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681645810529,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Anything new?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681645836350,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Not much. Just selling my crops at the market. Good weather today. Are you here to buy something?",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681645836350,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Everything good here still?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Criminal(Shotgun)-6rkZBATb6S4",
+            "nodeTime": 1681645918157,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Yeah, everything is good. Just selling my crops at the market like always.",
+            "speaker": "CIVILIAN_polish_civilian_Civilian2-a63z9obGOc8",
+            "nodeTime": 1681645918157,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        }
+    ]
+}

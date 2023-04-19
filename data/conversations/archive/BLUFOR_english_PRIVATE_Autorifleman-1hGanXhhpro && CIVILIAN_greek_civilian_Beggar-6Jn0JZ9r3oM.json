@@ -1,0 +1,219 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_greek_civilian_Beggar-6Jn0JZ9r3oM.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_greek_civilian_Beggar-6Jn0JZ9r3oM"
+    ],
+    "situation": "",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681382203351,
+    "irlTimeLast": 1681627521019,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        53
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        4
+    ],
+    "messages": [
+        {
+            "content": "whats up man, are you ok?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681382204013,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                53
+            ]
+        },
+        {
+            "content": "I'm doing alright. I'm just trying to get by. I appreciate your concern.",
+            "speaker": "CIVILIAN_greek_civilian_Beggar-6Jn0JZ9r3oM",
+            "nodeTime": 1681382204013,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                53
+            ]
+        },
+        {
+            "content": "That is some nice shades right there!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681624255774,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                36
+            ]
+        },
+        {
+            "content": "Thank you, sir. I found them in a bin nearby. May I ask what brings you to Agia Marina?",
+            "speaker": "CIVILIAN_greek_civilian_Beggar-6Jn0JZ9r3oM",
+            "nodeTime": 1681624255774,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                36
+            ]
+        },
+        {
+            "content": "Tell me where I can find the fishermen!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681624285854,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                36
+            ]
+        },
+        {
+            "content": "I don't know who you are talking about. I am just a beggar, sir.",
+            "speaker": "CIVILIAN_greek_civilian_Beggar-6Jn0JZ9r3oM",
+            "nodeTime": 1681624285854,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                36
+            ]
+        },
+        {
+            "content": "Wrong answer buddy!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681624304310,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                36
+            ]
+        },
+        {
+            "content": "Please, I beg of you, I don't know anything about any fishermen. I won't cause any trouble, I promise. My legs are injured, I can barely walk. Please just let me be.",
+            "speaker": "CIVILIAN_greek_civilian_Beggar-6Jn0JZ9r3oM",
+            "nodeTime": 1681624304310,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                36
+            ]
+        },
+        {
+            "content": "Sir, you are causing a scene here, how about youwalk over to the curve",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627470209,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "I'm sorry, sir. I'm just trying to make ends meet. I'll move along to the curb, as you suggested.",
+            "speaker": "CIVILIAN_greek_civilian_Beggar-6Jn0JZ9r3oM",
+            "nodeTime": 1681627470209,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Thank you, have a good day!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627492623,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "Thank you, sir. May the gods bless you with prosperity and fortune.",
+            "speaker": "CIVILIAN_greek_civilian_Beggar-6Jn0JZ9r3oM",
+            "nodeTime": 1681627492623,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "What is your religion?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627505151,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "I am a traditional follower of the Greek Orthodox Church. It has brought me comfort in times of hardship.",
+            "speaker": "CIVILIAN_greek_civilian_Beggar-6Jn0JZ9r3oM",
+            "nodeTime": 1681627505151,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "So why are you speaking like a pagan?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681627521019,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "I apologize for any confusion, sir. I simply chose to use a traditional phrase from our culture. As a beggar, I must rely on the kindness and generosity of others, regardless of their religion or beliefs.",
+            "speaker": "CIVILIAN_greek_civilian_Beggar-6Jn0JZ9r3oM",
+            "nodeTime": 1681627521019,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        }
+    ]
+}

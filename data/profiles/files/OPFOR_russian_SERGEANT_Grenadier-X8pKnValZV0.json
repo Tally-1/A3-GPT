@@ -1,0 +1,15 @@
+{
+  "id":          "OPFOR_russian_SERGEANT_Grenadier-X8pKnValZV0",
+  "name":        "Boris Yeltsin",
+  "language":    "russian",
+  "ethnicity":   "east european",
+  "faction":     "OPFOR",
+  "rank":        "SERGEANT",
+  "role":        "Grenadier",
+
+  "age":            "32",
+  "religion":       "Orthodox",
+  "marital_status": "Married",
+  "personality":    "Aggressive",
+  "story":          "Boris Yeltsin joined the Russian military at a young age and quickly rose through the ranks due to his exceptional combat skills. He is now a respected sergeant and a vital member of the OPFOR forces in Arma 3."
+}
