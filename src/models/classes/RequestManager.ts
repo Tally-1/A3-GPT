@@ -48,12 +48,29 @@ class RequestManager{
      parseStringArr = parseStringArr;
 
      createBatchFile(this:RequestManager){
-        const batchFile = path.join(this.rootFolder,"..", "run DCO-GPT.bat");
-        const batchFileContent = `@echo off
+        const startFile = path.join(this.rootFolder,"..", "run DCO-GPT.bat");
+        const updateFile = path.join(this.rootFolder,"..", "update DCO-GPT.bat");
+        const upDtStrtFile = path.join(this.rootFolder,"..", "update and run DCO-GPT.bat");
+
+        const startFileContent = `@echo off
         cd ${this.rootFolder}
         node .
         pause`;
-        fs.writeFileSync(batchFile, batchFileContent);
+
+        const updateFileContent = `@echo off
+        cd ${this.rootFolder}
+        npm update "a3.gpt"
+        pause`;
+
+        const upDtStrtFileContent = `@echo off
+        cd ${this.rootFolder}
+        npm update "a3.gpt"
+        node .
+        pause`;
+
+        fs.writeFileSync(upDtStrtFile, upDtStrtFileContent);
+        fs.writeFileSync(updateFile, updateFileContent);
+        fs.writeFileSync(startFile, startFileContent);
     };
 
      a3DebugMsg(this:RequestManager ,message:string){

@@ -36,12 +36,25 @@ class RequestManager {
     }
     ;
     createBatchFile() {
-        const batchFile = path_1.default.join(this.rootFolder, "..", "run DCO-GPT.bat");
-        const batchFileContent = `@echo off
+        const startFile = path_1.default.join(this.rootFolder, "..", "run DCO-GPT.bat");
+        const updateFile = path_1.default.join(this.rootFolder, "..", "update DCO-GPT.bat");
+        const upDtStrtFile = path_1.default.join(this.rootFolder, "..", "update and run DCO-GPT.bat");
+        const startFileContent = `@echo off
         cd ${this.rootFolder}
         node .
         pause`;
-        fs_1.default.writeFileSync(batchFile, batchFileContent);
+        const updateFileContent = `@echo off
+        cd ${this.rootFolder}
+        npm update "a3.gpt"
+        pause`;
+        const upDtStrtFileContent = `@echo off
+        cd ${this.rootFolder}
+        npm update "a3.gpt"
+        node .
+        pause`;
+        fs_1.default.writeFileSync(upDtStrtFile, upDtStrtFileContent);
+        fs_1.default.writeFileSync(updateFile, updateFileContent);
+        fs_1.default.writeFileSync(startFile, startFileContent);
     }
     ;
     a3DebugMsg(message) {
