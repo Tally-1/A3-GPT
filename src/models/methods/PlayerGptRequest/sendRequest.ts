@@ -16,8 +16,7 @@ async function sendRequest(
         apiKey, 
         iniDbi2Path, 
         GPT3PromptTimes,
-        profileProcessing,
-        avgPromptTime
+        profileProcessing
     } = rqMngr;
 
     const {
@@ -35,7 +34,7 @@ async function sendRequest(
     let modelUsed = "gpt3";
 
     if((!profileProcessing)
-    && avgPromptTime() < 10000){
+    && rqMngr.avgPromptTime() < 10000){
 
         reply = await RequestManager.promptGpt3(prompt, apiKey);
         GPT3PromptTimes.push(new Date().getTime() - time);        
@@ -47,7 +46,7 @@ async function sendRequest(
 
         reply = await RequestManager.openAiCompletion(prompt, "text-davinci-002", apiKey);
         console.log("Davinci used");
-        let modelUsed = "davinci"; 
+        modelUsed = "davinci"; 
 
         GPT3PromptTimes.push(new Date().getTime() - time);
     };

@@ -30,6 +30,7 @@ function initA3GPT(includeBatchFile = false) {
     const RequestManager = require("../models/classes/RequestManager").default;
     const mngr = new RequestManager(rootFolder, newDataFolder, includeBatchFile);
     mngr.A3GPTstream();
+    mngr.sendVersion();
     return mngr;
 }
 exports.default = initA3GPT;

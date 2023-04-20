@@ -49,5 +49,6 @@ function initA3GPT(
             );
         
         mngr.A3GPTstream();
+        mngr.sendVersion();
         return mngr;
 };

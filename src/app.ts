@@ -8,8 +8,6 @@ const mngr = new RequestManager(
     dataFolder
 );
 mngr.A3GPTstream();
-mngr.globalHint("A3GPT: 'Data folder updated.'", true);
-
 
 const initA3GPT = require("./misc/npmExports").default;
 exports.initA3GPT = initA3GPT;

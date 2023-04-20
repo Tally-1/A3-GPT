@@ -7,7 +7,7 @@
     "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (Agia Marina)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/>Stefanos Petridis's mission is: 'Ask around and see if anyone has seen his car. It is a Orange hatchback'<br/><br/><br/><br/><br/>",
     "location": "Agia Marina (Stratis)",
     "irlTimeFirst": 1681698238830,
-    "irlTimeLast": 1681988707717,
+    "irlTimeLast": 1681997759198,
     "gameTimeFirst": [
         2035,
         7,
@@ -20,7 +20,7 @@
         7,
         6,
         12,
-        0
+        17
     ],
     "messages": [
         {
@@ -141,6 +141,54 @@
                 6,
                 12,
                 0
+            ]
+        },
+        {
+            "content": "Hey man!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681996736687,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Hey, what's up? Have you seen an orange hatchback around here? I'm trying to find it for my job as a driver. Any leads would be appreciated.",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1681996736687,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Where did you see it last?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681997759198,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                17
+            ]
+        },
+        {
+            "content": "I parked it near the market before heading to the tavern. When I came back, it was gone. I asked around but nobody saw anything. I don't know what to do.",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1681997759198,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                17
             ]
         }
     ]

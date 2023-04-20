@@ -8,7 +8,7 @@ const GptMessage_1 = __importDefault(require("../../classes/GptMessage"));
 const PlayerGptRequest_1 = __importDefault(require("../../classes/PlayerGptRequest"));
 const RequestManager_1 = __importDefault(require("../../classes/RequestManager"));
 async function sendRequest(rqMngr) {
-    const { dataFolder, apiKey, iniDbi2Path, GPT3PromptTimes, profileProcessing, avgPromptTime } = rqMngr;
+    const { dataFolder, apiKey, iniDbi2Path, GPT3PromptTimes, profileProcessing } = rqMngr;
     const { requestId, requestType } = this;
     const currentConvo = new GptConvo_1.default(this.player.uid, dataFolder);
     const messages = currentConvo.getAllMessages();
@@ -18,7 +18,7 @@ async function sendRequest(rqMngr) {
     let reply = "The player is currently at " + this.status.location + ".\n";
     let modelUsed = "gpt3";
     if ((!profileProcessing)
-        && avgPromptTime() < 10000) {
+        && rqMngr.avgPromptTime() < 10000) {
         reply = await RequestManager_1.default.promptGpt3(prompt, apiKey);
         GPT3PromptTimes.push(new Date().getTime() - time);
     }
@@ -26,7 +26,7 @@ async function sendRequest(rqMngr) {
         RequestManager_1.default.sendA3Request("debug-message", "1", "Using Davinchi to respond. GPT-3 is taking too long.", iniDbi2Path);
         reply = await RequestManager_1.default.openAiCompletion(prompt, "text-davinci-002", apiKey);
         console.log("Davinci used");
-        let modelUsed = "davinci";
+        modelUsed = "davinci";
         GPT3PromptTimes.push(new Date().getTime() - time);
     }
     ;

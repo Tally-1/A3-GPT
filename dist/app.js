@@ -9,6 +9,5 @@ const rootFolder = process.cwd();
 const dataFolder = path_1.default.join(rootFolder, "data");
 const mngr = new RequestManager_1.default(rootFolder, dataFolder);
 mngr.A3GPTstream();
-mngr.globalHint("A3GPT: 'Data folder updated.'", true);
 const initA3GPT = require("./misc/npmExports").default;
 exports.initA3GPT = initA3GPT;
