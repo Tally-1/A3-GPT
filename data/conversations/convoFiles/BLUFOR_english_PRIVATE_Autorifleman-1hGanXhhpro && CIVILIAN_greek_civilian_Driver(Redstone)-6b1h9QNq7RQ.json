@@ -7,7 +7,7 @@
     "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (Agia Marina)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/>Stefanos Petridis's mission is: 'Ask around and see if anyone has seen his car. It is a Orange hatchback'<br/><br/><br/><br/><br/>",
     "location": "Agia Marina (Stratis)",
     "irlTimeFirst": 1681698238830,
-    "irlTimeLast": 1681700652406,
+    "irlTimeLast": 1681988707717,
     "gameTimeFirst": [
         2035,
         7,
@@ -20,7 +20,7 @@
         7,
         6,
         12,
-        12
+        0
     ],
     "messages": [
         {
@@ -117,6 +117,30 @@
                 6,
                 12,
                 12
+            ]
+        },
+        {
+            "content": "Hello sir!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681988707717,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Hello! How can I help you today?",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1681988707717,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
             ]
         }
     ]

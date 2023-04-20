@@ -8,7 +8,7 @@ const RpConvo_1 = __importDefault(require("../../classes/RpConvo"));
 const RpMessage_1 = __importDefault(require("../../classes/RpMessage"));
 async function sendRpChat(rqMngr, model = "gpt3") {
     const { id, userInput, type, ingameTime, talkerId, listenerId, situation, location } = this;
-    const { profileProcessing, iniDbi2Path, dataFolder, GPT3PromptTimes, apiKey, avgPromptTime } = rqMngr;
+    const { profileProcessing, iniDbi2Path, dataFolder, GPT3PromptTimes, apiKey } = rqMngr;
     const responseType = "response-" + type;
     if (userInput.trim() === "") {
         RequestManager_1.default.sendA3Request(responseType, id, "Write actual words maan, not just spaces.", iniDbi2Path);
@@ -25,7 +25,7 @@ async function sendRpChat(rqMngr, model = "gpt3") {
     let reply = "This is a stand-in reply";
     if (model === "gpt3"
         && (!profileProcessing)
-        && avgPromptTime() < 10000) {
+        && rqMngr.avgPromptTime() < 10000) {
         reply = await RequestManager_1.default.promptGpt3(prompt, apiKey);
         GPT3PromptTimes.push(new Date().getTime() - time);
     }

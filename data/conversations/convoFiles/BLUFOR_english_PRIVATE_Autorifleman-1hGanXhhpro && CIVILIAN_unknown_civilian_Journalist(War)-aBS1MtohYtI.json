@@ -1,0 +1,51 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_unknown_civilian_Journalist(War)-aBS1MtohYtI.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_unknown_civilian_Journalist(War)-aBS1MtohYtI"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (Agia Marina)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/><br/><br/>",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681988862716,
+    "irlTimeLast": 1681988864796,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        2
+    ],
+    "messages": [
+        {
+            "content": "yoo",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681988864796,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Hello, what brings you to Agia Marina? I am a journalist covering the conflict here.",
+            "speaker": "CIVILIAN_unknown_civilian_Journalist(War)-aBS1MtohYtI",
+            "nodeTime": 1681988864796,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        }
+    ]
+}

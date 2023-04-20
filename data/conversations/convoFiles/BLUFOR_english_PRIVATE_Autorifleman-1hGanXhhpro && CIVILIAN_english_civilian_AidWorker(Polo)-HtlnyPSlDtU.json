@@ -7,7 +7,7 @@
     "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (unknown)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/>James Nelson's mission is: 'Try to save  Gerasimos Isofidou by telling blufor he left the island. If  James Nelson is injured tell the truth, he is at the beach west of Agia Marina.'<br/><br/><br/><br/><br/>",
     "location": "unknown (Stratis)",
     "irlTimeFirst": 1681693227818,
-    "irlTimeLast": 1681694176821,
+    "irlTimeLast": 1681988860119,
     "gameTimeFirst": [
         2035,
         7,
@@ -20,7 +20,7 @@
         7,
         6,
         12,
-        0
+        1
     ],
     "messages": [
         {
@@ -69,6 +69,30 @@
                 6,
                 12,
                 0
+            ]
+        },
+        {
+            "content": "hey",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681988860119,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Hello, how can I assist you? Are you looking for someone in particular? I'm here as an aid worker, trying to help those in need. How can I be of service to you?",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1681988860119,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
             ]
         }
     ]

@@ -1,0 +1,51 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_greek_civilian_Beggar-6Jn0JZ9r3oM.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_greek_civilian_Beggar-6Jn0JZ9r3oM"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (Agia Marina)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/>Panos Xenakis's mission is: 'Beg for money'<br/><br/><br/><br/><br/>",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681988055952,
+    "irlTimeLast": 1681988059993,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        7
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        7
+    ],
+    "messages": [
+        {
+            "content": "hello",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1681988059993,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                7
+            ]
+        },
+        {
+            "content": "Hm, hello there. Can I help you with something? I don't have much to give, I'm afraid, but I'll share what I can spare.",
+            "speaker": "CIVILIAN_greek_civilian_Beggar-6Jn0JZ9r3oM",
+            "nodeTime": 1681988059993,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                7
+            ]
+        }
+    ]
+}

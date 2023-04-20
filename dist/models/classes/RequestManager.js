@@ -26,7 +26,17 @@ class RequestManager {
         this.getRequests = getRequests_1.default;
         this.parseStringArr = parseStringArr_1.default;
         const path = require('path');
-        const cfgPath = path.join(rootFolder, "..", "DCO-config.cfg");
+        let cfgPath = path.join(rootFolder, "DCO-config.cfg");
+        if (!fs_1.default.existsSync(cfgPath)) {
+            cfgPath = path.join(rootFolder, "..", "DCO-config.cfg");
+        }
+        ;
+        if (!fs_1.default.existsSync(cfgPath)) {
+            console.log("A3GPT: 'DCO-config.cfg' not found. Please create one in the root folder");
+            console.log("Exiting...");
+            process.exit(1);
+        }
+        ;
         const { iniFolder, apiKey } = this.parseCfg(cfgPath);
         this.rootFolder = rootFolder;
         this.dataFolder = dataFolder;
@@ -34,6 +44,14 @@ class RequestManager {
         this.apiKey = apiKey;
         if (includeBatchFile)
             this.createBatchFile();
+    }
+    ;
+    globalHint(text, startupHint = false) {
+        const id = -1 + "";
+        let type = "hint-global";
+        if (startupHint)
+            type = "hint-global-startup";
+        (0, sendA3Request_1.default)(type, id, text, this.iniDbi2Path);
     }
     ;
     parseCfg(cfgPath) {
@@ -72,6 +90,12 @@ class RequestManager {
         RequestManager.sendA3Request("debug-message", "1", message, this.iniDbi2Path);
     }
     avgPromptTime() {
+        if (this === undefined) {
+            console.log("undefined request-manager");
+            process.exit();
+            return 0;
+        }
+        ;
         if (this.GPT3PromptTimes.length < 1) {
             return 0;
         }

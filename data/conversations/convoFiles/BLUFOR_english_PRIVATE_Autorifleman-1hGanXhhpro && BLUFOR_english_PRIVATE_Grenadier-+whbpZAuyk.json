@@ -1,0 +1,26 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk"
+    ],
+    "situation": "You both have the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (Agia Marina)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/><br/><br/>",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1681987756384,
+    "irlTimeLast": 1681987756384,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        6,
+        12,
+        0
+    ],
+    "messages": []
+}

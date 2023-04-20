@@ -15,7 +15,7 @@ async function sendRpChat(
     model:string = "gpt3"
     ){
     const {id, userInput, type, ingameTime, talkerId, listenerId, situation, location} = this;
-    const {profileProcessing, iniDbi2Path, dataFolder, GPT3PromptTimes, apiKey, avgPromptTime}  = rqMngr;
+    const {profileProcessing, iniDbi2Path, dataFolder, GPT3PromptTimes, apiKey}  = rqMngr;
     const responseType = "response-"+type;
     
     if(userInput.trim() === ""){
@@ -35,7 +35,7 @@ async function sendRpChat(
     //whenever possible, use GPT-3, but if it's taking too long, use Davinchi (10x faster)
     if(model === "gpt3" 
     && (!profileProcessing)
-    && avgPromptTime() < 10000){
+    && rqMngr.avgPromptTime() < 10000){
 
         reply = await RequestManager.promptGpt3(prompt, apiKey);
         GPT3PromptTimes.push(new Date().getTime() - time);        

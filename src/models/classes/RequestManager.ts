@@ -30,7 +30,20 @@ class RequestManager{
         includeBatchFile:boolean = false
         ){
         const path = require('path');
-        const cfgPath = path.join(rootFolder, "..", "DCO-config.cfg");
+        let cfgPath = path.join(rootFolder, "DCO-config.cfg");
+
+        if(!fs.existsSync(cfgPath)){
+            cfgPath = path.join(rootFolder, "..", "DCO-config.cfg");
+        };
+
+        if(!fs.existsSync(cfgPath)){
+            console.log("A3GPT: 'DCO-config.cfg' not found. Please create one in the root folder");
+            console.log("Exiting...");
+            process.exit(1);
+        };
+
+
+
         const {iniFolder, apiKey} = this.parseCfg(cfgPath) as {iniFolder:string, apiKey:string};
         
         this.rootFolder  = rootFolder;
@@ -39,9 +52,16 @@ class RequestManager{
         this.apiKey      = apiKey;
         
         if(includeBatchFile) this.createBatchFile();
-        
-    };
 
+             
+    };
+     
+     globalHint(text:string, startupHint:boolean = false){
+        const id = -1+"";
+        let type = "hint-global";
+        if(startupHint) type = "hint-global-startup";
+        sendA3Request(type, id, text, this.iniDbi2Path);
+    };
 
      handleRequests = handleRequests;
      clearIniFile = clearIniFile;
@@ -99,6 +119,7 @@ class RequestManager{
      }
 
      avgPromptTime(){
+            if(this === undefined) {console.log("undefined request-manager"); process.exit();return 0;};
             if(this.GPT3PromptTimes.length < 1){return 0};
             const sum = this.GPT3PromptTimes.reduce((a, b) => a + b, 0);
             const avg = (sum / this.GPT3PromptTimes.length) || 0;
