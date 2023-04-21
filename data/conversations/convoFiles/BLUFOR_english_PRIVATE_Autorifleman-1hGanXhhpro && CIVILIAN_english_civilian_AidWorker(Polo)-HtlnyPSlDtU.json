@@ -7,7 +7,7 @@
     "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (unknown)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/>James Nelson's mission is: 'Try to save  Gerasimos Isofidou by telling blufor he left the island. If  James Nelson is injured tell the truth, he is at the beach west of Agia Marina.'<br/><br/><br/><br/><br/>",
     "location": "unknown (Stratis)",
     "irlTimeFirst": 1681693227818,
-    "irlTimeLast": 1681998155306,
+    "irlTimeLast": 1682041469396,
     "gameTimeFirst": [
         2035,
         7,
@@ -20,7 +20,7 @@
         7,
         6,
         12,
-        24
+        6
     ],
     "messages": [
         {
@@ -117,6 +117,102 @@
                 6,
                 12,
                 24
+            ]
+        },
+        {
+            "content": "I got that traitor, too late my dude, you cannot save him now",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1682041383333,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Please, Tally, reconsider. Gerasimos is not a traitor, he's just trying to protect his family. He left the island days ago. If you don't believe me, search the beach west of Agia Marina. You can still make the right choice and spare an innocent man's life.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1682041383333,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "To late I alredy got him, he is dead...",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1682041412188,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "That's a tragedy. His family will be devastated. I hope you can find some peace knowing that you executed an innocent man. The beach west of Agia Marina is where his body will wash ashore.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1682041412188,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "I know, that is where I shot him",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1682041445813,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "That's a tragedy. His family will be devastated. I hope you can find some peace knowing that you executed an innocent man. The beach west of Agia Marina is where his body will wash ashore.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1682041445813,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "Stop repeating yourself or you'll get another one",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1682041469396,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                6
+            ]
+        },
+        {
+            "content": "I am sorry, Tally. My words were not meant to offend. It is just heartbreaking to see an innocent life taken.",
+            "speaker": "CIVILIAN_english_civilian_AidWorker(Polo)-HtlnyPSlDtU",
+            "nodeTime": 1682041469396,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                6
             ]
         }
     ]

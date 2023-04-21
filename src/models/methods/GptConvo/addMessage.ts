@@ -12,6 +12,9 @@ function addMessage(
     dataFolder:string
     ){
     this.messages.push(message);
+    this.messages.sort((a, b) => {
+        return a["send-time"] - b["send-time"];
+      });
     const fileName = this.userId+".json";
     
     const gptConvoFile = path.join(dataFolder, "conversations", "assistant", fileName);

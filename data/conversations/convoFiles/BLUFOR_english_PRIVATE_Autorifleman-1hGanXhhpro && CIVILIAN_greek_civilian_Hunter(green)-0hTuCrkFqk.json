@@ -1,0 +1,99 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (Agia Marina)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/><br/><br/>",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1682041609339,
+    "irlTimeLast": 1682041674497,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        9
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        10
+    ],
+    "messages": [
+        {
+            "content": "why are you hiding?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1682041614923,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                9
+            ]
+        },
+        {
+            "content": "I'm not hiding, I'm just on a hunt. I know these lands like the back of my hand, and I prefer the serenity of the wild to the chaos of civilization. But I can't help but wonder why you're so interested in my whereabouts. Is there anything in particular you're looking for?",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk",
+            "nodeTime": 1682041614923,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                9
+            ]
+        },
+        {
+            "content": "Already found it",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1682041650539,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                9
+            ]
+        },
+        {
+            "content": "What did you find?",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk",
+            "nodeTime": 1682041650539,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                9
+            ]
+        },
+        {
+            "content": "A fisherman, a traitor... I put a bullet in his skull...",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1682041674497,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                10
+            ]
+        },
+        {
+            "content": "I see. I may not agree with your methods, but I understand that we all have a job to do. It's a shame that it had to end this way. Perhaps one day we can look back on this and find some peace. Until then, I'll continue living my life in the solitude of the wilderness.",
+            "speaker": "CIVILIAN_greek_civilian_Hunter(green)-0hTuCrkFqk",
+            "nodeTime": 1682041674497,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                10
+            ]
+        }
+    ]
+}

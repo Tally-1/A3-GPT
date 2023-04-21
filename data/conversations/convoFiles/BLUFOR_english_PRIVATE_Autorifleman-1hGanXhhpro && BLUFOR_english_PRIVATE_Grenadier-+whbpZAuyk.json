@@ -7,7 +7,7 @@
     "situation": "You both have the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (Agia Marina)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/><br/><br/>",
     "location": "Agia Marina (Stratis)",
     "irlTimeFirst": 1681987756384,
-    "irlTimeLast": 1681998277778,
+    "irlTimeLast": 1682041153657,
     "gameTimeFirst": [
         2035,
         7,
@@ -20,7 +20,7 @@
         7,
         6,
         12,
-        26
+        1
     ],
     "messages": [
         {
@@ -45,6 +45,30 @@
                 6,
                 12,
                 26
+            ]
+        },
+        {
+            "content": "Yo!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1682041153657,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Yo, what's up Tally? Ready to go find this fisherman and take care of business? Can't let him get away with betraying us like that. Let's move out and get this mission done.",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1682041153657,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
             ]
         }
     ]

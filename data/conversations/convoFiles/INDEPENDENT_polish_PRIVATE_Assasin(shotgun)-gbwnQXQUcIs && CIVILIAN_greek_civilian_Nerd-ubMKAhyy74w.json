@@ -7,7 +7,7 @@
     "situation": "Tally has the following mission:<br/> 'Take out the colonel'<br/><br/>Location: (Le Port)<br/>Position: [8164,3102]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Vasilis Maras`s mission is: Be social<br/><br/><br/><br/><br/>",
     "location": "Le Port (Malden)",
     "irlTimeFirst": 1681788395412,
-    "irlTimeLast": 1681795508831,
+    "irlTimeLast": 1682000561945,
     "gameTimeFirst": [
         2035,
         6,
@@ -111,6 +111,102 @@
             "content": "Hey there, what's up? How's your day going?",
             "speaker": "CIVILIAN_greek_civilian_Nerd-ubMKAhyy74w",
             "nodeTime": 1681795508831,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "hey man",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1682000529818,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Hey, how's it going?",
+            "speaker": "CIVILIAN_greek_civilian_Nerd-ubMKAhyy74w",
+            "nodeTime": 1682000529818,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "You look like a smart guy",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1682000541669,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Thanks, I appreciate it. What brings you to Le Port?",
+            "speaker": "CIVILIAN_greek_civilian_Nerd-ubMKAhyy74w",
+            "nodeTime": 1682000541669,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "murder",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1682000550143,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Sorry, I can't help you with that.",
+            "speaker": "CIVILIAN_greek_civilian_Nerd-ubMKAhyy74w",
+            "nodeTime": 1682000550143,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "oh, bummer",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1682000561945,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "No problem, be careful out there.",
+            "speaker": "CIVILIAN_greek_civilian_Nerd-ubMKAhyy74w",
+            "nodeTime": 1682000561945,
             "ingameTime": [
                 2035,
                 6,

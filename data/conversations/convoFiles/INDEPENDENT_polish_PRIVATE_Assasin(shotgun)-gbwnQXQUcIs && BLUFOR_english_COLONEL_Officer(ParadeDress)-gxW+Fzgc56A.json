@@ -7,7 +7,7 @@
     "situation": "Tally has the following mission:<br/> 'Take out the colonel'<br/><br/>Location: (Le Port)<br/>Position: [8164,3102]<br/><br/>Task:<br/>Your boss has tasked you with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Jake Jones`s mission is: Hide from criminal assasins. Henry Campbell's old enemies have sent armed criminals to take him out. <br/><br/><br/><br/><br/>",
     "location": "Le Port (Malden)",
     "irlTimeFirst": 1681788447300,
-    "irlTimeLast": 1681795736710,
+    "irlTimeLast": 1682000671162,
     "gameTimeFirst": [
         2035,
         6,
@@ -20,7 +20,7 @@
         6,
         24,
         12,
-        6
+        4
     ],
     "messages": [
         {
@@ -357,6 +357,102 @@
                 24,
                 12,
                 6
+            ]
+        },
+        {
+            "content": "dafuq, you in here?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1682000584014,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Hello, Tally. What brings you to Le Port? And please watch your language around me, I am a Colonel in the BLUFOR faction after all.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1682000584014,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "My boss sent me I think you know him",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1682000609082,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "I'm sorry, Tally, I can't help you without more information. Who is your boss and what is the purpose of your mission? As a Colonel of BLUFOR, I must be cautious with the information I divulge.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1682000609082,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Are you Henry?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1682000632713,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "No, I am not Henry. I am Colonel Terrence Robinson, as I have already introduced myself. Again, I must ask for more information regarding the purpose of your mission and who your boss is. Or do you have any further questions for me?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1682000632713,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "I do, show me your Id",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-gbwnQXQUcIs",
+            "nodeTime": 1682000671162,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "I am sorry, Tally, but I cannot give you my ID. I am a Colonel in the BLUFOR faction and revealing my personal information could compromise my security. Can you please provide more details regarding the purpose of your mission and who your boss is?",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1682000671162,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                12,
+                4
             ]
         }
     ]

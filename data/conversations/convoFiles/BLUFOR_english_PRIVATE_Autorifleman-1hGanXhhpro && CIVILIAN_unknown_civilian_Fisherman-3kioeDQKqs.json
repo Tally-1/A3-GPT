@@ -1,0 +1,99 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro && CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+        "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (Agia Marina)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/>Gerasimos Isofidou`s mission is: Admit your guilt to the blufor forces and surrender to your faith. Remember to pray before getting executed<br/><br/><br/><br/><br/>",
+    "location": "Agia Marina (Stratis)",
+    "irlTimeFirst": 1682041220458,
+    "irlTimeLast": 1682041285401,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        2
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        3
+    ],
+    "messages": [
+        {
+            "content": "We got you now!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1682041225831,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Please, I beg of you, do not execute me. I admit my guilt and am willing to surrender to my fate. I only ask that I may pray before my execution. My family means everything to me and I never wanted to hurt anyone. I am sorry for my actions.",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1682041225831,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Go ahead and pray!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1682041255074,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Thank you, I am grateful for this opportunity to make my peace with God. Please, tell my family that I love them and that I am sorry for the pain I have caused.",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1682041255074,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "I will, give my greetings to the angel of death",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1682041285401,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "I accept my fate. May God have mercy on my soul.",
+            "speaker": "CIVILIAN_unknown_civilian_Fisherman-3kioeDQKqs",
+            "nodeTime": 1682041285401,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        }
+    ]
+}

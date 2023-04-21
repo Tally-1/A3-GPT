@@ -14,7 +14,10 @@ class GptConvo {
         const fileName = uid + ".json";
         const gptConvoFolder = path_1.default.join(dataFolder, "conversations", "assistant");
         const gptConvoFile = path_1.default.join(gptConvoFolder, fileName);
-        let gptConvo = {};
+        let gptConvo = {
+            "userId": uid,
+            "messages": []
+        };
         if (fs_1.default.existsSync(gptConvoFile)) {
             gptConvo = require(gptConvoFile);
         }

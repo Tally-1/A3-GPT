@@ -7,7 +7,7 @@
     "situation": "Tally has the following mission:<br/> 'Find the fisherman'<br/><br/>Location: (Agia Marina)<br/>Position: [2831,5991]<br/><br/>Task:<br/>The local fisherman, known as Gerasimos Isofidou has aided the enemy by providing intel on Blufor forces, find him and execute him for treason.<br/><br/>Stefanos Petridis's mission is: 'Ask around and see if anyone has seen his car. It is a Orange hatchback'<br/><br/><br/><br/><br/>",
     "location": "Agia Marina (Stratis)",
     "irlTimeFirst": 1681698238830,
-    "irlTimeLast": 1681997759198,
+    "irlTimeLast": 1682041087387,
     "gameTimeFirst": [
         2035,
         7,
@@ -20,7 +20,7 @@
         7,
         6,
         12,
-        17
+        0
     ],
     "messages": [
         {
@@ -189,6 +189,54 @@
                 6,
                 12,
                 17
+            ]
+        },
+        {
+            "content": "Hey man!",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1682039057134,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Hey there, what's up? Sorry, I haven't seen your car around here. But, I can ask some of the locals and see if they have any information on it. Anything else I can do for you?",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1682039057134,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Whats up?",
+            "speaker": "BLUFOR_english_PRIVATE_Autorifleman-1hGanXhhpro",
+            "nodeTime": 1682041087387,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Hey there, not much is up for me. Just trying to find my car, an orange hatchback. Have you seen it around here?",
+            "speaker": "CIVILIAN_greek_civilian_Driver(Redstone)-6b1h9QNq7RQ",
+            "nodeTime": 1682041087387,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                0
             ]
         }
     ]

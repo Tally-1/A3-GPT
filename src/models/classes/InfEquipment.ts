@@ -24,7 +24,8 @@ class InfEquipment {
     
         const magObj = {} as stringObj;
         for (const mag of magazines) {
-            const [magName, magCount] = mag;
+            let [magName, magCount] = mag;
+            magName = magName.replace(/<br \/>/g, '. ');
             magObj[magName] = magCount;
         };
 
@@ -42,11 +43,14 @@ class InfEquipment {
             equipmentItem as string; 
             if(this[equipmentItem] === ''){
                 this[equipmentItem] = "none";  
-            }
+            };
+
             if(typeof this[equipmentItem] === "string" ){
                 const item = this[equipmentItem] as string;
-                this[equipmentItem] = item.replace(/<br \/>/g, '. ');
-            }
-        }
-    }
-}
+                this[equipmentItem] = (item.replace(/<br \/>/g, '. '));
+            };
+        };
+    };
+};
+
+  
