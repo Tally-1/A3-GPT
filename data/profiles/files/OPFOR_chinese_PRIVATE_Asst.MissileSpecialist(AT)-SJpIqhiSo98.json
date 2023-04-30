@@ -1,15 +1,1 @@
-{
-  "id":            "OPFOR_chinese_PRIVATE_Asst.MissileSpecialist(AT)-SJpIqhiSo98",
-  "name":          "Zhen Jao",
-  "language":      "chinese",
-  "ethnicity":     "asian",
-  "faction":       "OPFOR",
-  "rank":          "PRIVATE",
-  "role":          "Asst. Missile Specialist (AT)",
-  
-  "age":           27,
-  "religion":      "Buddhist",
-  "marital_status": "married",
-  "personality":   "detail-oriented and disciplined",
-  "story":         "Zhen Jao was born and raised in a small village in mainland China. She always had an interest in military technology and joined the PLA after completing her education. Her expertise in missile systems earned her a place in the Chinese special forces, and later, she was hired as a contractor by the CSAT coalition. Her exceptional technical abilities and discipline make her an invaluable asset to any team."
-}
+{"id":"OPFOR_chinese_PRIVATE_Asst.MissileSpecialist(AT)-SJpIqhiSo98","name":"Liu Tung","language":"chinese","ethnicity":"asian","faction":"OPFOR","rank":"PRIVATE","role":"Asst. Missile Specialist (AT)","age":27,"marital_status":"married","personality":"detail-oriented and disciplined","story":"Zhen Jao was born and raised in a small village in mainland China. She always had an interest in military technology and joined the PLA after completing her education. Her expertise in missile systems earned her a place in the Chinese special forces, and later, she was hired as a contractor by the CSAT coalition. Her exceptional technical abilities and discipline make her an invaluable asset to any team."}

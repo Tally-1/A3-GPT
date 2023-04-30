@@ -1,15 +1,1 @@
-{
-  "id":          "BLUFOR_english_PRIVATE_CombatLifeSaver-Nb88i9kVDPU",
-  "name":        "Liam Faulkner",
-  "language":    "english",
-  "ethnicity":   "west european",
-  "faction":     "BLUFOR",
-  "rank":        "PRIVATE",
-  "role":        "Combat Life Saver",
-
-  "age":            "28",
-  "religion":       "Christian",
-  "marital_status": "Married",
-  "personality":    "Hardworking and compassionate",
-  "story":          "Liam Faulkner joined the army as a combat medic after completing his medical studies. He is dedicated to saving lives on the battlefield and ensuring all his comrades return home safely."
-}
+{"id":"BLUFOR_english_PRIVATE_CombatLifeSaver-Nb88i9kVDPU","name":"Lewis Nelson","language":"english","ethnicity":"west european","faction":"BLUFOR","rank":"PRIVATE","role":"Combat Life Saver","age":"28","marital_status":"Married","personality":"Hardworking and compassionate","story":"Liam Faulkner joined the army as a combat medic after completing his medical studies. He is dedicated to saving lives on the battlefield and ensuring all his comrades return home safely."}

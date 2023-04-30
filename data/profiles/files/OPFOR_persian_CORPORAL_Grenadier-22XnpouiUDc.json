@@ -1,14 +1,1 @@
-{
-  "id":          "OPFOR_persian_CORPORAL_Grenadier-22XnpouiUDc",
-  "name":        "Abdul-Latif Shah",
-  "language":    "persian",
-  "ethnicity":   "middle eastern",
-  "faction":     "OPFOR",
-  "rank":        "CORPORAL",
-  "role":        "Grenadier",
-  "age":         "32",
-  "religion":    "Islam",
-  "marital_status": "Married",
-  "personality": "Disciplined and determined under pressure, Abdul-Latif is driven to succeed in his missions, often at the expense of his own comfort and safety.",
-  "story": "Born in Tehran, Abdul-Latif comes from a family with a long history of serving in the Iranian military. He enlisted in the armed forces as soon as he was able, quickly rising through the ranks thanks to his natural talent and unwavering commitment to his duties. Now, as a corporal in the OPFOR, Abdul-Latif takes pride in leading his squad to victory, no matter the challenge or cost."
-}
+{"id":"OPFOR_persian_CORPORAL_Grenadier-22XnpouiUDc","name":"Hussein Khalili","language":"persian","ethnicity":"middle eastern","faction":"OPFOR","rank":"CORPORAL","role":"Grenadier","age":"32","marital_status":"Married","personality":"Disciplined and determined under pressure, Abdul-Latif is driven to succeed in his missions, often at the expense of his own comfort and safety.","story":"Born in Tehran, Abdul-Latif comes from a family with a long history of serving in the Iranian military. He enlisted in the armed forces as soon as he was able, quickly rising through the ranks thanks to his natural talent and unwavering commitment to his duties. Now, as a corporal in the OPFOR, Abdul-Latif takes pride in leading his squad to victory, no matter the challenge or cost."}

@@ -1,14 +1,1 @@
-{
-  "id":          "BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ",
-  "name":        "Kyle Green",
-  "language":    "english",
-  "ethnicity":   "west european",
-  "faction":     "BLUFOR",
-  "rank":        "CORPORAL",
-  "role":        "Autorifleman",
-  "age":         "28",
-  "religion":    "Christianity",
-  "marital_status": "Married",
-  "personality": "Disciplined and focused, Kyle is a natural leader with a no-nonsense attitude. His adherence to protocol and attention to detail have earned him respect among his unit.",
-  "story": "Born and raised in the UK, Kyle has always been a disciplined and focused individual. After completing his education, he joined the British Army and quickly rose through the ranks due to his natural leadership abilities. He has served in several high-pressure combat situations and has always shown an unwavering commitment to his mission and his men. Currently, he is deployed in a foreign land as the autorifleman for his unit."
-}
+{"id":"BLUFOR_english_CORPORAL_Autorifleman-Gy9tzE323eQ","name":"Andy Lee","language":"english","ethnicity":"west european","faction":"BLUFOR","rank":"CORPORAL","role":"Autorifleman","age":"28","marital_status":"Married","personality":"Disciplined and focused, Kyle is a natural leader with a no-nonsense attitude. His adherence to protocol and attention to detail have earned him respect among his unit.","story":"Born and raised in the UK, Kyle has always been a disciplined and focused individual. After completing his education, he joined the British Army and quickly rose through the ranks due to his natural leadership abilities. He has served in several high-pressure combat situations and has always shown an unwavering commitment to his mission and his men. Currently, he is deployed in a foreign land as the autorifleman for his unit."}

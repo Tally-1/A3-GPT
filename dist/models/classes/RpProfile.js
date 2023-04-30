@@ -22,6 +22,7 @@ class RpProfile {
         this.rank = baseProfile.rank;
         this.role = baseProfile.role;
         this.age = baseProfile.age;
+        this.religion = baseProfile.religion;
         this.marital_status = baseProfile.marital_status;
         this.personality = baseProfile.personality;
         this.story = baseProfile.story;

@@ -31,6 +31,7 @@ interface profile {
     "rank": string[],
     "role": string,
     "age": number,
+    "religion"?: string,
     "marital_status": string,
     "personality": string,
     "story":string
@@ -153,6 +154,14 @@ interface conversation {
     "ingame-time-start": number[],
     "ingame-time-last": number[],
     "messages": message[]
+};
+
+export
+interface requestErrorLogMsg {
+    requestType: string;
+    time: string;
+    request: string;
+    errorMsg: string;
 };
 
 export

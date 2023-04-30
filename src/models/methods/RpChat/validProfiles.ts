@@ -9,7 +9,7 @@ function validProfiles(
     this:RpChat,
     dataFolder:string
     ) {
-    const profilesFolder = path.join(dataFolder, "profiles", "files");
+    const profilesFolder = path.join(process.cwd(),"data", "profiles", "files");
     
     const allProfiles = fs.readdirSync(profilesFolder).map((file) => {return file.replace(".json", "")});
     

@@ -17,16 +17,21 @@ function buildPrompt(previousMessages, dataFolder) {
     const includeEquipmentData = equipmentDataNeeded(conversation, message);
     const includeMapData = mapDataNeeded(conversation, message, mapData);
     let pr0file = {};
+    console.log(date);
     let prompt = `You are a AI assistant for ${name} a player in the game Arma 3.\n`
         + `The game is taking place at ${worldName}.\n`
-        + `The date is [${date}].\n`;
+        + `The date is [${date}].\n`
+        + `The time is [${date[0]}:${date[1]}].\n`;
     if (includeMapData) {
         prompt += `The unit for measuring distance between 2 coordinates is meters.\n`
             + `If the distance is over 1000 meters, the unit is kilometers.\n`
             + `If asked where something is, you should respond with the distance and direction relative to ${name}.\n`
             + `Use this data to find locations: ${mapData}\n`
             + `${name} location is ${location}.\n`
-            + `${name} position is ${position}.\n`;
+            + `${name} position is ${position}.\n`
+            + `The X coordinate is listed first, the Y coordinate is second.`
+            + `The higher the X coordinate, the further east the location is.`
+            + `The higher the Y coordinate, the further north the location is.`;
     }
     else {
         prompt += `${name} location is ${location}.\n`;

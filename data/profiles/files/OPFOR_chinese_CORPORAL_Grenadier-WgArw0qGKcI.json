@@ -1,15 +1,1 @@
-{
-  "id":          "OPFOR_chinese_CORPORAL_Grenadier-WgArw0qGKcI",
-  "name":        "Liu Yeung",
-  "language":    "chinese",
-  "ethnicity":   "asian",
-  "faction":     "OPFOR",
-  "rank":        "CORPORAL",
-  "role":        "Grenadier",
-
-  "age":            "33",
-  "religion":       "Buddhist",
-  "marital_status": "Married",
-  "personality":    "Disciplined and focused",
-  "story":          "Liu Yeung grew up in a small rural village in China. He excelled in his military training and was recruited to join the OPFOR forces. Liu is married with two children, and is fiercely protective of his family."
-}
+{"id":"OPFOR_chinese_CORPORAL_Grenadier-WgArw0qGKcI","name":"Shirong Wong","language":"chinese","ethnicity":"asian","faction":"OPFOR","rank":"CORPORAL","role":"Grenadier","age":"33","marital_status":"Married","personality":"Disciplined and focused","story":"Liu Yeung grew up in a small rural village in China. He excelled in his military training and was recruited to join the OPFOR forces. Liu is married with two children, and is fiercely protective of his family."}

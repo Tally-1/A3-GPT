@@ -1,0 +1,51 @@
+{
+    "fileName": "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo && CIVILIAN_polish_civilian_PrivateSecurity-Azwkw24Ki7c.json",
+    "participants": [
+        "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo",
+        "CIVILIAN_polish_civilian_PrivateSecurity-Azwkw24Ki7c"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Be social'<br/><br/>Location: (Le Port)<br/>Position: [8179,3137]<br/><br/>Task:<br/>He finally has a day of. After spending day and night working to connect Chat-GPT to arma 3 he can relax. Go and Talk to as many people as possible.<br/><br/>Robert Rabinowitz has the following mission:<br/> 'Guard the ATM and it's customers.'<br/><br/>Location: (Le Port)<br/>Position: [8167,3108]<br/><br/>Task:<br/> nform any criminals that they need to leave town or face the consequences.<br/>Be extremely hostile to assasins, criminals and looters.<br/><br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1682869759336,
+    "irlTimeLast": 1682869760263,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        3
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        3
+    ],
+    "messages": [
+        {
+            "content": "can I have your gun?",
+            "speaker": "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo",
+            "nodeTime": 1682869760263,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        },
+        {
+            "content": "No, you cannot have my gun. It is my responsibility to protect the ATM and its customers. I cannot afford to be unarmed even for a moment.",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-Azwkw24Ki7c",
+            "nodeTime": 1682869760263,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                3
+            ]
+        }
+    ]
+}

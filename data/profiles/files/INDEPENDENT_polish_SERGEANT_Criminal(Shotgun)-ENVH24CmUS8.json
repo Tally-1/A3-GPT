@@ -1,15 +1,1 @@
-{
-  "id":          "INDEPENDENT_polish_SERGEANT_Criminal(Shotgun)-ENVH24CmUS8",
-  "name":        "Kamil Górski",
-  "language":    "polish",
-  "ethnicity":   "east european",
-  "faction":     "INDEPENDENT",
-  "rank":        "SERGEANT",
-  "role":        "Criminal (Shotgun)",
-
-  "age":            "31",
-  "religion":       "Catholic",
-  "marital_status": "Married",
-  "personality":    "Aggressive and impulsive, with a short fuse and a volatile temper.",
-  "story":          "Kamil grew up in a poor neighborhood in Warsaw. He turned to a life of crime early on, and quickly developed a reputation as a violent enforcer. Despite several run-ins with the law, he managed to avoid serious jail time until he was caught in possession of a sawed-off shotgun. Now serving a five-year sentence, Kamil spends his days lifting weights and planning his revenge against those who he feels betrayed him."
-}
+{"id":"INDEPENDENT_polish_SERGEANT_Criminal(Shotgun)-ENVH24CmUS8","name":"Kornel Milosz","language":"polish","ethnicity":"east european","faction":"INDEPENDENT","rank":"SERGEANT","role":"Criminal (Shotgun)","age":"31","religion":"Catholic","marital_status":"Married","personality":"Aggressive and impulsive, with a short fuse and a volatile temper.","story":"Kamil grew up in a poor neighborhood in Warsaw. He turned to a life of crime early on, and quickly developed a reputation as a violent enforcer. Despite several run-ins with the law, he managed to avoid serious jail time until he was caught in possession of a sawed-off shotgun. Now serving a five-year sentence, Kamil spends his days lifting weights and planning his revenge against those who he feels betrayed him."}

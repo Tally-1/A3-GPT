@@ -1,15 +1,1 @@
-{
-  "id":          "BLUFOR_english_SERGEANT_TeamLeader-6dZZPhns",
-  "name":        "Spencer Smith",
-  "language":    "english",
-  "ethnicity":   "west european",
-  "faction":     "BLUFOR",
-  "rank":        "SERGEANT",
-  "role":        "Team Leader",
-
-  "age":            32,
-  "religion":       "Christian",
-  "marital_status": "Married",
-  "personality":    "Determined and confident",
-  "story":          "Spencer Smith grew up in a military family and followed in his father's footsteps by enlisting in the army as soon as he was able. He quickly rose through the ranks due to his exceptional leadership skills and tactical prowess. Now a respected sergeant, Spencer is known for leading his team to victory in even the most difficult combat situations."
-}
+{"id":"BLUFOR_english_SERGEANT_TeamLeader-6dZZPhns","name":"Henry Young","language":"english","ethnicity":"west european","faction":"BLUFOR","rank":"SERGEANT","role":"Team Leader","age":32,"marital_status":"Married","personality":"Determined and confident","story":"Spencer Smith grew up in a military family and followed in his father's footsteps by enlisting in the army as soon as he was able. He quickly rose through the ranks due to his exceptional leadership skills and tactical prowess. Now a respected sergeant, Spencer is known for leading his team to victory in even the most difficult combat situations."}

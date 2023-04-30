@@ -1,14 +1,1 @@
-{
-  "id":            "BLUFOR_english_SERGEANT_SquadLeader-zTkS+bIVgRo",
-  "name":          "Ryan Dayton",
-  "language":      "english",
-  "ethnicity":     "west european",
-  "faction":       "BLUFOR",
-  "rank":          "SERGEANT",
-  "role":          "Squad Leader",
-  "age":           "28",
-  "religion":      "Christian",
-  "marital_status": "Married",
-  "personality":   "Aggressive and Strategic",
-  "story":         "Ryan Dayton was born in a military family and has been serving in the army since the age of 18. He quickly rose through the ranks due to his natural leadership abilities and his tactical mindset. He has been deployed in various regions for various operations, and his experience makes him a valuable asset to any combat unit."
-}
+{"id":"BLUFOR_english_SERGEANT_SquadLeader-zTkS+bIVgRo","name":"Harvey Wilson","language":"english","ethnicity":"west european","faction":"BLUFOR","rank":"SERGEANT","role":"Squad Leader","age":"28","marital_status":"Married","personality":"Aggressive and Strategic","story":"Ryan Dayton was born in a military family and has been serving in the army since the age of 18. He quickly rose through the ranks due to his natural leadership abilities and his tactical mindset. He has been deployed in various regions for various operations, and his experience makes him a valuable asset to any combat unit."}

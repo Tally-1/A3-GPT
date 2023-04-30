@@ -1,14 +1,1 @@
-{
-  "id": "BLUFOR_english_CORPORAL_Grenadier-qpw5fT2fEk",
-  "name": "Benjamin Kelly",
-  "language": "english",
-  "ethnicity": "west european",
-  "faction": "BLUFOR",
-  "rank": "CORPORAL",
-  "role": "Grenadier",
-  "age": "29",
-  "religion": "Christian",
-  "marital_status": "Married",
-  "personality": "Determined and focused",
-  "story": "Benjamin Kelly joined the BLUFOR forces straight out of college. He always had a strong desire to serve his country and it was a natural decision for him to join the military. He is known for his unwavering determination and focus, especially in high-pressure situations. His experience and expertise as a Grenadier make him a valuable asset for his squad. Outside of work, he enjoys spending time with his wife and young daughter."
-}
+{"id":"BLUFOR_english_CORPORAL_Grenadier-qpw5fT2fEk","name":"Chris Wright","language":"english","ethnicity":"west european","faction":"BLUFOR","rank":"CORPORAL","role":"Grenadier","age":"29","marital_status":"Married","personality":"Determined and focused","story":"Benjamin Kelly joined the BLUFOR forces straight out of college. He always had a strong desire to serve his country and it was a natural decision for him to join the military. He is known for his unwavering determination and focus, especially in high-pressure situations. His experience and expertise as a Grenadier make him a valuable asset for his squad. Outside of work, he enjoys spending time with his wife and young daughter."}

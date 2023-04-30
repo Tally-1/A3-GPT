@@ -1,0 +1,195 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk && INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+        "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0"
+    ],
+    "situation": "<br/><br/><br/><br/>",
+    "location": "Air Station Mike-26 (Stratis)",
+    "irlTimeFirst": 1682639802308,
+    "irlTimeLast": 1682639920372,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        3
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        5
+    ],
+    "messages": [
+        {
+            "content": "That is a nice gun you got there",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1682639803386,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "Thanks man. I've always had a thing for SMGs. Gets the job done up close and personal, ya know? How's your gear treating you?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1682639803386,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "I got a GL 6.5mm assault rifle. Pretty decent, splits the enemy into many little pieces",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1682639839841,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "'Ah, the good old split 'em up tactic. Sometimes simple is best.'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1682639839841,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "true that",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1682639851992,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "'So, what brings you to Air Station Mike-26?'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1682639851992,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "We got reports of looters in the are, I am just investigating",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1682639875175,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "'Looters, huh? Sounds like my kind of people. If you need backup, I'm your guy.'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1682639875175,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                4
+            ]
+        },
+        {
+            "content": "I am here to shoot or arrest looters, not help them",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1682639893245,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "'Fair enough, just offering my services. Let me know if you need anything.'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1682639893245,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "Are you a looter?",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1682639902780,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "No, I'm not a looter. I'm with the INDEPENDENT faction, but I only take what I need to survive. I don't harm innocent people.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1682639902780,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "oh ok",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1682639920372,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        },
+        {
+            "content": "'Well, if you need any help tracking down those looters, let me know. I know the area pretty well.'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(SMG)-de3YSZo80s0",
+            "nodeTime": 1682639920372,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                5
+            ]
+        }
+    ]
+}

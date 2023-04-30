@@ -1,0 +1,75 @@
+{
+    "fileName": "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo && BLUFOR_english_PRIVATE_Police-0wPawflSdBk.json",
+    "participants": [
+        "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo",
+        "BLUFOR_english_PRIVATE_Police-0wPawflSdBk"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Be social'<br/><br/>Location: (Le Port)<br/>Position: [8179,3137]<br/><br/>Task:<br/>He finally has a day of. After spending day and night working to connect Chat-GPT to arma 3 he can relax. Go and Talk to as many people as possible.<br/><br/>Haloa Tonono has the following mission:<br/> 'Look out for looters, if spotted let them know to leave town, or else they will be executed.'<br/><br/>Location: (Le Port)<br/>Position: [8136,3110]<br/><br/>Task:<br/><br/><br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1682868650502,
+    "irlTimeLast": 1682868680994,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "messages": [
+        {
+            "content": "u ugly ugly",
+            "speaker": "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo",
+            "nodeTime": 1682868651548,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Excuse me? That's not a very nice thing to say. Is there something I can assist you with?",
+            "speaker": "BLUFOR_english_PRIVATE_Police-0wPawflSdBk",
+            "nodeTime": 1682868651548,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "yes",
+            "speaker": "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo",
+            "nodeTime": 1682868680994,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "How can I help you?",
+            "speaker": "BLUFOR_english_PRIVATE_Police-0wPawflSdBk",
+            "nodeTime": 1682868680994,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        }
+    ]
+}

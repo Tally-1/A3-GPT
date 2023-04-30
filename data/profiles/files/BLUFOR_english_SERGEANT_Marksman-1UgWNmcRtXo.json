@@ -1,14 +1,1 @@
-{
-  "id":          "BLUFOR_english_SERGEANT_Marksman-1UgWNmcRtXo",
-  "name":        "Keith Jackson",
-  "language":    "english",
-  "ethnicity":   "west european",
-  "faction":     "BLUFOR",
-  "rank":        "SERGEANT",
-  "role":        "Marksman",
-  "age":         32,
-  "religion":    "Christian",
-  "marital_status": "married",
-  "personality": "determined",
-  "story":       "Keith grew up in a military family, and was inspired to join the army by his father's stories about his own experiences. Keith is a highly skilled marksman and is known for his determination and ability to keep a level head in high-pressure situations."
-}
+{"id":"BLUFOR_english_SERGEANT_Marksman-1UgWNmcRtXo","name":"Andy Jackson","language":"english","ethnicity":"west european","faction":"BLUFOR","rank":"SERGEANT","role":"Marksman","age":32,"marital_status":"married","personality":"determined","story":"Keith grew up in a military family, and was inspired to join the army by his father's stories about his own experiences. Keith is a highly skilled marksman and is known for his determination and ability to keep a level head in high-pressure situations."}

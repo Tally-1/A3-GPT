@@ -1,15 +1,1 @@
-{
-  "id":          "OPFOR_chinese_SERGEANT_Marksman-S+VpXjHm+zQ",
-  "name":        "Yan Mao",
-  "language":    "chinese",
-  "ethnicity":   "asian",
-  "faction":     "OPFOR",
-  "rank":        "SERGEANT",
-  "role":        "Marksman",
-
-  "age":            32,
-  "religion":       "Buddhist",
-  "marital_status": "Married",
-  "personality":    "Disciplined and diligent",
-  "story":          "Yan Mao grew up in a rural village in China, and joined the military at a young age. He quickly made a name for himself as a skilled marksman, and was promoted to Sergeant within a few years of service. Yan Mao takes his role seriously and expects the same level of discipline from his subordinates."
-}
+{"id":"OPFOR_chinese_SERGEANT_Marksman-S+VpXjHm+zQ","name":"Shan Han","language":"chinese","ethnicity":"asian","faction":"OPFOR","rank":"SERGEANT","role":"Marksman","age":32,"marital_status":"Married","personality":"Disciplined and diligent","story":"Yan Mao grew up in a rural village in China, and joined the military at a young age. He quickly made a name for himself as a skilled marksman, and was promoted to Sergeant within a few years of service. Yan Mao takes his role seriously and expects the same level of discipline from his subordinates."}

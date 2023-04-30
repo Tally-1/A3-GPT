@@ -1,0 +1,398 @@
+{
+  "name": "gm_weferlingen_summer",
+  "size": "20480 sqKm2",
+  "locations": [
+    {
+      "name": "Grasleben",
+      "position": [
+        10483,
+        7646
+      ],
+      "type": "city"
+    },
+    {
+      "name": "Weferlingen",
+      "position": [
+        13247,
+        8528
+      ],
+      "type": "city"
+    },
+    {
+      "name": "Gross TwÃ¼lpstedt",
+      "position": [
+        3773,
+        14989
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Barmke",
+      "position": [
+        5567,
+        3536
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Velpke",
+      "position": [
+        5135,
+        18770
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Rhode",
+      "position": [
+        279,
+        8657
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Emmerstedt",
+      "position": [
+        6629,
+        688
+      ],
+      "type": "town"
+    },
+    {
+      "name": "RÃ¤tzlingen",
+      "position": [
+        17000,
+        17959
+      ],
+      "type": "town"
+    },
+    {
+      "name": "HÃ¶rsingen",
+      "position": [
+        19898,
+        4554
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Bartensleben",
+      "position": [
+        18379,
+        372
+      ],
+      "type": "town"
+    },
+    {
+      "name": "DÃ¶hren",
+      "position": [
+        10753,
+        11338
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Mackendorf",
+      "position": [
+        10827,
+        12808
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Querenhorst",
+      "position": [
+        6823,
+        10869
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Rickensdorf",
+      "position": [
+        7123,
+        13311
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Saalsdorf",
+      "position": [
+        13263,
+        13475
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Mariental (Horst)",
+      "position": [
+        9093,
+        5764
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Seggerde",
+      "position": [
+        14750,
+        11968
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Ribbenstedt",
+      "position": [
+        15598,
+        8887
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Papenrode",
+      "position": [
+        5778,
+        14133
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Ribbensdorf",
+      "position": [
+        16322,
+        9760
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Rottorf",
+      "position": [
+        5301,
+        6514
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Bahrdorf",
+      "position": [
+        9479,
+        16387
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Mariental",
+      "position": [
+        8237,
+        4274
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Walbeck",
+      "position": [
+        13751,
+        4628
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "HÃ¶dingen",
+      "position": [
+        16287,
+        7221
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Everingen",
+      "position": [
+        15736,
+        14225
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Lockstedt",
+      "position": [
+        13726,
+        16171
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Gross Sisbeck",
+      "position": [
+        3973,
+        13316
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Klein Sisbeck",
+      "position": [
+        3167,
+        12691
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Gehrendorf",
+      "position": [
+        11168,
+        17743
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Klinze",
+      "position": [
+        17758,
+        12168
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Meinkot",
+      "position": [
+        6945,
+        17408
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Rennau",
+      "position": [
+        3201,
+        6422
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Ahmstorf",
+      "position": [
+        2177,
+        8261
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Eschenrode",
+      "position": [
+        17167,
+        5133
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Klein TwÃ¼lpstedt",
+      "position": [
+        3949,
+        16288
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Schwanefeld",
+      "position": [
+        15546,
+        2917
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Belsdorf",
+      "position": [
+        19532,
+        11324
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Volkmarsdorf",
+      "position": [
+        1635,
+        13937
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Wahrstedt",
+      "position": [
+        7554,
+        19252
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Behnsdorf",
+      "position": [
+        19585,
+        8450
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Eickendorf",
+      "position": [
+        19022,
+        14363
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "RÃ¼mmer",
+      "position": [
+        2273,
+        15881
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "BÃ¶sdorf",
+      "position": [
+        14196,
+        19413
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Beendorf",
+      "position": [
+        15194,
+        588
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Kathendorf",
+      "position": [
+        18378,
+        17635
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "SÃ¼pplingenburg",
+      "position": [
+        3244,
+        1440
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Gross Bartensleben",
+      "position": [
+        16676,
+        353
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Gross Steinum",
+      "position": [
+        475,
+        3130
+      ],
+      "type": "minor location"
+    }
+  ]
+}

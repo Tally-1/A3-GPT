@@ -27,6 +27,7 @@ age: number;
 marital_status: string;
 personality: string;
 story: string;
+religion?: string;
 
 constructor(baseProfile: profile) {
     // const baseProfile = JSON.parse(jsonProfile) as profile;
@@ -38,6 +39,7 @@ constructor(baseProfile: profile) {
     this.rank = baseProfile.rank;
     this.role = baseProfile.role;
     this.age = baseProfile.age;
+    this.religion = baseProfile.religion;
     this.marital_status = baseProfile.marital_status;
     this.personality = baseProfile.personality;
     this.story = baseProfile.story;

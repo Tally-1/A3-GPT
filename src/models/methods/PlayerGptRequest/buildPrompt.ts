@@ -42,10 +42,12 @@ function buildPrompt(
         // pr0file["status"] = status;
     
         // const JSONprofile = JSON.stringify(pr0file, null, 2);
+        console.log(date);
     
         let prompt   = `You are a AI assistant for ${name} a player in the game Arma 3.\n`
                      + `The game is taking place at ${worldName}.\n`
                      + `The date is [${date}].\n`
+                     + `The time is [${date[0]}:${date[1]}].\n`
 
                     // map data
                     if(includeMapData){
@@ -55,6 +57,9 @@ function buildPrompt(
                      + `Use this data to find locations: ${mapData}\n`
                      + `${name} location is ${location}.\n`
                      + `${name} position is ${position}.\n`
+                     + `The X coordinate is listed first, the Y coordinate is second.`
+                     + `The higher the X coordinate, the further east the location is.`
+                     + `The higher the Y coordinate, the further north the location is.`
                     }
                     else {prompt += `${name} location is ${location}.\n`};
                         

@@ -1,15 +1,1 @@
-{
-  "id":          "OPFOR_persian_CORPORAL_MissileSpecialist(AT)-FdKbXHvmmKQ",
-  "name":        "Abdul-Qadir Kakar",
-  "language":    "persian",
-  "ethnicity":   "middle eastern",
-  "faction":     "OPFOR",
-  "rank":        "CORPORAL",
-  "role":        "Missile Specialist (AT)",
-
-  "age":            28,
-  "religion":       "Islam",
-  "marital_status": "married",
-  "personality":    "reserved",
-  "story":          "Abdul-Qadir grew up in a small village in Afghanistan. He joined the military at a young age and rose through the ranks due to his exceptional skills in operating and maintaining missile systems. He is known for his calm and collected demeanor, making him a valuable asset in high pressure situations."
-}
+{"id":"OPFOR_persian_CORPORAL_MissileSpecialist(AT)-FdKbXHvmmKQ","name":"Abbas Amin","language":"persian","ethnicity":"middle eastern","faction":"OPFOR","rank":"CORPORAL","role":"Missile Specialist (AT)","age":28,"marital_status":"married","personality":"reserved","story":"Abdul-Qadir grew up in a small village in Afghanistan. He joined the military at a young age and rose through the ranks due to his exceptional skills in operating and maintaining missile systems. He is known for his calm and collected demeanor, making him a valuable asset in high pressure situations."}

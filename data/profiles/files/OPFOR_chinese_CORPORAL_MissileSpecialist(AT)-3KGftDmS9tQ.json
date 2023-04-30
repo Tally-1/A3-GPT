@@ -1,15 +1,1 @@
-{
-  "id":          "OPFOR_chinese_CORPORAL_MissileSpecialist(AT)-3KGftDmS9tQ",
-  "name":        "Liu Jin",
-  "language":    "chinese",
-  "ethnicity":   "asian",
-  "faction":     "OPFOR",
-  "rank":        "CORPORAL",
-  "role":        "Missile Specialist (AT)",
-
-  "age":            "32",
-  "religion":       "Buddhist",
-  "marital_status": "Married",
-  "personality":    "Determined",
-  "story":          "Liu Jin joined the army as soon as he was old enough. He's always been fascinated with missiles and explosives, and loves the feeling of power that comes with controlling them."
-}
+{"id":"OPFOR_chinese_CORPORAL_MissileSpecialist(AT)-3KGftDmS9tQ","name":"Rong Yeung","language":"chinese","ethnicity":"asian","faction":"OPFOR","rank":"CORPORAL","role":"Missile Specialist (AT)","age":"32","marital_status":"Married","personality":"Determined","story":"Liu Jin joined the army as soon as he was old enough. He's always been fascinated with missiles and explosives, and loves the feeling of power that comes with controlling them."}

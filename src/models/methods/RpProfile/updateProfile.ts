@@ -1,3 +1,4 @@
+import { blue, green, reset } from "../../../misc/logColors";
 import RpProfile from "../../classes/RpProfile";
 
 // Rewrites changes the name used in a profile.
@@ -11,8 +12,8 @@ function updateProfile(this:RpProfile, profileData:string[], dataFolder:string){
     this.name  = profileData[0];
     
     const stored  = this.storeProfile(dataFolder);
-    if(stored){console.log("profile "+newId+" updated")}
-    else{console.log("profile "+newId+" not updated")};
+    if(stored){console.log(blue+"A3GPT: "+reset+"profile "+green+newId+reset+" updated")}
+    else{console.log(blue+"A3GPT: "+reset+"profile "+newId+" not updated")};
     
     return;
 };

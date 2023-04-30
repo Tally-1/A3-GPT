@@ -5,7 +5,6 @@ import RpChat         from "../../classes/RpChat";
 import MapData        from "../../classes/MapData";
 import { profile }    from "../../../misc/interfaces";
 import RequestManager from "../../classes/RequestManager";
-const profilesFolder  = path.join(__dirname, "../../../../data/profiles/files");
 
 // Generates a prompt for the GPT-3 API based on the input-data.
 
@@ -16,7 +15,7 @@ function generatePrompt(
     dataFolder:string
 ){
     const {userInput, ingameTime, talkerId, listenerId, situation, location} = this;
-    
+    const profilesFolder  = path.join(process.cwd(), "/data/profiles/files")
     const talkerProfile   = require(path.join(profilesFolder, talkerId+".json")) as profile;
     const listenerProfile = require(path.join(profilesFolder, listenerId+".json")) as profile;
     //Messages older than 5 minutes are ignored
@@ -28,7 +27,7 @@ function generatePrompt(
     const stringListener  = JSON.stringify(listenerProfile);
 
     const map             = location.split("(")[1].replace(")", "");
-    const mapData         = require(path.join(__dirname, "../../../../data/maps/"+map+".json"));
+    const mapData         = require(path.join(process.cwd(), "/data/maps/"+map+".json"));
     const wordCount       = defineWordCount(listenerProfile);
     const includeMapData  = includeMapdata(userInput, msgString, mapData);
 
@@ -41,10 +40,13 @@ function generatePrompt(
                            + `For example: the distance between [0,0,0] and [0,1,0] is 1 meter north.`
                            + `If the distance is over 1000 meters, the unit is kilometers.\n`
                            + `Use this data to find locations: ${JSON.stringify(mapData)}\n`
+                           + `The X coordinate is listed first, the Y coordinate is second.`
+                           + `The higher the X coordinate, the further east the location is.`
+                           + `The higher the Y coordinate, the further north the location is.`
                 };
         prompt  +=`This is a conversation between ${talker} and ${listener} as characters in Arma 3 (described in the profiles above).\n`
                  + `${situation.replace(/<br\s*\/?>/gm, "\n")}`
-                 + `This conversation is taking place at ${location}:\n`
+                 + `This conversation is taking place at: ${location}. \n`
                  + `The date is [${ingameTime}] (year,month,day,hour,minute).\n`
                  if(msgString.length > 10) prompt += `${msgString}\n`;
         prompt  += `${talker} says: '${userInput}' to ${listener}.\n`

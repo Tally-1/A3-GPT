@@ -5,6 +5,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const path_1 = __importDefault(require("path"));
 const fs_1 = __importDefault(require("fs"));
+const logColors_1 = require("../../../misc/logColors");
 function createBatchFile() {
     const startFile = path_1.default.join(this.rootFolder, "..", "run DCO-GPT.bat");
     const updateFile = path_1.default.join(this.rootFolder, "..", "update DCO-GPT.bat");
@@ -17,7 +18,7 @@ function createBatchFile() {
         + '\npause';
     fs_1.default.writeFileSync(updateFile, updateFileContent);
     fs_1.default.writeFileSync(startFile, startFileContent);
-    console.log("Batch files created.");
+    console.log(logColors_1.blue + "A3GPT: " + logColors_1.reset + "Batch files created.");
 }
 exports.default = createBatchFile;
 ;

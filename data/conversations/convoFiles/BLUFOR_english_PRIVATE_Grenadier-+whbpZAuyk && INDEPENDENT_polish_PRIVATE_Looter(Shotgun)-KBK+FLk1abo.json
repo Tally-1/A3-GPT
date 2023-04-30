@@ -1,0 +1,51 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk && INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+        "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo"
+    ],
+    "situation": "<br/><br/><br/><br/>",
+    "location": "Air Station Mike-26 (Stratis)",
+    "irlTimeFirst": 1682639768236,
+    "irlTimeLast": 1682639769241,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        3
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        3
+    ],
+    "messages": [
+        {
+            "content": "Whats up man what are you doing here?",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1682639769241,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        },
+        {
+            "content": "'Just passing through, trying to do some trading. You know how it is, gotta do what you can to survive. How's the military life treating ya?'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Looter(Shotgun)-KBK+FLk1abo",
+            "nodeTime": 1682639769241,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                3
+            ]
+        }
+    ]
+}

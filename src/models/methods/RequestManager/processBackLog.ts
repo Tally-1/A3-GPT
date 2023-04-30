@@ -12,6 +12,7 @@ async function processBackLog(this:RequestManager){
     for (let i = 0; i < this.profileRequests.length; i++) {
         const request = this.profileRequests[i] as unknown as profileRequestData;
         const startTime = Date.now();
+        console.log("Processing backlog request " + i + " of " + this.profileRequests.length);
         const profileName = await RpProfile.assignNewProfile(request, this);
 
         if(profileName){
@@ -23,7 +24,7 @@ async function processBackLog(this:RequestManager){
 
         };
 
-        await sleep(3000); // Wait 3 second before sending next request, to avoid 429 errors.
+        // await sleep(3000); // Wait 3 second before sending next request, to avoid 429 errors.
         
         this.profileRequests.splice(i, 1);
         i--; 

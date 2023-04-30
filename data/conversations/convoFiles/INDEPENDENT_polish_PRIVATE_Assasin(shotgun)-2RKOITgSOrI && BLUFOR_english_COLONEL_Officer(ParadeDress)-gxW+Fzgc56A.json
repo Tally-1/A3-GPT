@@ -1,0 +1,75 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI && BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+        "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Take out the colonel'<br/><br/>Location: (Le Port)<br/>Position: [8164,3102]<br/><br/>Task:<br/>Tally's boss has tasked Tally with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Jake Jones has the following mission:<br/> 'Hide from criminal assasins. Henry Campbell's old enemies have sent armed criminals to take him out. '<br/><br/>Location: (Le Port)<br/>Position: [8197,3131]<br/><br/>Task:<br/><br/><br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1682479569157,
+    "irlTimeLast": 1682479595638,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        22,
+        23
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        22,
+        24
+    ],
+    "messages": [
+        {
+            "content": "Sup, Gabriel sends his regards",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479570770,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                23
+            ]
+        },
+        {
+            "content": "This is Colonel Jones. I do not know any Gabriel. Please identify yourself immediately or face consequences.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1682479570770,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                23
+            ]
+        },
+        {
+            "content": "No need, SAY HELLO TO MY LITTLE FRIEND!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479595638,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                24
+            ]
+        },
+        {
+            "content": "You'll have to do better than that, criminal. I've faced tougher enemies than you. You won't succeed in taking me down.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1682479595638,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                24
+            ]
+        }
+    ]
+}

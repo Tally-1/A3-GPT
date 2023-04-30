@@ -1,14 +1,1 @@
-{
-  "id":          "BLUFOR_english_SERGEANT_Marksman-9pKVLInXosY",
-  "name":        "Callum Parker",
-  "language":    "english",
-  "ethnicity":   "south european",
-  "faction":     "BLUFOR",
-  "rank":        "SERGEANT",
-  "role":        "Marksman",
-  "age":         "30",
-  "religion":    "Christian",
-  "marital_status": "Married",
-  "personality": "Determined and disciplined",
-  "story": "Callum Parker joined the military at 18 years of age, after losing his father in a terrorist attack. Highly disciplined and determined, he grew through the ranks, becoming a marksman and a respected leader. Married with two children, Callum strives to create a world where people can live without fear of terrorism."
-}
+{"id":"BLUFOR_english_SERGEANT_Marksman-9pKVLInXosY","name":"Callum Jones","language":"english","ethnicity":"south european","faction":"BLUFOR","rank":"SERGEANT","role":"Marksman","age":"30","marital_status":"Married","personality":"Determined and disciplined","story":"Callum Parker joined the military at 18 years of age, after losing his father in a terrorist attack. Highly disciplined and determined, he grew through the ranks, becoming a marksman and a respected leader. Married with two children, Callum strives to create a world where people can live without fear of terrorism."}

@@ -1,6 +1,7 @@
 import path from "path";
 import fs from "fs";
 import RequestManager from "../../classes/RequestManager";
+import { blue, reset } from "../../../misc/logColors";
 
 
 export default
@@ -21,5 +22,5 @@ function createBatchFile(this:RequestManager){
     fs.writeFileSync(updateFile, updateFileContent);
     fs.writeFileSync(startFile, startFileContent);
 
-    console.log("Batch files created.");
+    console.log(blue+"A3GPT: "+reset+"Batch files created.");
 };

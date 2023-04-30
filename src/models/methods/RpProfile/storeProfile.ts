@@ -13,6 +13,7 @@ function storeProfile(this:RpProfile, dataFolder:string) {
       const profilesFolder = path.join(dataFolder, "profiles", "files");
       const strProfile = JSON.stringify(this);
       const profileFileName = this.id + ".json";
+      
       const profilePath = path.join(profilesFolder, profileFileName);
       
       //store profile

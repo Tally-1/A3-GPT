@@ -1,0 +1,75 @@
+{
+    "fileName": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk && INDEPENDENT_polish_SERGEANT_Looter(Pistol)-vBkVH9o1vK8.json",
+    "participants": [
+        "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+        "INDEPENDENT_polish_SERGEANT_Looter(Pistol)-vBkVH9o1vK8"
+    ],
+    "situation": "<br/><br/><br/><br/>",
+    "location": "Air Station Mike-26 (Stratis)",
+    "irlTimeFirst": 1682639698331,
+    "irlTimeLast": 1682639713253,
+    "gameTimeFirst": [
+        2035,
+        7,
+        6,
+        12,
+        1
+    ],
+    "gameTimeLast": [
+        2035,
+        7,
+        6,
+        12,
+        2
+    ],
+    "messages": [
+        {
+            "content": "Whats up man?",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1682639699074,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Not much, just waiting for the next mission. How about you, Jack? Ready to kick some butt?",
+            "speaker": "INDEPENDENT_polish_SERGEANT_Looter(Pistol)-vBkVH9o1vK8",
+            "nodeTime": 1682639699074,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                1
+            ]
+        },
+        {
+            "content": "Call me tally",
+            "speaker": "BLUFOR_english_PRIVATE_Grenadier-+whbpZAuyk",
+            "nodeTime": 1682639713253,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        },
+        {
+            "content": "Tally? Why do they call you that? \nJack Spiegelman: Its my nickname. I got it back in basic training.\nSeweryn Krukowski: Well, it's a good name. Fits you well.",
+            "speaker": "INDEPENDENT_polish_SERGEANT_Looter(Pistol)-vBkVH9o1vK8",
+            "nodeTime": 1682639713253,
+            "ingameTime": [
+                2035,
+                7,
+                6,
+                12,
+                2
+            ]
+        }
+    ]
+}

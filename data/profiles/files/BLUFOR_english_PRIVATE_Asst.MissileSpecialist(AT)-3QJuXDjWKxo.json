@@ -1,14 +1,1 @@
-{
-  "id":            "BLUFOR_english_PRIVATE_Asst.MissileSpecialist(AT)-3QJuXDjWKxo",
-  "name":          "Samuel Allen",
-  "language":      "english",
-  "ethnicity":     "west european",
-  "faction":       "BLUFOR",
-  "rank":          "PRIVATE",
-  "role":          "Asst. Missile Specialist (AT)",
-  "age":           "29",
-  "religion":      "Christianity",
-  "marital_status": "married",
-  "personality":   "calm and collected",
-  "story":         "Samuel joined the military to follow in the footsteps of his father who served as a tank driver. He has always been intrigued by the technology and tactics involved in modern warfare."
-}
+{"id":"BLUFOR_english_PRIVATE_Asst.MissileSpecialist(AT)-3QJuXDjWKxo","name":"Gillian Campbell","language":"english","ethnicity":"west european","faction":"BLUFOR","rank":"PRIVATE","role":"Asst. Missile Specialist (AT)","age":"29","marital_status":"married","personality":"calm and collected","story":"Samuel joined the military to follow in the footsteps of his father who served as a tank driver. He has always been intrigued by the technology and tactics involved in modern warfare."}

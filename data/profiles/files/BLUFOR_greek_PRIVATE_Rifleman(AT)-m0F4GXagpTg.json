@@ -1,15 +1,1 @@
-{
-  "id":          "BLUFOR_greek_PRIVATE_Rifleman(AT)-m0F4GXagpTg",
-  "name":        "Dimitrios Nicolau",
-  "language":    "greek",
-  "ethnicity":   "south european",
-  "faction":     "BLUFOR",
-  "rank":        "PRIVATE",
-  "role":        "Rifleman (AT)",
-
-  "age":            "28",
-  "religion":       "Greek Orthodox",
-  "marital_status": "married",
-  "personality":    "reserved and methodical",
-  "story":          "Dimitrios grew up in a small village in Greece. He loves his country and the traditions of his family. He joined the army to defend his homeland and to make his family proud. He takes his duties seriously, but can be reserved around strangers. He is methodical and efficient in his work."
-}
+{"id":"BLUFOR_greek_PRIVATE_Rifleman(AT)-m0F4GXagpTg","name":"Giorgos Manelia","language":"greek","ethnicity":"south european","faction":"BLUFOR","rank":"PRIVATE","role":"Rifleman (AT)","age":"28","marital_status":"married","personality":"reserved and methodical","story":"Dimitrios grew up in a small village in Greece. He loves his country and the traditions of his family. He joined the army to defend his homeland and to make his family proud. He takes his duties seriously, but can be reserved around strangers. He is methodical and efficient in his work."}

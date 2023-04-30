@@ -1,0 +1,486 @@
+{
+  "name": "Tanoa",
+  "size": "15360 sqKm2",
+  "locations": [
+    {
+      "name": "Georgetown",
+      "position": [
+        5396,
+        10335
+      ],
+      "type": "city"
+    },
+    {
+      "name": "Lifou",
+      "position": [
+        7080,
+        8004
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Tanouka",
+      "position": [
+        9014,
+        10214
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Moddergat",
+      "position": [
+        9407,
+        4133
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Saint-Julien",
+      "position": [
+        5809,
+        11213
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Harcourt",
+      "position": [
+        11123,
+        5343
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Katkoula",
+      "position": [
+        5685,
+        3994
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Balavu",
+      "position": [
+        2677,
+        7442
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Oumere",
+      "position": [
+        12984,
+        7322
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Nicolet",
+      "position": [
+        6165,
+        12865
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Doodstil",
+      "position": [
+        12862,
+        4691
+      ],
+      "type": "town"
+    },
+    {
+      "name": "La Rochelle",
+      "position": [
+        9550,
+        13673
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Lijnhaven",
+      "position": [
+        11802,
+        2663
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Blue Pearl industrial port",
+      "position": [
+        13523,
+        12135
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Tuvanaka",
+      "position": [
+        1579,
+        11938
+      ],
+      "type": "town"
+    },
+    {
+      "name": "Lami",
+      "position": [
+        7942,
+        7663
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Lakatoro",
+      "position": [
+        9214,
+        8741
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Lobaka",
+      "position": [
+        6028,
+        8580
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Regina",
+      "position": [
+        4920,
+        8729
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "La Foa",
+      "position": [
+        8825,
+        4778
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Savaka",
+      "position": [
+        7212,
+        4238
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Buawa",
+      "position": [
+        8317,
+        11132
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Kotomo",
+      "position": [
+        10974,
+        6233
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Lsi",
+      "position": [
+        10201,
+        4964
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Vagalala",
+      "position": [
+        11069,
+        9748
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Imone",
+      "position": [
+        10488,
+        10614
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Tobakoro",
+      "position": [
+        8741,
+        3556
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Galili",
+      "position": [
+        8114,
+        11957
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Rautake",
+      "position": [
+        3404,
+        6836
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Oua-Oue",
+      "position": [
+        5752,
+        12326
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Sosovu",
+      "position": [
+        2687,
+        9281
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Namuvaka",
+      "position": [
+        2824,
+        5700
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Leqa",
+      "position": [
+        2364,
+        8237
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Blerick",
+      "position": [
+        10256,
+        2738
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Belfort",
+      "position": [
+        3133,
+        10977
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Saioko",
+      "position": [
+        12404,
+        4570
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Petit Nicolet",
+      "position": [
+        6813,
+        13440
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Saint-Paul",
+      "position": [
+        7829,
+        13600
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Nasua",
+      "position": [
+        11418,
+        12360
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Savu",
+      "position": [
+        8393,
+        13778
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Muaceba",
+      "position": [
+        1556,
+        8545
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Momea",
+      "position": [
+        10424,
+        13252
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Laikoro",
+      "position": [
+        1628,
+        6191
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Yanukka",
+      "position": [
+        3051,
+        3449
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Cerebu",
+      "position": [
+        2132,
+        4590
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Luganville",
+      "position": [
+        14041,
+        8308
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Penelo",
+      "position": [
+        10966,
+        13183
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Nani",
+      "position": [
+        1955,
+        10727
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Port-Boise",
+      "position": [
+        12715,
+        3309
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Tavu",
+      "position": [
+        974,
+        7654
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Vatukoulo",
+      "position": [
+        14057,
+        9956
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Lailai",
+      "position": [
+        3628,
+        2209
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Nandai",
+      "position": [
+        14496,
+        8877
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Ovau",
+      "position": [
+        12402,
+        12788
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Bua Bua",
+      "position": [
+        13255,
+        3020
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Taga",
+      "position": [
+        12255,
+        1880
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Ba",
+      "position": [
+        14295,
+        11680
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Rereki",
+      "position": [
+        13069,
+        2118
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Ipota",
+      "position": [
+        12318,
+        13929
+      ],
+      "type": "minor location"
+    },
+    {
+      "name": "Koumac",
+      "position": [
+        1347,
+        2968
+      ],
+      "type": "minor location"
+    }
+  ]
+}

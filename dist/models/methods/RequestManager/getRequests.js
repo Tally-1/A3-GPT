@@ -7,50 +7,34 @@ const path_1 = __importDefault(require("path"));
 const fs_1 = __importDefault(require("fs"));
 const ini = require("ini");
 function getRequests() {
-    try {
-        const A3RequestFile = path_1.default.join(this.iniDbi2Path, "A3-GPT_out.ini");
-        const content = fs_1.default.readFileSync(A3RequestFile, 'utf-8');
-        const requestList = (ini.parse(content))['A3-GPT_out'];
-        const requestIds = Object.keys(requestList);
-        const requests = [];
-        for (const id of requestIds) {
-            const requestString = requestList[id];
-            if (requestString !== undefined) {
-                let rqstr = toANSI(requestString);
-                let type;
-                let data;
-                try {
-                    [type, data] = this.parseStringArr(rqstr);
-                }
-                catch (e) {
-                    rqstr = rqstr.replace(/""/g, '"').replace(/""/g, '"').replace(/""/g, '"');
-                    [type, data] = this.parseStringArr(rqstr);
-                }
+    const requests = [];
+    const ids = [];
+    const A3RequestFile = path_1.default.join(this.iniDbi2Path, "A3-GPT_out.ini");
+    const lines = fs_1.default.readFileSync(A3RequestFile, 'utf-8').split("\n");
+    let i = 0;
+    for (const line of lines) {
+        const splitPoint = line.indexOf("=");
+        const id = line.slice(0, splitPoint);
+        const rawRequest = line.slice(splitPoint + 1).trim();
+        if (id !== undefined
+            && rawRequest !== undefined
+            && rawRequest.length > 0
+            && i > 0) {
+            ids.push(id);
+            const parsedRequest = this.parseStringArr(rawRequest);
+            if (parsedRequest !== undefined
+                && parsedRequest.length > 0
+                && typeof parsedRequest === "object") {
+                const [type, data] = parsedRequest;
                 const request = [id, type, ...data];
                 requests.push(request);
             }
+            ;
         }
         ;
-        return requests;
+        i++;
     }
-    catch (error) {
-        console.log("error get requests");
-        return [];
-    }
+    ;
+    return requests;
 }
 exports.default = getRequests;
-function toANSI(string) {
-    const nonAnsiMap = {
-        'á': 'a',
-        'é': 'e',
-        'í': 'i',
-        'ó': 'o',
-        'ú': 'u',
-        'ñ': 'n',
-        'ł': 'l'
-    };
-    return string.replace(/[^\x00-\x7F]/g, function (match) {
-        return nonAnsiMap[match] || '';
-    });
-}
-;

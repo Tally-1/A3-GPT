@@ -17,6 +17,11 @@ import EventEmitter from "events";
 import { profileRequestData } from "../../misc/interfaces";
 import fs from "fs";
 import onNewRequest from "../methods/RequestManager/onNewRequest";
+import initConfig from "../methods/RequestManager/initConfig";
+import checkApiKey from "../methods/RequestManager/checkApiKey";
+import initDbFiles from "../methods/RequestManager/initDbFiles";
+import logRequestFail from "../methods/RequestManager/logRequestFail";
+
 
 
 // Handles all requests to and from the Arma 3 server
@@ -26,6 +31,7 @@ class RequestManager extends EventEmitter{
     GPT3PromptTimes: number[] = [];
     profileRequests: profileRequestData[] = [];
     profileProcessing: boolean = false;
+    prevProfileRequestTime: number = 0;
     inIniLastCleared: number = 0;
     currentMap:string = "unknown";
     iniDbi2Path:string;
@@ -38,36 +44,27 @@ class RequestManager extends EventEmitter{
         includeBatchFile:boolean = false
         ){
             super();
-                    
-            const path = require('path');
-            let cfgPath = path.join(rootFolder, "DCO-config.cfg");
 
-            if(!fs.existsSync(cfgPath)){
-                cfgPath = path.join(rootFolder, "..", "DCO-config.cfg");
-            };
-
-            if(!fs.existsSync(cfgPath)){
-                console.log("A3GPT: 'DCO-config.cfg' not found. Please create one in the root folder");
-                console.log("Exiting...");
-                process.exit(1);
-            };
-            
-            const {iniFolder, apiKey} = RequestManager.parseCfg(cfgPath) as {iniFolder:string, apiKey:string};
+            const {iniFolder, apiKey} = this.initConfig(rootFolder);  
             
             this.rootFolder  = rootFolder;
             this.dataFolder  = dataFolder;
             this.iniDbi2Path = iniFolder;
             this.apiKey      = apiKey;
-            
+
+            this.initDbFiles();
             if(includeBatchFile) this.createBatchFile();
 
+            this.checkApiKey();
             this.on("newRequest", this.onNewRequest);
 
-             
     };
      
     
     
+    initConfig = initConfig;
+    initDbFiles = initDbFiles;
+    checkApiKey = checkApiKey;    
     createBatchFile = createBatchFile;
 
     A3GPTstream = A3GPTstream;
@@ -85,6 +82,7 @@ class RequestManager extends EventEmitter{
     a3DebugMsg = a3DebugMsg;
     sendVersion = sendVersion;
     
+    static logRequestFail = logRequestFail;
     static parseCfg = parseCfg;
     static promptGpt3 = promptGpt3;
     static openAiCompletion = openAiCompletion;

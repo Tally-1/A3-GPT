@@ -1,15 +1,1 @@
-{
-  "id":          "BLUFOR_greek_PRIVATE_CombatLifeSaver-w0dKtjPwZ8M",
-  "name":        "Sotiris Cosmos",
-  "language":    "greek",
-  "ethnicity":   "south european",
-  "faction":     "BLUFOR",
-  "rank":        "PRIVATE",
-  "role":        "Combat Life Saver",
-
-  "age":            28,
-  "religion":       "Christian",
-  "marital_status": "Married",
-  "personality":    "Brave and dedicated",
-  "story":          "Sotiris grew up in a small town in Greece. He joined the army to serve his country and make his family proud. He excelled in his training and was selected to become a Combat Life Saver. He is a fearless and dedicated soldier who will do whatever it takes to save his comrades."
-}
+{"id":"BLUFOR_greek_PRIVATE_CombatLifeSaver-w0dKtjPwZ8M","name":"Kostis Stanis","language":"greek","ethnicity":"south european","faction":"BLUFOR","rank":"PRIVATE","role":"Combat Life Saver","age":28,"marital_status":"Married","personality":"Brave and dedicated","story":"Sotiris grew up in a small town in Greece. He joined the army to serve his country and make his family proud. He excelled in his training and was selected to become a Combat Life Saver. He is a fearless and dedicated soldier who will do whatever it takes to save his comrades."}

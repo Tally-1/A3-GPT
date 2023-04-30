@@ -1,14 +1,1 @@
-{
-  "id": "BLUFOR_english_PRIVATE_CombatLifeSaver-LPSAPtMnhf4",
-  "name": "Paul Anderson",
-  "language": "english",
-  "ethnicity": "west european",
-  "faction": "BLUFOR",
-  "rank": "PRIVATE",
-  "role": "Combat Life Saver",
-  "age": "28",
-  "religion": "Christian",
-  "marital_status": "married",
-  "personality": "calm and level-headed",
-  "story": "Paul Anderson was always interested in the medical field and joined the army as a Combat Life Saver. He is well respected by his colleagues for his level-headedness in intense situations. He is married and has a young daughter who he hopes to see soon."
-}
+{"id":"BLUFOR_english_PRIVATE_CombatLifeSaver-LPSAPtMnhf4","name":"Owen Collins","language":"english","ethnicity":"west european","faction":"BLUFOR","rank":"PRIVATE","role":"Combat Life Saver","age":"28","marital_status":"married","personality":"calm and level-headed","story":"Paul Anderson was always interested in the medical field and joined the army as a Combat Life Saver. He is well respected by his colleagues for his level-headedness in intense situations. He is married and has a young daughter who he hopes to see soon."}

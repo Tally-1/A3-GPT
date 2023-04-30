@@ -1,0 +1,267 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI && CIVILIAN_greek_civilian_Nerd-2fAVskP8h8s.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+        "CIVILIAN_greek_civilian_Nerd-2fAVskP8h8s"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Take out the colonel'<br/><br/>Location: (Le Port)<br/>Position: [8164,3102]<br/><br/>Task:<br/>Tally's boss has tasked Tally with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Vasilis Maras has the following mission:<br/> 'Be social'<br/><br/>Location: (Le Port)<br/>Position: [8179,3137]<br/><br/>Task:<br/>He finally has a day of. After spending day and night working to connect Chat-GPT to arma 3 he can relax. Go and Talk to as many people as possible.<br/><br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1682479176064,
+    "irlTimeLast": 1682479537581,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        22,
+        17
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        22,
+        23
+    ],
+    "messages": [
+        {
+            "content": "Hey man how's things?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479177851,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                17
+            ]
+        },
+        {
+            "content": "Hey, things are good. Just enjoying my day off and trying to be social. How about you?",
+            "speaker": "CIVILIAN_greek_civilian_Nerd-2fAVskP8h8s",
+            "nodeTime": 1682479177851,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                17
+            ]
+        },
+        {
+            "content": "Oh I am here for a job...",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479197992,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                17
+            ]
+        },
+        {
+            "content": "Interesting, what job do you have? Hopefully nothing too dangerous. I'm just trying to enjoy some downtime and talk to people.",
+            "speaker": "CIVILIAN_greek_civilian_Nerd-2fAVskP8h8s",
+            "nodeTime": 1682479197992,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                17
+            ]
+        },
+        {
+            "content": "Really? have you been working hard lately?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479216946,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                17
+            ]
+        },
+        {
+            "content": "Yeah, I've been working nonstop on a new project. It's been pretty intense, but I love what I do so it's all worth it in the end. How about you? What's your job?",
+            "speaker": "CIVILIAN_greek_civilian_Nerd-2fAVskP8h8s",
+            "nodeTime": 1682479216946,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                17
+            ]
+        },
+        {
+            "content": "Tell me about the project",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479238447,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                18
+            ]
+        },
+        {
+            "content": "It's a project to connect Chat-GPT to Arma 3. It's been a lot of work, but I'm excited about the possibilities it could bring to the game. Hopefully, it'll make communication between players a lot easier and more natural.",
+            "speaker": "CIVILIAN_greek_civilian_Nerd-2fAVskP8h8s",
+            "nodeTime": 1682479238447,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                18
+            ]
+        },
+        {
+            "content": "Damn that sounds interesting, do you think we could get conversations between ai and players as well?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479288194,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                19
+            ]
+        },
+        {
+            "content": "Yes, that's definitely a possibility. It would require a lot more programming and testing, but it could be a game-changer for Arma 3. Imagine having more realistic conversations with the AI characters. It would add a whole new level of immersion to the game.",
+            "speaker": "CIVILIAN_greek_civilian_Nerd-2fAVskP8h8s",
+            "nodeTime": 1682479288194,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                19
+            ]
+        },
+        {
+            "content": "How long do you estimate that would take? or is it working already?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479384837,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                20
+            ]
+        },
+        {
+            "content": "It's still in the testing phase, so it's hard to say for certain. But I'm hoping to have it up and running within the next few months. It's a complex project, but I'm confident that it'll be worth it in the end.",
+            "speaker": "CIVILIAN_greek_civilian_Nerd-2fAVskP8h8s",
+            "nodeTime": 1682479384837,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                20
+            ]
+        },
+        {
+            "content": "How about linking speech to ingame actions performed by the AI, would that be possible?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479420230,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                21
+            ]
+        },
+        {
+            "content": "That's definitely a possibility. It would require even more complex programming, but I think it could add a lot to the realism of Arma 3. It would be really cool to see AI characters actually speaking and performing actions at the same time.",
+            "speaker": "CIVILIAN_greek_civilian_Nerd-2fAVskP8h8s",
+            "nodeTime": 1682479420230,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                21
+            ]
+        },
+        {
+            "content": "Definetly",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479448163,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                21
+            ]
+        },
+        {
+            "content": "So, what brings you to Le Port on such an important job? Are you with the military or some kind of private agency? Either way, stay safe out there. I'll be here working on my project, but feel free to stop by and chat again if you have some free time.",
+            "speaker": "CIVILIAN_greek_civilian_Nerd-2fAVskP8h8s",
+            "nodeTime": 1682479448163,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                21
+            ]
+        },
+        {
+            "content": "I am a independent assasin, my boss told me to kill a colonel hiding in the church",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479506575,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                22
+            ]
+        },
+        {
+            "content": "Wow, that sounds intense. Good luck with your mission, and remember to stay safe out there. If you need any help, let me know. I'll keep working on my project, but I'll be here if you need me.",
+            "speaker": "CIVILIAN_greek_civilian_Nerd-2fAVskP8h8s",
+            "nodeTime": 1682479506575,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                22
+            ]
+        },
+        {
+            "content": "So one quick question, is chatgpt connected to the internet?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479537581,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                23
+            ]
+        },
+        {
+            "content": "Yes, Chat-GPT is connected to the internet. It's hosted on a server, so as long as there's an internet connection, it should work. Is there anything else you need to know?",
+            "speaker": "CIVILIAN_greek_civilian_Nerd-2fAVskP8h8s",
+            "nodeTime": 1682479537581,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                23
+            ]
+        }
+    ]
+}

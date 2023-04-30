@@ -1,15 +1,1 @@
-{
-  "id":          "OPFOR_chinese_SERGEANT_SquadLeader-ONHsRpPR+N8",
-  "name":        "Chao Sun",
-  "language":    "chinese",
-  "ethnicity":   "asian",
-  "faction":     "OPFOR",
-  "rank":        "SERGEANT",
-  "role":        "Squad Leader",
-
-  "age":            "32",
-  "religion":       "Buddhism",
-  "marital_status": "Married",
-  "personality":    "Disciplined and Strategic",
-  "story":          "Chao Sun served in the Chinese military for several years before joining the OPFOR faction. He quickly rose up the ranks due to his strategic planning abilities and willingness to take bold action."
-}
+{"id":"OPFOR_chinese_SERGEANT_SquadLeader-ONHsRpPR+N8","name":"Wen Tong","language":"chinese","ethnicity":"asian","faction":"OPFOR","rank":"SERGEANT","role":"Squad Leader","age":"32","marital_status":"Married","personality":"Disciplined and Strategic","story":"Chao Sun served in the Chinese military for several years before joining the OPFOR faction. He quickly rose up the ranks due to his strategic planning abilities and willingness to take bold action."}

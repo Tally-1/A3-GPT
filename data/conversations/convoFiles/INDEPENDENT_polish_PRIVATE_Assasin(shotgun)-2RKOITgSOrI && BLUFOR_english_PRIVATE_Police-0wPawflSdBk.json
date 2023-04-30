@@ -1,0 +1,99 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI && BLUFOR_english_PRIVATE_Police-0wPawflSdBk.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+        "BLUFOR_english_PRIVATE_Police-0wPawflSdBk"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Take out the colonel'<br/><br/>Location: (Le Port)<br/>Position: [8202,3104]<br/><br/>Task:<br/>Tally's boss has tasked Tally with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Haloa Tonono has the following mission:<br/> 'Look out for looters, if spotted let them know to leave town, or else they will be executed.'<br/><br/>Location: (Le Port)<br/>Position: [8136,3110]<br/><br/>Task:<br/><br/><br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1682503006494,
+    "irlTimeLast": 1682503041168,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        6
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        6
+    ],
+    "messages": [
+        {
+            "content": "good day sir",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682503007854,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "Greetings, private Tally. Is there anything I can assist you with?",
+            "speaker": "BLUFOR_english_PRIVATE_Police-0wPawflSdBk",
+            "nodeTime": 1682503007854,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "Nah man, you good?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682503022001,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "Halt. You are not authorized to be in this area. Please identify yourself and state your business.",
+            "speaker": "BLUFOR_english_PRIVATE_Police-0wPawflSdBk",
+            "nodeTime": 1682503022001,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "nah bitch I'll run",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682503041168,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        },
+        {
+            "content": "Stop where you are, private Tally. Running is not an option. Please identify yourself and state your business in this area. I am here to keep the peace and ensure the safety of the civilians. Please cooperate.",
+            "speaker": "BLUFOR_english_PRIVATE_Police-0wPawflSdBk",
+            "nodeTime": 1682503041168,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                6
+            ]
+        }
+    ]
+}

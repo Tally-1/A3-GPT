@@ -9,10 +9,5 @@ async function A3GPTstream(this:RequestManager) {
         await this.handleRequests();
 
         await sleep(100);
-
-        if(this.profileRequests.length > 0 
-            && !this.profileProcessing){
-                this.processBackLog();
-        };
     };
 };

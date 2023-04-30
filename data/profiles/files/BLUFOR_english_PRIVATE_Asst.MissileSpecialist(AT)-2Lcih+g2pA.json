@@ -1,15 +1,1 @@
-{
-  "id":          "BLUFOR_english_PRIVATE_Asst.MissileSpecialist(AT)-2Lcih+g2pA",
-  "name":        "Matthew Turner",
-  "language":    "english",
-  "ethnicity":   "west european",
-  "faction":     "BLUFOR",
-  "rank":        "PRIVATE",
-  "role":        "Asst. Missile Specialist (AT)",
-
-  "age":            "32",
-  "religion":       "Christian",
-  "marital_status": "married",
-  "personality":    "determined",
-  "story":          "Matthew Turner grew up in a military family, his father was in the army and his mother was a nurse. Growing up, Matthew was always fascinated by military equipment and dreamed of one day being a part of it. He joined the army as soon as he turned 18 and has been quickly rising through the ranks ever since. He is now married to his high school sweetheart and they have two children together."
-}
+{"id":"BLUFOR_english_PRIVATE_Asst.MissileSpecialist(AT)-2Lcih+g2pA","name":"Samuel Hall","language":"english","ethnicity":"west european","faction":"BLUFOR","rank":"PRIVATE","role":"Asst. Missile Specialist (AT)","age":"32","marital_status":"married","personality":"determined","story":"Matthew Turner grew up in a military family, his father was in the army and his mother was a nurse. Growing up, Matthew was always fascinated by military equipment and dreamed of one day being a part of it. He joined the army as soon as he turned 18 and has been quickly rising through the ranks ever since. He is now married to his high school sweetheart and they have two children together."}

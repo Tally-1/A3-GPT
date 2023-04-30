@@ -1,0 +1,147 @@
+{
+    "fileName": "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo && BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A.json",
+    "participants": [
+        "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo",
+        "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Be social'<br/><br/>Location: (Le Port)<br/>Position: [8179,3137]<br/><br/>Task:<br/>He finally has a day of. After spending day and night working to connect Chat-GPT to arma 3 he can relax. Go and Talk to as many people as possible.<br/><br/>Henry Campbell has the following mission:<br/> 'Hide from criminal assasins. Henry Campbell's old enemies have sent armed criminals to take him out. '<br/><br/>Location: (Le Port)<br/>Position: [8197,3131]<br/><br/>Task:<br/><br/><br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1682869603679,
+    "irlTimeLast": 1682869700144,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        2
+    ],
+    "messages": [
+        {
+            "content": "FookFace!",
+            "speaker": "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo",
+            "nodeTime": 1682869605013,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "I don't have time for games, Tally. I have bigger things to worry about. You should focus on your work instead of trying to bother others.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1682869605013,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "NOOOOO!",
+            "speaker": "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo",
+            "nodeTime": 1682869629051,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Sshh! Keep your voice down, Tally. I'm in hiding from dangerous criminals. I can't risk being found. Please, go about your business and be careful out there.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1682869629051,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "BUUUT UR UGLY DIKFACE",
+            "speaker": "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo",
+            "nodeTime": 1682869651998,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Tally, I don't have time for insults. I need to focus on staying alive right now. Please, just leave me be and stay safe out there.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1682869651998,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "I'll go tell the assasin over there that you are here",
+            "speaker": "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo",
+            "nodeTime": 1682869680104,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "NO! Tally, don't do that. You could get yourself and me killed. Please, just stay away from those people and keep yourself safe.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1682869680104,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "bah ugly",
+            "speaker": "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo",
+            "nodeTime": 1682869700144,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        },
+        {
+            "content": "Enough, Tally. I don't have time for your childish insults. My life is in danger and I need to focus on staying alive. Please, go about your business and stay safe out there.",
+            "speaker": "BLUFOR_english_COLONEL_Officer(ParadeDress)-gxW+Fzgc56A",
+            "nodeTime": 1682869700144,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                2
+            ]
+        }
+    ]
+}

@@ -1,15 +1,1 @@
-{
-  "id":          "BLUFOR_english_SERGEANT_SquadLeader-hHBPbsbou1U",
-  "name":        "Reggie Wright",
-  "language":    "english",
-  "ethnicity":   "south european",
-  "faction":     "BLUFOR",
-  "rank":        "SERGEANT",
-  "role":        "Squad Leader",
-
-  "age":            "31",
-  "religion":       "Christian",
-  "marital_status": "married",
-  "personality":    "outgoing",
-  "story":          "Reggie joined the military right after graduating college with a degree in History. He has risen through the ranks quickly due to his natural leadership abilities and dedication to his team. Reggie is married with two children, and while he sometimes struggles with balancing his role as a father and his duties in the military, he knows that he is serving his country and making a difference."
-}
+{"id":"BLUFOR_english_SERGEANT_SquadLeader-hHBPbsbou1U","name":"Charlie Spiegelman","language":"english","ethnicity":"south european","faction":"BLUFOR","rank":"SERGEANT","role":"Squad Leader","age":"31","marital_status":"married","personality":"outgoing","story":"Reggie joined the military right after graduating college with a degree in History. He has risen through the ranks quickly due to his natural leadership abilities and dedication to his team. Reggie is married with two children, and while he sometimes struggles with balancing his role as a father and his duties in the military, he knows that he is serving his country and making a difference."}

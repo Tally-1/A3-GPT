@@ -1,0 +1,171 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI && INDEPENDENT_polish_PRIVATE_Informant(criminal)-GQTJB1z2dY.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+        "INDEPENDENT_polish_PRIVATE_Informant(criminal)-GQTJB1z2dY"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Take out the colonel'<br/><br/>Location: (Le Port)<br/>Position: [8164,3102]<br/><br/>Task:<br/>Tally's boss has tasked Tally with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Gregor Zleip has the following mission:<br/> 'Tell the assasin (shotgun) that Henry Cambell is hiding in the curch. Tell the Looters that the weapons cache can be found in the two story building next to the grave-yard.'<br/><br/>Location: (Le Port)<br/>Position: [8161,3116]<br/><br/>Task:<br/><br/><br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1682479146878,
+    "irlTimeLast": 1682502716670,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        22,
+        16
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        1
+    ],
+    "messages": [
+        {
+            "content": "Hey man!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479150528,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                16
+            ]
+        },
+        {
+            "content": "'Hello Tally. I have what you're looking for. Colonel Cambell is hiding in the church. And for the looters, the weapons cache is in the two-story building next to the graveyard. But be careful, there's a patrol nearby. Good luck.'",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Informant(criminal)-GQTJB1z2dY",
+            "nodeTime": 1682479150528,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                16
+            ]
+        },
+        {
+            "content": "Hey man",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682482056710,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hello Tally, what do you need information on today? I'm always happy to help out a fellow soldier. What's the latest mission you've been given?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Informant(criminal)-GQTJB1z2dY",
+            "nodeTime": 1682482056710,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "I am looking for a colonel",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682482076325,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Heard rumors that Colonel Henry Campbell may be hiding in the church in Le Port. Can't confirm anything more without risking my cover. Be careful, Tally.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Informant(criminal)-GQTJB1z2dY",
+            "nodeTime": 1682482076325,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "thank you!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682482091729,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "No problem, Tally. Remember, you didn't hear it from me. Good luck with your mission.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Informant(criminal)-GQTJB1z2dY",
+            "nodeTime": 1682482091729,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "What's up man?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682502685991,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Good day, Tally. I have intel on the whereabouts of Colonel Henry Campbell. He is hiding in the church in Le Port. Is that all you need from me?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Informant(criminal)-GQTJB1z2dY",
+            "nodeTime": 1682502685991,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "That is more than enough",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682502716670,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Yes, that's all I have for you, Tally. But be careful, there may be others looking for the Colonel as well. Good luck with your mission.",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Informant(criminal)-GQTJB1z2dY",
+            "nodeTime": 1682502716670,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        }
+    ]
+}

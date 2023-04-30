@@ -1,15 +1,1 @@
-{
-  "id":          "OPFOR_greek_PRIVATE_Rifleman(LightAT)-UF7NAZV7NVk",
-  "name":        "Elias Manago",
-  "language":    "greek",
-  "ethnicity":   "european",
-  "faction":     "OPFOR",
-  "rank":        "PRIVATE",
-  "role":        "Rifleman (Light AT)",
-
-  "age":            28,
-  "religion":       "Orthodox",
-  "marital_status": "Married",
-  "personality":    "Loyal and disciplined",
-  "story":          "Elias Manago comes from a military family and has been trained in combat since a young age. He takes his role as a soldier seriously and is known for his impeccable aim and calm under pressure."
-}
+{"id":"OPFOR_greek_PRIVATE_Rifleman(LightAT)-UF7NAZV7NVk","name":"Janos Melidoni","language":"greek","ethnicity":"european","faction":"OPFOR","rank":"PRIVATE","role":"Rifleman (Light AT)","age":28,"marital_status":"Married","personality":"Loyal and disciplined","story":"Elias Manago comes from a military family and has been trained in combat since a young age. He takes his role as a soldier seriously and is known for his impeccable aim and calm under pressure."}

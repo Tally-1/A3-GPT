@@ -1,0 +1,51 @@
+{
+    "fileName": "INDEPENDENT_french_PRIVATE_Guard(MachineGun)-48hFRURmZM8 && CIVILIAN_english_civilian_WomanDressElegant-e3ZPWgyH5M4.json",
+    "participants": [
+        "INDEPENDENT_french_PRIVATE_Guard(MachineGun)-48hFRURmZM8",
+        "CIVILIAN_english_civilian_WomanDressElegant-e3ZPWgyH5M4"
+    ],
+    "situation": "<br/><br/><br/><br/>",
+    "location": "300 meters east of Nicolet (Tanoa)",
+    "irlTimeFirst": 1682202506408,
+    "irlTimeLast": 1682202507427,
+    "gameTimeFirst": [
+        2035,
+        6,
+        6,
+        12,
+        0
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        6,
+        12,
+        0
+    ],
+    "messages": [
+        {
+            "content": "hello!",
+            "speaker": "INDEPENDENT_french_PRIVATE_Guard(MachineGun)-48hFRURmZM8",
+            "nodeTime": 1682202507427,
+            "ingameTime": [
+                2035,
+                6,
+                6,
+                12,
+                0
+            ]
+        },
+        {
+            "content": "Hello there! It's always nice to meet new people. What brings you out here today?",
+            "speaker": "CIVILIAN_english_civilian_WomanDressElegant-e3ZPWgyH5M4",
+            "nodeTime": 1682202507427,
+            "ingameTime": [
+                2035,
+                6,
+                6,
+                12,
+                0
+            ]
+        }
+    ]
+}

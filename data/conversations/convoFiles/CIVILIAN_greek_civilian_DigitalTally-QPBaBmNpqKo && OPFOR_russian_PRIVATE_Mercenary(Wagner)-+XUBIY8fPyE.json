@@ -1,0 +1,99 @@
+{
+    "fileName": "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo && OPFOR_russian_PRIVATE_Mercenary(Wagner)-+XUBIY8fPyE.json",
+    "participants": [
+        "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo",
+        "OPFOR_russian_PRIVATE_Mercenary(Wagner)-+XUBIY8fPyE"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Be social'<br/><br/>Location: (Le Port)<br/>Position: [8179,3137]<br/><br/>Task:<br/>He finally has a day of. After spending day and night working to connect Chat-GPT to arma 3 he can relax. Go and Talk to as many people as possible.<br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1682869804952,
+    "irlTimeLast": 1682869875715,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        10,
+        4
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        5
+    ],
+    "messages": [
+        {
+            "content": "uuh look at that gun!",
+            "speaker": "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo",
+            "nodeTime": 1682869806167,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "'Yes, it's my trusty AK, always by my side. But what brings someone like you to a place like this? Looking for trouble, or just some friendly conversation?'",
+            "speaker": "OPFOR_russian_PRIVATE_Mercenary(Wagner)-+XUBIY8fPyE",
+            "nodeTime": 1682869806167,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "I wanted to grab myself a gun",
+            "speaker": "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo",
+            "nodeTime": 1682869831776,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "'Buying a gun is not as simple as just asking for one, especially in a place like Le Port. You need to have the right connections and enough money. But, if you're actually looking for some friendly conversation, I'm happy to chat. What brings you to Malden?'",
+            "speaker": "OPFOR_russian_PRIVATE_Mercenary(Wagner)-+XUBIY8fPyE",
+            "nodeTime": 1682869831776,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "Can I grab a gun from one of these crates?",
+            "speaker": "CIVILIAN_greek_civilian_DigitalTally-QPBaBmNpqKo",
+            "nodeTime": 1682869875715,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "No, those crates are not for civilians. You want to be careful around here, things can get dangerous fast. I suggest you find a safer activity for your day off, like exploring the beautiful scenery of Malden.",
+            "speaker": "OPFOR_russian_PRIVATE_Mercenary(Wagner)-+XUBIY8fPyE",
+            "nodeTime": 1682869875715,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        }
+    ]
+}

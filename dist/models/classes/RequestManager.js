@@ -19,16 +19,23 @@ const avgPromptTime_1 = __importDefault(require("../methods/RequestManager/avgPr
 const A3GPTstream_1 = __importDefault(require("../methods/RequestManager/A3GPTstream"));
 const processBackLog_1 = __importDefault(require("../methods/RequestManager/processBackLog"));
 const events_1 = __importDefault(require("events"));
-const fs_1 = __importDefault(require("fs"));
 const onNewRequest_1 = __importDefault(require("../methods/RequestManager/onNewRequest"));
+const initConfig_1 = __importDefault(require("../methods/RequestManager/initConfig"));
+const checkApiKey_1 = __importDefault(require("../methods/RequestManager/checkApiKey"));
+const initDbFiles_1 = __importDefault(require("../methods/RequestManager/initDbFiles"));
+const logRequestFail_1 = __importDefault(require("../methods/RequestManager/logRequestFail"));
 class RequestManager extends events_1.default {
     constructor(rootFolder, dataFolder, includeBatchFile = false) {
         super();
         this.GPT3PromptTimes = [];
         this.profileRequests = [];
         this.profileProcessing = false;
+        this.prevProfileRequestTime = 0;
         this.inIniLastCleared = 0;
         this.currentMap = "unknown";
+        this.initConfig = initConfig_1.default;
+        this.initDbFiles = initDbFiles_1.default;
+        this.checkApiKey = checkApiKey_1.default;
         this.createBatchFile = createBatchFile_1.default;
         this.A3GPTstream = A3GPTstream_1.default;
         this.handleRequests = handleRequests_1.default;
@@ -41,30 +48,21 @@ class RequestManager extends events_1.default {
         this.globalHint = globalHint_1.default;
         this.a3DebugMsg = a3DebugMsg_1.default;
         this.sendVersion = sendVersion_1.default;
-        const path = require('path');
-        let cfgPath = path.join(rootFolder, "DCO-config.cfg");
-        if (!fs_1.default.existsSync(cfgPath)) {
-            cfgPath = path.join(rootFolder, "..", "DCO-config.cfg");
-        }
-        ;
-        if (!fs_1.default.existsSync(cfgPath)) {
-            console.log("A3GPT: 'DCO-config.cfg' not found. Please create one in the root folder");
-            console.log("Exiting...");
-            process.exit(1);
-        }
-        ;
-        const { iniFolder, apiKey } = RequestManager.parseCfg(cfgPath);
+        const { iniFolder, apiKey } = this.initConfig(rootFolder);
         this.rootFolder = rootFolder;
         this.dataFolder = dataFolder;
         this.iniDbi2Path = iniFolder;
         this.apiKey = apiKey;
+        this.initDbFiles();
         if (includeBatchFile)
             this.createBatchFile();
+        this.checkApiKey();
         this.on("newRequest", this.onNewRequest);
     }
     ;
 }
 exports.default = RequestManager;
+RequestManager.logRequestFail = logRequestFail_1.default;
 RequestManager.parseCfg = parseCfg_1.default;
 RequestManager.promptGpt3 = promptGpt3_1.default;
 RequestManager.openAiCompletion = openAiCompletion_1.default;

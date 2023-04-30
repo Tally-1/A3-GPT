@@ -1,15 +1,1 @@
-{
-  "id":          "BLUFOR_greek_SERGEANT_SquadLeader-i3gctvDf+jg",
-  "name":        "Kostas Moritiadou",
-  "language":    "greek",
-  "ethnicity":   "european",
-  "faction":     "BLUFOR",
-  "rank":        "SERGEANT",
-  "role":        "Squad Leader",
-
-  "age":            "32",
-  "religion":       "Christian",
-  "marital_status": "Married",
-  "personality":    "Confident and assertive but also empathetic and compassionate.",
-  "story":          "Kostas comes from a long line of army men, his father and grandfather both served in the Greek military. He joined the army as soon as he was eligible and quickly rose through the ranks due to his determination and leadership skills. He is highly respected by his men and his superiors alike."
-}
+{"id":"BLUFOR_greek_SERGEANT_SquadLeader-i3gctvDf+jg","name":"Andreas Vidales","language":"greek","ethnicity":"european","faction":"BLUFOR","rank":"SERGEANT","role":"Squad Leader","age":"32","marital_status":"Married","personality":"Confident and assertive but also empathetic and compassionate.","story":"Kostas comes from a long line of army men, his father and grandfather both served in the Greek military. He joined the army as soon as he was eligible and quickly rose through the ranks due to his determination and leadership skills. He is highly respected by his men and his superiors alike."}

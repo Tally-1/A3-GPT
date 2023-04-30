@@ -1,14 +1,1 @@
-{
-  "id": "BLUFOR_english_PRIVATE_CombatLifeSaver-BQlA+fUl7qQ",
-  "name": "Charlie Morris",
-  "language": "english",
-  "ethnicity": "south european",
-  "faction": "BLUFOR",
-  "rank": "PRIVATE",
-  "role": "Combat Life Saver",
-  "age": "32",
-  "religion": "Christianity",
-  "marital_status": "married",
-  "personality": "dedicated and selfless",
-  "story": "Charlie Morris was born and raised in a small village in the south of Europe. He joined the military right after finishing high school as he wanted to serve his country and protect his fellow citizens. Charlie is a hardworking and dedicated individual who always puts the needs of others above his own. He has spent the last few years working as a Combat Life Saver in the army, helping his fellow soldiers on and off the battlefield. Charlie is married with two children, a son and a daughter."
-}
+{"id":"BLUFOR_english_PRIVATE_CombatLifeSaver-BQlA+fUl7qQ","name":"Benjamin Walker","language":"english","ethnicity":"south european","faction":"BLUFOR","rank":"PRIVATE","role":"Combat Life Saver","age":"32","marital_status":"married","personality":"dedicated and selfless","story":"Charlie Morris was born and raised in a small village in the south of Europe. He joined the military right after finishing high school as he wanted to serve his country and protect his fellow citizens. Charlie is a hardworking and dedicated individual who always puts the needs of others above his own. He has spent the last few years working as a Combat Life Saver in the army, helping his fellow soldiers on and off the battlefield. Charlie is married with two children, a son and a daughter."}

@@ -11,35 +11,34 @@ async function generateProfile(knownData, log = false, apiKey) {
         const isMarried = (age < 25) ? Math.random() < 0.05 : (age > 25) ? Math.random() < 0.5 : false;
         const maritalStatus = isMarried ? "married" : "single";
         const hasChildren = isMarried && (age > 30) ? Math.random() < 0.5 : false;
+        const jsonFile = `{
+  \"id\":             \"${identifier}\",
+  \"name\":           \"${name}\",
+  \"language\":       \"${language}\",
+  \"ethnicity\":      \"${ethnicity}\",
+  \"faction\":        \"${faction}\",
+  \"rank\":           \"${rank}\",
+  \"role\":           \"${role}\",
+  \"age\":            \"${age}\",
+  \"religion\":       \"\",
+  \"marital_status\": \"${maritalStatus}\",
+  \"personality\":    \"\",
+  \"story\":          \"\"
+}`;
         let prompt = `I need profile data for a character in the game Arma 3.\n`
-            + `Build a JSON file with the following structure:
-  {
-    \"id\":          \"${identifier}\",
-    \"name\":        \"${name}\",
-    \"language\":    \"${language}\",
-    \"ethnicity\":   \"${ethnicity}\",
-    \"faction\":     \"${faction}\",
-    \"rank\":        \"${rank}\",
-    \"role\":        \"${role}\",
-    \"age\":         \"${age}\",
-
-    \"religion\":       \"\",
-    \"marital_status\": \"${maritalStatus}\",
-    \"personality\":    \"\",
-    \"story\":          \"\"
-  }\n`
+            + `Build a JSON file with the following structure:\n`
+            + `${jsonFile}\n`
             + `Fill in the empty fields.\n`
             + `Do not use linebreaks in the fields.\n`
             + `Religion cannot be atheist.\n`;
         if (hasChildren)
             prompt += `The character has children.\n`;
-        const reply = await RequestManager_1.default.promptGpt3(prompt, "gpt-3.5-turbo", apiKey);
-        if (log)
-            console.dir(JSON.parse(reply));
+        const reply = await RequestManager_1.default.promptGpt3(prompt, apiKey, "gpt-3.5-turbo");
         return reply;
     }
     catch (error) {
-        return ("error-" + error.message);
+        console.log(error);
+        return ("{error:'" + error.message + ",'code:" + error.code + "}");
     }
 }
 exports.default = generateProfile;

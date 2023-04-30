@@ -1,14 +1,1 @@
-{
-  "id": "BLUFOR_english_SERGEANT_Marksman-4WujkWxMnA",
-  "name": "Joseph Snowe",
-  "language": "english",
-  "ethnicity": "west european",
-  "faction": "BLUFOR",
-  "rank": "SERGEANT",
-  "role": "Marksman",
-  "age": "28",
-  "religion": "Christian",
-  "marital_status": "single",
-  "personality": "determined",
-  "story": "Joseph grew up in England and joined the army straight out of high school. He quickly proved himself to his superiors and was assigned to specialized training in marksmanship. He takes his job seriously and always strives for perfection in his work."
-}
+{"id":"BLUFOR_english_SERGEANT_Marksman-4WujkWxMnA","name":"Rhys Jackson","language":"english","ethnicity":"west european","faction":"BLUFOR","rank":"SERGEANT","role":"Marksman","age":"28","marital_status":"single","personality":"determined","story":"Joseph grew up in England and joined the army straight out of high school. He quickly proved himself to his superiors and was assigned to specialized training in marksmanship. He takes his job seriously and always strives for perfection in his work."}

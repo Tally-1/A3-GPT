@@ -1,15 +1,1 @@
-{
-  "id":          "BLUFOR_english_CORPORAL_MissileSpecialist(AT)-vXC2lS1V1ho",
-  "name":        "Daniel Campbell",
-  "language":    "english",
-  "ethnicity":   "west european",
-  "faction":     "BLUFOR",
-  "rank":        "CORPORAL",
-  "role":        "Missile Specialist (AT)",
-
-  "age":            "32",
-  "religion":       "Christian",
-  "marital_status": "married",
-  "personality":    "courageous, resourceful, responsible",
-  "story":          "Daniel was born in a military family, and since he was young, he was fascinated by weapons and explosives. After finishing high school, he enlisted in the army and moved up the ranks quickly thanks to his skills and hard work. He's been deployed in several missions and has faced many tough situations, but he always managed to keep a level head and get the job done."
-}
+{"id":"BLUFOR_english_CORPORAL_MissileSpecialist(AT)-vXC2lS1V1ho","name":"Chris Davis","language":"english","ethnicity":"west european","faction":"BLUFOR","rank":"CORPORAL","role":"Missile Specialist (AT)","age":"32","marital_status":"married","personality":"courageous, resourceful, responsible","story":"Daniel was born in a military family, and since he was young, he was fascinated by weapons and explosives. After finishing high school, he enlisted in the army and moved up the ranks quickly thanks to his skills and hard work. He's been deployed in several missions and has faced many tough situations, but he always managed to keep a level head and get the job done."}

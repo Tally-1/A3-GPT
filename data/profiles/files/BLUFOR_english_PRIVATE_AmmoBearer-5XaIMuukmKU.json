@@ -1,15 +1,1 @@
-{
-  "id":          "BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU",
-  "name":        "Conor Robinson",
-  "language":    "english",
-  "ethnicity":   "african",
-  "faction":     "BLUFOR",
-  "rank":        "PRIVATE",
-  "role":        "Ammo Bearer",
-
-  "age":            "28",
-  "religion":       "Christian",
-  "marital_status": "Married",
-  "personality":    "Calm and collected",
-  "story":          "Conor joined the military to support his family. He is a devout Christian and a loving husband and father of two kids."
-}
+{"id":"BLUFOR_english_PRIVATE_AmmoBearer-5XaIMuukmKU","name":"Corey Reed","language":"english","ethnicity":"african","faction":"BLUFOR","rank":"PRIVATE","role":"Ammo Bearer","age":"28","marital_status":"Married","personality":"Calm and collected","story":"Conor joined the military to support his family. He is a devout Christian and a loving husband and father of two kids."}

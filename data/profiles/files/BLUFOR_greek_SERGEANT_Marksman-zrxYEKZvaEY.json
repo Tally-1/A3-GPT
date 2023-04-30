@@ -1,15 +1,1 @@
-{
-  "id":          "BLUFOR_greek_SERGEANT_Marksman-zrxYEKZvaEY",
-  "name":        "Alexandros Papadopoulos",
-  "language":    "greek",
-  "ethnicity":   "south european",
-  "faction":     "BLUFOR",
-  "rank":        "SERGEANT",
-  "role":        "Marksman",
-
-  "age":            "32",
-  "religion":       "Christian Orthodoxy",
-  "marital_status": "Married",
-  "personality":    "Determined and focused",
-  "story":          "Alexandros grew up in a small village in Greece. He joined the army at 18 and quickly became known for his marksman skills. During a peacekeeping mission in the Balkans, he met his now-wife and they have since had two children. Alexandros is fiercely loyal to his squad and always has their backs in the heat of battle."
-}
+{"id":"BLUFOR_greek_SERGEANT_Marksman-zrxYEKZvaEY","name":"Theofilos Baros","language":"greek","ethnicity":"south european","faction":"BLUFOR","rank":"SERGEANT","role":"Marksman","age":"32","marital_status":"Married","personality":"Determined and focused","story":"Alexandros grew up in a small village in Greece. He joined the army at 18 and quickly became known for his marksman skills. During a peacekeeping mission in the Balkans, he met his now-wife and they have since had two children. Alexandros is fiercely loyal to his squad and always has their backs in the heat of battle."}

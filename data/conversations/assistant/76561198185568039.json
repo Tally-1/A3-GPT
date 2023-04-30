@@ -1,0 +1,41 @@
+{
+  "userId": "76561198185568039",
+  "messages": [
+    {
+      "name": "kk",
+      "location": "1.1 kilometers north-east of Dorida",
+      "position": [
+        20014,
+        14098
+      ],
+      "message": "hi",
+      "reply": "Request failed with status code 429",
+      "model": "gpt3",
+      "promptData": [
+        "273 characters",
+        "44 words",
+        "33 - 136.5 tokens"
+      ],
+      "responseTime": 502,
+      "send-time": 1682872501992
+    },
+    {
+      "name": "kk",
+      "location": "1.1 kilometers north-east of Dorida",
+      "position": [
+        20014,
+        14098
+      ],
+      "message": "hi",
+      "reply": "Assistant: Hello kk, how can I assist you today in your Arma 3 gameplay? Please let me know if you need any help with items, equipment, or navigation to your next objective.",
+      "model": "gpt3",
+      "promptData": [
+        "363 characters",
+        "56 words",
+        "42 - 181.5 tokens"
+      ],
+      "responseTime": 1284,
+      "send-time": 1682872641655
+    }
+  ]
+}

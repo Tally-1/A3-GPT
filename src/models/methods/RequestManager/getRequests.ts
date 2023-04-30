@@ -11,62 +11,40 @@ const ini = require("ini");
 // Then the requests are processed and the ini file is cleared.
 
 export default
-function getRequests(this:RequestManager) {try{
-
+function getRequests(this:RequestManager) {
+    
+    const requests      = [] as unknown as [string[]];
+    const ids           = [] as unknown as string[];
     const A3RequestFile = path.join(this.iniDbi2Path, "A3-GPT_out.ini");
-    const content = fs.readFileSync(A3RequestFile, 'utf-8');
+    const lines         = fs.readFileSync(A3RequestFile, 'utf-8').split("\n");
 
-    const requestList = (ini.parse(content))['A3-GPT_out'];
-    const requestIds = Object.keys(requestList);
+    let i = 0;
+    for (const line of lines) {
 
-    const requests = [] as unknown as [string[]];
+        const splitPoint = line.indexOf("="); 
+        const id = line.slice(0, splitPoint);
+        const rawRequest = line.slice(splitPoint + 1).trim();
 
-    for (const id of requestIds) {
-    
-        
-        const requestString = requestList[id];
-
-        if(requestString !== undefined){
-            let rqstr = toANSI(requestString)
-            let type;
-            let data;
-
-            try {[type, data] = this.parseStringArr(rqstr)}catch(e)
-            {
-                rqstr = rqstr.replace(/""/g, '"').replace(/""/g, '"').replace(/""/g, '"');
-                [type, data] = this.parseStringArr(rqstr)
-            }
+        if(id !== undefined 
+        && rawRequest !== undefined
+        && rawRequest.length > 0
+        && i>0){
             
+            ids.push(id);        
+            const parsedRequest = this.parseStringArr(rawRequest);
 
-            const request = [id, type, ...data];
-            requests.push(request);
-    
-    }};
+            if(parsedRequest !== undefined
+            && parsedRequest.length > 0
+            && typeof parsedRequest === "object"){
+                
+                const [type, data] = parsedRequest;
+                const request = [id, type, ...data];   
+                requests.push(request);
+            };
+        };
+        i++;
+    };
 
     return requests;
-
-}catch(error){
-    //@ts-ignore
-    // console.dir(error);
-    // process.exit(1);
-    console.log("error get requests");
-    return [];
-}
 }
 
-function toANSI(string:string) {
-
-    const nonAnsiMap = {
-      'á': 'a',
-      'é': 'e',
-      'í': 'i',
-      'ó': 'o',
-      'ú': 'u',
-      'ñ': 'n',
-      'ł': 'l'
-    };
-  
-    return string.replace(/[^\x00-\x7F]/g, function(match) {//@ts-ignore
-      return nonAnsiMap[match] || '';
-    });
-};

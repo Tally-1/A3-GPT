@@ -1,0 +1,243 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI && CIVILIAN_polish_civilian_PrivateSecurity-Azwkw24Ki7c.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+        "CIVILIAN_polish_civilian_PrivateSecurity-Azwkw24Ki7c"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Take out the colonel'<br/><br/>Location: (Le Port)<br/>Position: [8164,3102]<br/><br/>Task:<br/>Tally's boss has tasked Tally with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1682479648992,
+    "irlTimeLast": 1682502923523,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        22,
+        25
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        4
+    ],
+    "messages": [
+        {
+            "content": "Stop looking bitch",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479652360,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                25
+            ]
+        },
+        {
+            "content": "I am here to protect my client and ensure their safety. If you require any assistance, please let me know. However, I cannot stand by and watch you threaten or harm innocent individuals. Please refrain from using that language and approach this situation peacefully.",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-Azwkw24Ki7c",
+            "nodeTime": 1682479652360,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                25
+            ]
+        },
+        {
+            "content": "Did you see me shoot that guy?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479682890,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                25
+            ]
+        },
+        {
+            "content": "I did not see you shoot anyone, and I urge you to refrain from any violent behavior. It is my duty to protect the innocent and maintain peace in this area. I suggest we approach this situation calmly and thoughtfully. Let us work together to achieve our goals.",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-Azwkw24Ki7c",
+            "nodeTime": 1682479682890,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                25
+            ]
+        },
+        {
+            "content": "Fuck that, you're a faggot",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479708288,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                26
+            ]
+        },
+        {
+            "content": "I will not tolerate such language, Tally. I am here to ensure the safety of my client and maintain peace in this area. Please refrain from using derogatory language and let us approach this situation calmly and professionally. We must work together to achieve our goals.",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-Azwkw24Ki7c",
+            "nodeTime": 1682479708288,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                26
+            ]
+        },
+        {
+            "content": "Hpw was auswitch?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682481652703,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                14
+            ]
+        },
+        {
+            "content": "I'm sorry, I don't understand the question. As a private security contractor, I've never been to Auschwitz. Is there something I can assist you with regarding our current mission?",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-Azwkw24Ki7c",
+            "nodeTime": 1682481652703,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                14
+            ]
+        },
+        {
+            "content": "Our?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682481671056,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                15
+            ]
+        },
+        {
+            "content": "Yes, I am the contracted private security for this mission. How can I assist you, Tally?",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-Azwkw24Ki7c",
+            "nodeTime": 1682481671056,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                15
+            ]
+        },
+        {
+            "content": "hey man!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682481870018,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Hello there. I am here on a mission to guard the ATM and its customers. Please let me know if there is anything I can assist you with in terms of security measures or any suspicious activity you may have seen.",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-Azwkw24Ki7c",
+            "nodeTime": 1682481870018,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "I will...",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682481914090,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Thank you, Tally. Remember, my orders are to be extremely hostile to any assassins or criminals attempting to cause harm in this area. Do not engage in any violent behavior unless necessary, but be prepared to defend yourself and your clients. Stay safe and vigilant.",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-Azwkw24Ki7c",
+            "nodeTime": 1682481914090,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                1
+            ]
+        },
+        {
+            "content": "Hey, how can I get to Chapoi?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682483160676,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "You'll want to head north, about 1100 meters. You should be able to see it from there. Just be careful, Chapoi isn't the safest place around here.",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-Azwkw24Ki7c",
+            "nodeTime": 1682483160676,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Yooo",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682502923523,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        },
+        {
+            "content": "Hello there. Can I help you with something? I am currently on duty guarding this ATM and its customers. Any troublemakers will face the consequences.",
+            "speaker": "CIVILIAN_polish_civilian_PrivateSecurity-Azwkw24Ki7c",
+            "nodeTime": 1682502923523,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                4
+            ]
+        }
+    ]
+}

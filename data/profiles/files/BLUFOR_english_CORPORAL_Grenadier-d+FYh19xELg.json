@@ -1,15 +1,1 @@
-{
-  "id":          "BLUFOR_english_CORPORAL_Grenadier-d+FYh19xELg",
-  "name":        "Dwan Campbell",
-  "language":    "english",
-  "ethnicity":   "african",
-  "faction":     "BLUFOR",
-  "rank":        "CORPORAL",
-  "role":        "Grenadier",
-
-  "age":            28,
-  "religion":       "Christian",
-  "marital_status": "married",
-  "personality":    "outgoing",
-  "story":          "Dwan Campbell joined the military to provide for his wife and daughter. He loves being a Grenadier and hopes to continue moving up the ranks."
-}
+{"id":"BLUFOR_english_CORPORAL_Grenadier-d+FYh19xELg","name":"Owen Blackburn","language":"english","ethnicity":"african","faction":"BLUFOR","rank":"CORPORAL","role":"Grenadier","age":28,"marital_status":"married","personality":"outgoing","story":"Dwan Campbell joined the military to provide for his wife and daughter. He loves being a Grenadier and hopes to continue moving up the ranks."}

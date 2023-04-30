@@ -1,15 +1,1 @@
-{
-  "id":          "BLUFOR_english_SERGEANT_TeamLeader-l4TMhWT9vqo",
-  "name":        "Tyler Spiegelman",
-  "language":    "english",
-  "ethnicity":   "south european",
-  "faction":     "BLUFOR",
-  "rank":        "SERGEANT",
-  "role":        "Team Leader",
-
-  "age":            "32",
-  "religion":       "Christian",
-  "marital_status": "Married",
-  "personality":    "Confident and assertive, with a strong sense of duty and responsibility.",
-  "story":          "Tyler Spiegelman is a career soldier who has served in the military for over a decade. Despite his relatively young age, his experience and leadership skills have earned him a reputation as one of the best sergeants in his unit. He takes his role as a team leader very seriously and is always looking for ways to improve the performance of his squad. Tyler is married and has two children, which makes him particularly sensitive to the risks and challenges of a combat operation."
-}
+{"id":"BLUFOR_english_SERGEANT_TeamLeader-l4TMhWT9vqo","name":"Joshua Evans","language":"english","ethnicity":"south european","faction":"BLUFOR","rank":"SERGEANT","role":"Team Leader","age":"32","marital_status":"Married","personality":"Confident and assertive, with a strong sense of duty and responsibility.","story":"Tyler Spiegelman is a career soldier who has served in the military for over a decade. Despite his relatively young age, his experience and leadership skills have earned him a reputation as one of the best sergeants in his unit. He takes his role as a team leader very seriously and is always looking for ways to improve the performance of his squad. Tyler is married and has two children, which makes him particularly sensitive to the risks and challenges of a combat operation."}

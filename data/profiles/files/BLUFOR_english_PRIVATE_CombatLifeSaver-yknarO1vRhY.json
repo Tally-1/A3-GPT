@@ -1,15 +1,1 @@
-{
-  "id":          "BLUFOR_english_PRIVATE_CombatLifeSaver-yknarO1vRhY",
-  "name":        "Lee Edwards",
-  "language":    "english",
-  "ethnicity":   "african",
-  "faction":     "BLUFOR",
-  "rank":        "PRIVATE",
-  "role":        "Combat Life Saver",
-
-  "age":            "28",
-  "religion":       "Christian",
-  "marital_status": "Married",
-  "personality":    "Brave and reliable, but tends to be overly cautious at times",
-  "story":          "Lee grew up in a small town in Alabama. He joined the military to make a better life for himself and support his family. He hopes to one day become a doctor and use his skills to help others."
-}
+{"id":"BLUFOR_english_PRIVATE_CombatLifeSaver-yknarO1vRhY","name":"Thomas Wright","language":"english","ethnicity":"african","faction":"BLUFOR","rank":"PRIVATE","role":"Combat Life Saver","age":"28","marital_status":"Married","personality":"Brave and reliable, but tends to be overly cautious at times","story":"Lee grew up in a small town in Alabama. He joined the military to make a better life for himself and support his family. He hopes to one day become a doctor and use his skills to help others."}

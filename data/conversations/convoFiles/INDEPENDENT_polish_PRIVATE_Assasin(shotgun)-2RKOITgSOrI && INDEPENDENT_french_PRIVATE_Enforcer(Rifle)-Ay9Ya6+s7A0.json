@@ -1,0 +1,123 @@
+{
+    "fileName": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI && INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-Ay9Ya6+s7A0.json",
+    "participants": [
+        "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+        "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-Ay9Ya6+s7A0"
+    ],
+    "situation": "Tally has the following mission:<br/> 'Take out the colonel'<br/><br/>Location: (Le Port)<br/>Position: [8164,3102]<br/><br/>Task:<br/>Tally's boss has tasked Tally with finding and assasinating Colonel Henry Campbell. Our informant Gregor Zleip has information. If gregor does not confirm the correct location, then execute gregor for treason.<br/><br/>Kahakuhale Serevi has the following mission:<br/> 'Guard the kiosk. Make sure the police do not find out about the smuggling operation'<br/><br/>Location: (Le Port)<br/>Position: [8151,3105]<br/><br/>Task:<br/><br/><br/><br/><br/><br/>",
+    "location": "Le Port (Malden)",
+    "irlTimeFirst": 1682479111846,
+    "irlTimeLast": 1682502968199,
+    "gameTimeFirst": [
+        2035,
+        6,
+        24,
+        22,
+        16
+    ],
+    "gameTimeLast": [
+        2035,
+        6,
+        24,
+        10,
+        5
+    ],
+    "messages": [
+        {
+            "content": "that there is a pretty decent gun!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682479114761,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                16
+            ]
+        },
+        {
+            "content": "Thanks. It's a reliable weapon for the job. Speaking of jobs, have you found any intel on the target yet? I need to know what to keep an eye out for while guarding the kiosk.",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-Ay9Ya6+s7A0",
+            "nodeTime": 1682479114761,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                22,
+                16
+            ]
+        },
+        {
+            "content": "How do I get to chapoi?",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682483190406,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "Head east out of Le Port and follow the road until you reach a fork. Take the left road and follow it until you reach Chapoi, it's about 6 kilometers away. Be careful, there may be patrols along the way.",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-Ay9Ya6+s7A0",
+            "nodeTime": 1682483190406,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                0
+            ]
+        },
+        {
+            "content": "hey man!",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682502948435,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "'Sup, Tally. What's the situation?'",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-Ay9Ya6+s7A0",
+            "nodeTime": 1682502948435,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "Still looking for that asshole Colonel Henry",
+            "speaker": "INDEPENDENT_polish_PRIVATE_Assasin(shotgun)-2RKOITgSOrI",
+            "nodeTime": 1682502968199,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        },
+        {
+            "content": "'Copy that. I'll keep an eye out for any police activity. Stay safe out there.'",
+            "speaker": "INDEPENDENT_french_PRIVATE_Enforcer(Rifle)-Ay9Ya6+s7A0",
+            "nodeTime": 1682502968199,
+            "ingameTime": [
+                2035,
+                6,
+                24,
+                10,
+                5
+            ]
+        }
+    ]
+}

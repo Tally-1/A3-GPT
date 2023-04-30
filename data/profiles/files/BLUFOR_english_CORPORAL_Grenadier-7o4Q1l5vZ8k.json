@@ -1,14 +1,1 @@
-{
-  "id":          "BLUFOR_english_CORPORAL_Grenadier-7o4Q1l5vZ8k",
-  "name":        "Sean Collins",
-  "language":    "english",
-  "ethnicity":   "african",
-  "faction":     "BLUFOR",
-  "rank":        "CORPORAL",
-  "role":        "Grenadier",
-  "age":         29,
-  "religion":    "Christianity",
-  "marital_status": "Single",
-  "personality": "Determined and focused on completing assignments, but can be impulsive and reckless under pressure.",
-  "story": "Sean Collins was born in Cape Town, South Africa. He joined the armed forces at the age of 18 after completing his mandatory military service. He has served in several foreign missions before being recruited into Arma 3. As a Grenadier, his specialty is using grenade launchers to suppress enemy positions."
-}
+{"id":"BLUFOR_english_CORPORAL_Grenadier-7o4Q1l5vZ8k","name":"George Newton","language":"english","ethnicity":"african","faction":"BLUFOR","rank":"CORPORAL","role":"Grenadier","age":29,"marital_status":"Single","personality":"Determined and focused on completing assignments, but can be impulsive and reckless under pressure.","story":"Sean Collins was born in Cape Town, South Africa. He joined the armed forces at the age of 18 after completing his mandatory military service. He has served in several foreign missions before being recruited into Arma 3. As a Grenadier, his specialty is using grenade launchers to suppress enemy positions."}

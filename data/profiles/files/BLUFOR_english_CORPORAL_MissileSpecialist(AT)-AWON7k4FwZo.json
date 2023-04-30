@@ -1,14 +1,1 @@
-{
-  "id":          "BLUFOR_english_CORPORAL_MissileSpecialist(AT)-AWON7k4FwZo",
-  "name":        "Ewan Leahy",
-  "language":    "english",
-  "ethnicity":   "west european",
-  "faction":     "BLUFOR",
-  "rank":        "CORPORAL",
-  "role":        "Missile Specialist (AT)",
-  "age":         "28",
-  "religion":    "Christian",
-  "marital_status": "Single",
-  "personality": "Brave, adventurous, confident",
-  "story":       "Ewan Leahy joined the army as soon as he finished his schooling, eager to put his missile specialist training to use. He is a skilled soldier and is respected by his peers for his bravery in combat."
-}
+{"id":"BLUFOR_english_CORPORAL_MissileSpecialist(AT)-AWON7k4FwZo","name":"Sykes Hall","language":"english","ethnicity":"west european","faction":"BLUFOR","rank":"CORPORAL","role":"Missile Specialist (AT)","age":"28","marital_status":"Single","personality":"Brave, adventurous, confident","story":"Ewan Leahy joined the army as soon as he finished his schooling, eager to put his missile specialist training to use. He is a skilled soldier and is respected by his peers for his bravery in combat."}
